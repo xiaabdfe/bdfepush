@@ -1,5 +1,5 @@
 ﻿<head>
-Starting Guide
+	<title> Starting Guide </title>
 </head>
 
 ### Table of Contents
