@@ -69,6 +69,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-10.jpg" width="50" height="auto"> | 零刀マグロ | III | 回復<br> | 染めファランクス III<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-11.jpg" width="50" height="auto"> | レジェンドソード | 無 | - | 自分以外回復<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-12.jpg" width="50" height="auto"> | 斬りチョコ | IV | - | 号令 II<br>敵視<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-13.jpg" width="50" height="auto"> | 妖精の大剣 | 無 | - | デュエリング III<br>
 # <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="40"> ロッド
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火ロッド
 装備 | 名 | 適正枠 | 通常効果 | 必殺効果
@@ -133,6 +134,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-10.jpg" width="50" height="auto"> | ウナギスティック | III | - | 全体<br>マジックバリア<br>アスピル II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-11.jpg" width="50" height="auto"> | レジェンドスタッフ | 無 | バフ<br> | スプリット<br>早口 II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-12.jpg" width="50" height="auto"> | マジロリポップ | IV | - | リミブレ III<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-13.jpg" width="50" height="auto"> | キセキの杖 | 無 | - | 会心 III<br>
 # <img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="40"> ブック
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火ブック
 装備 | 名 | 適正枠 | 通常効果 | 必殺効果
@@ -197,6 +199,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-10.jpg" width="50" height="auto"> | ヒラカレざる禁書 | III | 攻撃<br> | 染めブレイブ III<br>BP回復<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-11.jpg" width="50" height="auto"> | レジェンドグリモア | 無 | 二列<br> | 回復<br>物攻物防魔攻魔防アップ<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-12.jpg" width="50" height="auto"> | チョコアソート | IV | バフ<br> | 二列<br>最大HP/BPアップ<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> BP回復<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-13.jpg" width="50" height="auto"> | リンネのキセキ | 無 | - | 回復<br>ブレイブ II<br>BP回復<br>
 # <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="40"> 双剣
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火双剣
 装備 | 名 | 適正枠 | 通常効果 | 必殺効果
@@ -261,6 +264,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-10.jpg" width="50" height="auto"> | サバイタルナイフ | III | - | 全体<br>防御無視<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-11.jpg" width="50" height="auto"> | レジェンドナイフ | 無 | - | フォーカス II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-12.jpg" width="50" height="auto"> | アラザンチョコフォンデュ | IV | 速い二段<br>必中<br>覚醒威力<br> | 双剣の構え<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> 列クイック I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-13.jpg" width="50" height="auto"> | ナンデストウ | 無 | - | みかわし III<br>
 # <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="40"> 弓
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火弓
 装備 | 名 | 適正枠 | 通常効果 | 必殺効果
@@ -325,3 +329,4 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-10.jpg" width="50" height="auto"> | タッチウォーガン | III | - | 全体<br>染めウィークネスフォースレス II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-11.jpg" width="50" height="auto"> | レジェンドボウ | 無 | 全体<br> | 全体<br>物攻物防魔攻魔防ダウン<br>ホークアイ II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-12.jpg" width="50" height="auto"> | アロアロキャンディ | IV | - | 風チェイサー II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> デバフ延長<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-13.jpg" width="50" height="auto"> | 妖精の弓 | 無 | - | 全体<br>染めウィークネス III<br>

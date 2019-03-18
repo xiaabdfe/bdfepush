@@ -13,7 +13,7 @@
 [Grimms Notes Repage](#-grimms-notes-repage) | [Kairisei Million Arthur](#-kairisei-million-arthur) | [Octopath Traveler](#-octopath-traveler) | [Summer 2018](#-summer-2018)
 [Japan Folklore](#-japan-folklore) | [Sports 2018](#-sports-2018) | [Halloween 2018](#-halloween-2018) | [Grimms Notes Repage](#-grimms-notes-repage)
 [Lotus](#-lotus) | [Sergeant Keroro](#-sergeant-keroro) | [Christmas 2018](#-christmas-2018) | [Valentine's 2019](#-valentines-2019)
-[Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | \-
+[Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | [2nd Anniversary](#-2nd-anniversary)
 
 # Fire Weapons
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Old Fire
@@ -582,5 +582,16 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-12.jpg" width="60" alt="White Mage"> | [チョコアソート](https://github.com/caelumff/bdfeguides/wiki/List-of-Weapons#-wind-books)<br>Choco Assort
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-12.jpg" width="60" alt="Thief"> | [アラザンチョコフォンデュ](https://github.com/caelumff/bdfeguides/wiki/List-of-Weapons#-wind-daggers)<br>Argent Choco Fondue
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-12.jpg" width="60" alt="Ranger"> | [アロアロキャンディ](https://github.com/caelumff/bdfeguides/wiki/List-of-Weapons#-wind-bows)<br>Arrow Arrow Candy
+
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> 2nd Anniversary
+**Slot: 0**<br>In many of the weapons, there is katakana キセキ which can mean either 軌跡 Traces or 奇跡 Miracle
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-13.jpg" width="60" alt="Knight"> | [妖精の大剣](https://github.com/caelumff/bdfeguides/wiki/List-of-Weapons#-wind-swords)<br>Fairy's Sword
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-13.jpg" width="60" alt="Black Mage"> | [キセキの杖](https://github.com/caelumff/bdfeguides/wiki/List-of-Weapons#-wind-rods)<br>Traces/Miracle Rod
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-13.jpg" width="60" alt="White Mage"> | [リンネのキセキ](https://github.com/caelumff/bdfeguides/wiki/List-of-Weapons#-wind-books)<br>Rinne's Traces/Miracle
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-13.jpg" width="60" alt="Thief"> | [ナンデストウ](https://github.com/caelumff/bdfeguides/wiki/List-of-Weapons#-wind-daggers)<br>Whaaat?! Dagger<br>It is a pun on *Nandesutou* that means *Whaaat?!* that Rinne often says and *tou* means *Dagger/Sword*
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-13.jpg" width="60" alt="Ranger"> | [妖精の弓](https://github.com/caelumff/bdfeguides/wiki/List-of-Weapons#-wind-bows)<br>Fairy's Bow
 
 

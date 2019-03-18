@@ -96,6 +96,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-10.jpg" width="60" height="auto"> | [Tuna](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-summer-2018) | 3 | Heal | Mono Phalanx 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-11.jpg" width="60" height="auto"> | [Legend](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-grimms-notes-repage) | 0 |  - | Allies Heal<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-12.jpg" width="60" height="auto"> | [Choco](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-valentines-2019) | 4 |  - | Command 2<br>Aggro<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-13.jpg" width="60" height="auto"> | [Rinne](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-2nd-anniversary) | 0 |  - | Dueling 3<br>
 # <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="40"> Rods
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Fire Rods
 EQ | Name | Slot | Auto | Special
@@ -160,6 +161,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-10.jpg" width="60" height="auto"> | [Unagi](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-summer-2018) | 3 |  - | AoE<br>Magic Barrier<br>Aspir 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-11.jpg" width="60" height="auto"> | [Legend](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-grimms-notes-repage) | 0 | Buff | Split<br>Fast Cast 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-12.jpg" width="60" height="auto"> | [Lollipop](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-valentines-2019) | 4 |  - | Limit Break 3<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-13.jpg" width="60" height="auto"> | [Rinne](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-2nd-anniversary) | 0 |  - | Critical 3<br>
 # <img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="40"> Books
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Fire Books
 EQ | Name | Slot | Auto | Special
@@ -224,6 +226,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-10.jpg" width="60" height="auto"> | [Flounder](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-summer-2018) | 3 | Attack | Mono Brave 3<br>BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-11.jpg" width="60" height="auto"> | [Legend](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-grimms-notes-repage) | 0 | 2 Row | Heal<br>PA/PD/MA/MD Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-12.jpg" width="60" height="auto"> | [Choco](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-valentines-2019) | 4 | Buff | 2 Row<br>HP/BP Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-13.jpg" width="60" height="auto"> | [Rinne](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-2nd-anniversary) | 0 |  - | Heal<br>Brave 2<br>BP Recovery<br>
 # <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="40"> Daggers
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Fire Daggers
 EQ | Name | Slot | Auto | Special
@@ -288,6 +291,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-10.jpg" width="60" height="auto"> | [Mackerel](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-summer-2018) | 3 |  - | AoE<br>Nuke<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-11.jpg" width="60" height="auto"> | [Legend](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-grimms-notes-repage) | 0 |  - | Focus 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-12.jpg" width="60" height="auto"> | [Fondue](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-valentines-2019) | 4 | Fast 2 Hit | Aim 100% | AWK Boost | Dagger Stance<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Row Quick 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-13.jpg" width="60" height="auto"> | [Rinne](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-2nd-anniversary) | 0 |  - | Dodge 3<br>
 # <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="40"> Bows
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Fire Bows
 EQ | Name | Slot | Auto | Special
@@ -347,10 +351,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-5.jpg" width="60" height="auto"> | [Twilight](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-twilight) | 4 |  - | PA/PD/MA/MD Down<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-6.jpg" width="60" height="auto"> | [Harp](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-music) | 5 | AoE | Mono Weakness/Forceless 1<br>Debuff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-7.jpg" width="60" height="auto"> | [Cupid](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-valentines-2018) | 1 |  - | Slow 2<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-8.jpg" width="60" height="auto"> | [Glitzy](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-glitzy) | 2 | AoE | AoE<br>Dispel<br>Poison Up 2<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-9.jpg" width="60" height="auto"> | [Illusion](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-bleach) | 0 |  - | Weakness 1<br>Forceless 1<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-10.jpg" width="60" height="auto"> | [Hairtail](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-summer-2018) | 3 |  - | AoE<br>Mono Weakness/Forceless 2<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-11.jpg" width="60" height="auto"> | [Legend](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-grimms-notes-repage) | 0 | 
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-8.jpg" width="60" height="auto"> | [Glitzy](https://github.com/caelumff/bdfeguides/wiki/Weapon-Names#-glitzy) | 2 | 
 
 
 # EX Weapons
