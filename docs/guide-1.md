@@ -1,4 +1,8 @@
-﻿### Table of Contents
+﻿<head>
+Starting Guide
+</head>
+
+### Table of Contents
 * [Jobs](#jobs)
 	* [Knight](#knight)
 	* [Black Mage](#black-mage)
