@@ -1,7 +1,3 @@
-﻿<head>
-	<title> Starting Guide </title>
-</head>
-
 ### Table of Contents
 * [Jobs](#jobs)
 	* [Knight](#knight)
