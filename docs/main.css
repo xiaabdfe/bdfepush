@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+	font: bold 25px Tahoma;
+}
+h2{
+	font: bold 20px Tahoma;
+}
+li{
+	font: 15px Tahoma;
+}
+header, section, footer, aside, nav, article, hgroup{
+	display:block;
+}
+body{
+	width:100%;
+	text-align:center;
+}
+#main_contents{/
+	margin: 20px auto;
+	text-align:left;
+}
+#sub_contents{
+	margin: 20px;
+}
+#top_header{
+	background: black;
+	color: white;
+	padding: 20;
+}
+#sub_contents li{
+	list-style:none;
+	padding: 5x;
+}
