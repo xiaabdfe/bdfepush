@@ -2,6 +2,12 @@
 	margin: 0px;
 	padding: 0px;
 }
+a:link{
+	color: black;
+}
+a:visited{
+	color: rgb(0,50,20);
+}
 h1{
 	font: bold 25px Tahoma;
 }
@@ -11,26 +17,73 @@ h2{
 li{
 	font: 15px Tahoma;
 }
+p{
+	font: 15px Tahoma;
+}
 header, section, footer, aside, nav, article, hgroup{
 	display:block;
 }
+section#sub_contents{
+	display:inline-block;
+	vertical-align:top;
+}
 body{
-	width:100%;
 	text-align:center;
+	background-image: url("bdfe_wall_08.png");
+	width: 100%;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 #main_contents{/
-	margin: 20px auto;
 	text-align:left;
 }
 #sub_contents{
 	margin: 20px;
+	justify-content:center;
+	text-align:left;
+}
+#sub_headings{
+	background: rgba(50,120,60,0.8);
+	color: white;
+	padding: 10px;
+	border-radius: 15px;
+	text-align: center;
+}
+#sub_bodies{
+	background: rgba(255,255,255,0.7);
+	border-radius: 15px;
+	padding: 10px;
+	padding-bottom: 20px;
 }
 #top_header{
-	background: black;
+	background: linear-gradient(to bottom, #031, #364);
 	color: white;
-	padding: 20;
+	padding: 15px;
+	border-radius: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: left;
 }
 #sub_contents li{
+	color: black;
 	list-style:none;
-	padding: 5x;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+}
+#twitter{
+	display: inline-block;
+	color: black;
+	float: right;
+	margin: 30px;
+	padding: 30px;
+}
+footer{
+	clear: both;
+	margin: 100px;
+	padding: 20px;
+	background: rgba(0,0,0,0.8);
+	color: white;
+	border-radius: 20px;
 }

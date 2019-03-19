@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-﻿### Table of Contents
-=======
-=======
->>>>>>> 815b08ca45373f974d24891a5e0d42ce2d066380
 ### Table of Contents
->>>>>>> 815b08ca45373f974d24891a5e0d42ce2d066380
 * [Jobs](#jobs)
 	* [Knight](#knight)
 	* [Black Mage](#black-mage)
