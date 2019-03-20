@@ -24,12 +24,13 @@
 	
 ### Table of Contents
 
-![Knight](https://caelum.s-ul.eu/4mCTfFw6.gif)<br>[Swords](#-swords) | ![Black Mage](https://caelum.s-ul.eu/9Cfbpmce.gif)<br>[Rods](#-rods) | ![White Mage](https://caelum.s-ul.eu/DkAtu3w5.gif)<br>[Books](#-books) | ![Thief](https://caelum.s-ul.eu/K1su7ZFm.gif)<br>[Daggers](#-daggers) | ![Ranger](https://caelum.s-ul.eu/PWHtYVMH.gif)<br>[Bows](#-bows)
----|---|---|---|---
-[Fire Swords](#-fire-swords) | [Fire Rods](#-fire-rods) | [Fire Books](#-fire-books) | [Fire Daggers](#-fire-daggers) | [Fire Bows](#-fire-bows)
-[Water Swords](#-water-swords) | [Water Rods](#-water-rods) | [Water Books](#-water-books) | [Water Daggers](#-water-daggers) | [Water Bows](#-water-bows)
-[Earth Swords](#-earth-swords) | [Earth Rods](#-earth-rods) | [Earth Books](#-earth-books) | [Earth Daggers](#-earth-daggers) | [Earth Bows](#-earth-bows)
-[Wind Swords](#-wind-swords) | [Wind Rods](#-wind-rods) | [Wind Books](#-wind-books) | [Wind Daggers](#-wind-daggers) | [Wind Bows](#-wind-bows)
+Category | <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Fire | <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Water | <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Earth | <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Wind
+:-:|:-:|:-:|:-:|:-:
+<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="25"> [Swords](#-swords) | [Fire Swords](#-fire-swords) | [Water Swords](#-water-swords) | [Earth Swords](#-earth-swords) | [Wind Swords](#-wind-swords)
+<img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="25"> [Rods](#-rods) | [Fire Rods](#-fire-rods) | [Water Rods](#-water-rods) | [Earth Rods](#-earth-rods) | [Wind Rods](#-wind-rods)
+<img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="25"> [Books](#-books) | [Fire Books](#-fire-books) | [Water Books](#-water-books) | [Earth Books](#-earth-books) | [Wind Books](#-wind-books)
+<img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="25"> [Daggers](#-daggers) | [Fire Daggers](#-fire-daggers) | [Water Daggers](#-water-daggers) | [Earth Daggers](#-earth-daggers) | [Wind Daggers](#-wind-daggers)
+<img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="25"> [Bows](#-bows) | [Fire Bows](#-fire-bows) | [Water Bows](#-water-bows) | [Earth Bows](#-earth-bows) | [Wind Bows](#-wind-bows)
 
 * [Collab Weapons Name Conversion](#collab-weapons-name-conversion)
 * [EX Weapons](#ex-weapons)
