@@ -1,3 +1,13 @@
+# Beginner's Guide: Starting
+### Directory
+* <a href="index.html">Index</a>
+* **Beginner's Guide: Starting**
+* <a href="guide-2">Beginner's Guide: Just Started</a>
+* <a href="guide-3">Beginner's Guide: Getting Stronger</a>
+* <a href="guide-4">Guide: Bossing</a>
+* <a href="guide-5">Guide: Inheritance</a>
+* <a href="guide-6">Guide: Medals</a>
+
 ### Table of Contents
 * [Jobs](#jobs)
 	* [Knight](#knight)

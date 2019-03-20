@@ -1,4 +1,5 @@
 ### Table of Contents
+
 [Hats](#hats) | [Chests](#chests) | [Pants](#pants)
 ---|---|---
 [Old Hats](#old-hats) | [Old Chests](#old-chests) | [Old Pants](#old-pants)
@@ -29,6 +30,7 @@
 
 # Hats
 ## Old Hats
+
 Series | Job | Slot | (Slot) Effects
 ---|:-:|:-:|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"><img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"><img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Job | ****Normal Effects**** | - | Reload -3s per <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> auto
@@ -136,13 +138,13 @@ Series | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight">
 	* <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> auto attack power +40
 	* <img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> damage +15%
 
-	Job | Slot | Slot Effects
-	:-:|:-:|---
-	<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight"> | 1 | 20% damage received -30%
-	<img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30" alt="Black Mage"> | 1 | 20% recover BP 1
-	<img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30" alt="White Mage"> | 1 | 20% Mind 1 (30s)
-	<img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30" alt="Thief"> | 1 | 20% reflect 30% damage
-	<img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30" alt="Ranger"> | 1 | 30% inflict poison (30s)
+Job | Slot | Slot Effects
+:-:|:-:|---
+<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight"> | 1 | 20% damage received -30%
+<img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30" alt="Black Mage"> | 1 | 20% recover BP 1
+<img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30" alt="White Mage"> | 1 | 20% Mind 1 (30s)
+<img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30" alt="Thief"> | 1 | 20% reflect 30% damage
+<img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30" alt="Ranger"> | 1 | 30% inflict poison (30s)
 
 *All in the table below have the same following effects:*
 * <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> special power +40
@@ -289,11 +291,11 @@ Series | Effects | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt
 * <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> **Aldebaran**: Poison/Stat-down +35
 	* <img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> Earth resistance +10%
 
-	Job | Slot | Slot Effects
-	:-:|:-:|---
-	<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight"> | 2 | Wind attack aggro +10%
-	<img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30" alt="Black Mage"><img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30" alt="White Mage"> | 1 | Critical rate +5%
-	<img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30" alt="Thief"><img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30" alt="Ranger"> | 1 | Evasion +5%
+Job | Slot | Slot Effects
+:-:|:-:|---
+<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight"> | 2 | Wind attack aggro +10%
+<img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30" alt="Black Mage"><img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30" alt="White Mage"> | 1 | Critical rate +5%
+<img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30" alt="Thief"><img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30" alt="Ranger"> | 1 | Evasion +5%
 
 ## Parameter Pants
 *All in this section have the same slot effects: Equipment stats +50%*
@@ -393,9 +395,9 @@ Collab | Effects | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt
 	* Slot: 1
 	* Slot Effects: Seal +35
 
-	<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight"> | <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30" alt="Black Mage"><img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30" alt="White Mage"> | <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30" alt="Thief"><img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30" alt="Ranger">
-	:-:|:-:|:-:
-	Ichigo | Orihime | Uryuu
+<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight"> | <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30" alt="Black Mage"><img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30" alt="White Mage"> | <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30" alt="Thief"><img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30" alt="Ranger">
+:-:|:-:|:-:
+Ichigo | Orihime | Uryuu
 
 *All in the table below have the same following effects and all effects apply to all jobs regardless of armour types:*
 * <img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> damage limit +2500

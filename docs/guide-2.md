@@ -1,4 +1,6 @@
-﻿### Table of Contents
+﻿# Beginner's Guide: Just Started
+
+### Table of Contents
 * [Account Binding](#account-binding)
 * [Knowing Yourself And Your Enemies](#knowing-yourself-and-your-enemies)
 	* [Element](#element)

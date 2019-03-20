@@ -11,6 +11,7 @@
 * There are no lethal single tile nukes, so if there are 2 healers, it is more usual to stay in 1 row and tank everything without dodging.
 
 # Pattern/Thresholds
+
 Key moves | Effects
 ---|---
 Xの魔力 | Party dispel buffs<br>self-buff Matk + agility

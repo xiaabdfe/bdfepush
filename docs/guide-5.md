@@ -1,4 +1,6 @@
-﻿### Table of Contents
+﻿# Guide: Inheritance
+
+### Table of Contents
 * [General](#general)
 * [EX Weapons](#ex-weapons)
 * [Armour Inheritance](#armour-inheritance)

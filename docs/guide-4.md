@@ -1,4 +1,6 @@
-﻿### Table of Contents
+﻿# Guide: Bossing
+
+### Table of Contents
 * [Bosses](#bosses)
 * [Aggro](#aggro)
 * [Gearing (In-Depth)](#gearing-in-depth)
@@ -210,7 +212,6 @@ If the boss cleanses its debuffs at fixed timings, you may want to gauge your BP
 The timing of Ranger dispel is very tricky. You must accurately know when the Boss is going to buff itself, or standby to do it. Preferably you want to dispel before the boss lands its next attack. Late dispels are often fatal to the party. 
 
 # Final Notes
-
 While debuff resistances are important, please do not overprioritize them. Only guard against the debuffs that you feel you must, because debuff resistances are usually sacrifice to survival or DPS, which end up detrimental to their purposes. For example, you are never going to survive well wearing two off-elemental armour pieces plus six debuff resistance medals compared to full elemental armours and some damage reduction medals. You would rather expose yourself to debuffs than to die in two hits. This is especially true for thieves because sometimes there is no space for debuff resistance if you want to have reasonable damage output. Gear resistances only when you absolutely must.
 
 Also try not to stress out when bossing because BDFE is ultimately a game. Have fun in the process, regardless of winning or losing.

@@ -14,6 +14,7 @@
 * Left minion seals; right minion blinds.
 
 # Pattern/Thresholds
+
 HP|Moves
 --:|---
 540,000 | 2 Minions w/ HP 40800<br>*After break*<br>Self Brave 1 / Default 1

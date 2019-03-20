@@ -14,6 +14,7 @@
 	* Especially when you see 尽キル生命, he will continue to attack for quite a while,
 
 # Pattern/Thresholds:
+
 Key moves | Effects
 ---|---
 Normal Attack | Row damage

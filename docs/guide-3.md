@@ -1,4 +1,6 @@
-﻿### Table of Contents
+﻿# Beginner's Guide: Getting Stronger
+
+### Table of Contents
 * [Character Development](#character-development)
 	* [About Advanced Jobs](#about-advanced-jobs)
 * [Equipment Upgrading](#equipment-upgrading)

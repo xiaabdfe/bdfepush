@@ -24,7 +24,6 @@ header, section, footer, aside, nav, article, hgroup{
 	display:block;
 }
 section#sub_contents{
-	display:inline-block;
 	vertical-align:top;
 }
 body{
@@ -35,49 +34,47 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-#main_contents{/
-	text-align:left;
+#top_header{
+	background: linear-gradient(to bottom, #031, #364);
+	color: white;
+	padding: 10px 20px;
+	border-radius: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: left;
+}
+#main_body{
+	display: inline-flex;
+	justify-content: space-evenly;
+}
+#main_contents{
+	display: box;
+	flex: 1;
+	text-align: left;
 }
 #sub_contents{
+	display: box;
 	margin: 20px;
-	justify-content:center;
-	text-align:left;
+	justify-content: center;
+	text-align: left;
 }
 #sub_headings{
-	background: rgba(50,120,60,0.8);
+	background: rgba(50,120,60,0.9);
 	color: white;
 	padding: 10px;
 	border-radius: 15px;
 	text-align: center;
 }
 #sub_bodies{
-	background: rgba(255,255,255,0.7);
+	background: rgba(255,255,255,0.8);
 	border-radius: 15px;
+	margin-top: 20px;
 	padding: 10px;
-	padding-bottom: 20px;
-}
-#top_header{
-	background: linear-gradient(to bottom, #031, #364);
-	color: white;
-	padding: 15px;
-	border-radius: 10px;
-	margin-left: 20px;
-	margin-right: 20px;
-	text-align: left;
 }
 #sub_contents li{
 	color: black;
 	list-style:none;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-top: 5px;
-}
-#twitter{
-	display: inline-block;
-	color: black;
-	float: right;
-	margin: 30px;
-	padding: 30px;
+	padding: 3px 10px 2px;
 }
 footer{
 	clear: both;

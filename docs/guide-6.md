@@ -1,4 +1,6 @@
-﻿### Table of Contents
+﻿# Guide: Medals
+
+### Table of Contents
 * [General](#general)
 * [Monthly Medal Event](#monthly-medal-event)
 * [Recommended Monster Medals](#recommended-monster-medals)
