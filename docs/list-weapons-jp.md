@@ -1,13 +1,13 @@
 # BDFE武器一覧
 ### 目次
 
- \- | <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火 | <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> 水 | <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> 土 | <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> 風
+装備 | <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火 | <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> 水 | <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> 土 | <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> 風
 :-:|:-:|:-:|:-:|:-:
-<img src"https://caelum.s-ul.eu/4mCTfFw6.gif" width="25"> [大剣](#-大剣) | [火大剣](#-火大剣) | [水大剣](#-水大剣) | [土大剣](#-土大剣) | [風大剣](#-風大剣)
-<img src"https://caelum.s-ul.eu/9Cfbpmce.gif" width="25"> [ロッド](#-ロッド) | [火ロッド](#-火ロッド) | [水ロッド](#-水ロッド) | [土ロッド](#-土ロッド) | [風ロッド](#-風ロッド)
-<img src"https://caelum.s-ul.eu/DkAtu3w5.gif" width="25"> [ブック](#-ブック) | [火ブック](#-火ブック) | [水ブック](#-水ブック) | [土ブック](#-土ブック) | [風ブック](#-風ブック)
-<img src"https://caelum.s-ul.eu/K1su7ZFm.gif" width="25"> [双剣](#-双剣) | [火双剣](#-火双剣) | [水双剣](#-水双剣) | [土双剣](#-土双剣) | [風双剣](#-風双剣)
-<img src"https://caelum.s-ul.eu/PWHtYVMH.gif" width="25"> [弓](#-弓) | [火弓](#-火弓) | [水弓](#-水弓) | [土弓](#-土弓) | [風弓](#-風弓)
+<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="25"> [大剣](#-大剣) | [火大剣](#-火大剣) | [水大剣](#-水大剣) | [土大剣](#-土大剣) | [風大剣](#-風大剣)
+<img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="25"> [ロッド](#-ロッド) | [火ロッド](#-火ロッド) | [水ロッド](#-水ロッド) | [土ロッド](#-土ロッド) | [風ロッド](#-風ロッド)
+<img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="25"> [ブック](#-ブック) | [火ブック](#-火ブック) | [水ブック](#-水ブック) | [土ブック](#-土ブック) | [風ブック](#-風ブック)
+<img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="25"> [双剣](#-双剣) | [火双剣](#-火双剣) | [水双剣](#-水双剣) | [土双剣](#-土双剣) | [風双剣](#-風双剣)
+<img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="25"> [弓](#-弓) | [火弓](#-火弓) | [水弓](#-水弓) | [土弓](#-土弓) | [風弓](#-風弓)
 
 # <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="40"> 大剣
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火大剣
