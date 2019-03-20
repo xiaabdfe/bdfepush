@@ -1,3 +1,27 @@
+# Abyss Floor 85
+### Directory
+* <a href="index.html">Index</a>
+* General Guides
+	* <a href="guide-1">Beginner's Guide: Starting</a>
+	* <a href="guide-2">Beginner's Guide: Just Started</a>
+	* <a href="guide-3">Beginner's Guide: Getting Stronger</a>
+	* <a href="guide-4">Guide: Bossing</a>
+	* <a href="guide-5">Guide: Inheritance</a>
+	* <a href="guide-6">Guide: Medals</a>
+* Abyss Guides
+	* <a href="abyss-60">Floor 60</a>
+	* <a href="abyss-65">Floor 65</a>
+	* <a href="abyss-70">Floor 70</a>
+	* <a href="abyss-75">Floor 75</a>
+	* <a href="abyss-80">Floor 80</a>
+	* **Floor 85**
+	* <a href="abyss-90">Floor 90</a>
+	* <a href="abyss-95">Floor 95</a>
+* Equipment Data
+	* <a href="list-weapons">List of Weapons</a>
+	* <a href="list-armours">List of Armours</a>
+	* <a href="list-names">Weapon Names</a>
+	
 # Azathoth
 ![Boss](https://caelum.s-ul.eu/rb4AYqsS.jpg)
 * <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Fire/Demon/Hybrid
