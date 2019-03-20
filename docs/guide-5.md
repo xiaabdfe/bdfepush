@@ -1,4 +1,26 @@
 ﻿# Guide: Inheritance
+### Directory
+* <a href="index.html">Index</a>
+* General Guides
+	* <a href="guide-1">Beginner's Guide: Starting</a>
+	* <a href="guide-2">Beginner's Guide: Just Started</a>
+	* <a href="guide-3">Beginner's Guide: Getting Stronger</a>
+	* <a href="guide-4">Guide: Bossing</a>
+	* <a href="guide-5">Guide: Inheritance</a>
+	* <a href="guide-6">Guide: Medals</a>
+* Abyss Guides
+	* <a href="abyss-60">Floor 60</a>
+	* <a href="abyss-65">Floor 65</a>
+	* <a href="abyss-70">Floor 70</a>
+	* <a href="abyss-75">Floor 75</a>
+	* <a href="abyss-80">Floor 80</a>
+	* <a href="abyss-85">Floor 85</a>
+	* <a href="abyss-90">Floor 90</a>
+	* <a href="abyss-95">Floor 95</a>
+* Equipment Data
+	* <a href="list-weapons">List of Weapons</a>
+	* <a href="list-armours">List of Armours</a>
+	* <a href="list-names">Weapon Names</a>
 
 ### Table of Contents
 * [General](#general)
@@ -17,12 +39,12 @@
 # General
 Inheritance is an action to consume a piece of inheritance fodder to add a new effect to the piece of equipment. The inheritance fodder is lost forever after used. However, the inherited effect can be replaced over and over again. The topic of inheritance is very vast and complicated. There are two types of inheritance: skill inheritance and effect inheritance. There is no inheritance for medals.
 
-Scrolls or equipment pieces with the words *Normal Effect* (通常効果) is able to be an inheritance fodder. Note that awakening, slot, special and event effects cannot be inherited. Only weapons with base rarities of 4 or 5, and armors with base rarities of 5 can inherit effects (except event equipment which depends on BDFE's mood at the time). Refer to [Started Guide](https://github.com/caelumff/bdfeguides/wiki/2.-Started-Guide#equipment) for various Japanese text.
+Scrolls or equipment pieces with the words *Normal Effect* (通常効果) is able to be an inheritance fodder. Note that awakening, slot, special and event effects cannot be inherited. Only weapons with base rarities of 4 or 5, and armors with base rarities of 5 can inherit effects (except event equipment which depends on BDFE's mood at the time). Refer to <a href="guide-2#equipment">Beginner's Guide: Just Started</a> for various Japanese text.
 
 
 ***
 # EX Weapons
-Skill inheritance is only possible for EX Weapons. They are special weapons that only come in Elemental Fest Gacha. For more information, refer to [list of weapons](https://github.com/caelumff/bdfeguides/wiki/List-of-Weapons#ex-weapons)
+Skill inheritance is only possible for EX Weapons. They are special weapons that only come in Elemental Fest Gacha. For more information, refer to <a href="list-weapons#ex-weapons">list of weapons</a>.
 
 They are theoretically very strong but take note of the following:
 
@@ -56,7 +78,7 @@ They are a set of permanently available bosses that drop special armour pieces m
 ## Vintage Armours
 ![Vintage Armours](https://caelum.s-ul.eu/olist/myh3blyc.png)
 
-Vintage armours are are special armours that have **two** effect inheritance slots instead of one. They are highly valuable for beginners for their versatility, especially when combined with Phantom Chamber. For more information, refer to [list of armours](https://github.com/caelumff/bdfeguides/wiki/List-of-Armours#vintage)
+Vintage armours are are special armours that have **two** effect inheritance slots instead of one. They are highly valuable for beginners for their versatility, especially when combined with Phantom Chamber. For more information, refer to <a href="list-armours#vintage">list of armours</a>
 
 ## Hats
 The rule of thumb is to inherit **special reload -30s**. In addition to Regina from Phantom Chamber, they are also available in 3-star and 4-star hats that you randomly get from gacha or alchemy:

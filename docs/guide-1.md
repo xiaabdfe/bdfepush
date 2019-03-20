@@ -1,12 +1,26 @@
 # Beginner's Guide: Starting
 ### Directory
 * <a href="index.html">Index</a>
-* **Beginner's Guide: Starting**
-* <a href="guide-2">Beginner's Guide: Just Started</a>
-* <a href="guide-3">Beginner's Guide: Getting Stronger</a>
-* <a href="guide-4">Guide: Bossing</a>
-* <a href="guide-5">Guide: Inheritance</a>
-* <a href="guide-6">Guide: Medals</a>
+* General Guides
+	* **Beginner's Guide: Starting**
+	* <a href="guide-2">Beginner's Guide: Just Started</a>
+	* <a href="guide-3">Beginner's Guide: Getting Stronger</a>
+	* <a href="guide-4">Guide: Bossing</a>
+	* <a href="guide-5">Guide: Inheritance</a>
+	* <a href="guide-6">Guide: Medals</a>
+* Abyss Guides
+	* <a href="abyss-60">Floor 60</a>
+	* <a href="abyss-65">Floor 65</a>
+	* <a href="abyss-70">Floor 70</a>
+	* <a href="abyss-75">Floor 75</a>
+	* <a href="abyss-80">Floor 80</a>
+	* <a href="abyss-85">Floor 85</a>
+	* <a href="abyss-90">Floor 90</a>
+	* <a href="abyss-95">Floor 95</a>
+* Equipment Data
+	* <a href="list-weapons">List of Weapons</a>
+	* <a href="list-armours">List of Armours</a>
+	* <a href="list-names">Weapon Names</a>
 
 ### Table of Contents
 * [Jobs](#jobs)
@@ -132,7 +146,7 @@ Debuff extension | Extends the duration of debuffs already on the target.
 
 ***
 # Gacha
-Gacha are split into mythril gacha and ticket gacha. In this game, you gacha for equipment, [weapons](https://github.com/caelumff/bdfeguides/wiki/List-of-Weapons) and [armours](https://github.com/caelumff/bdfeguides/wiki/List-of-Armours) specifically. There is a third type of equipment called medals (accessories) but are not from gacha, you do not have to worry about it for now.
+Gacha are split into mythril gacha and ticket gacha. In this game, you gacha for equipment, <a href="list-weapons">weapons</a> and <a href="list-armours">armours</a> specifically. There is a third type of equipment called medals (accessories) but are not from gacha, you do not have to worry about it for now.
 
 ## Mythril Gacha
 Mythril is the premium currency in this game, where it is split into free mythril and paid mythril. Mythril gacha is always separated by jobs, meaning you will only get what the job can use.
@@ -209,11 +223,11 @@ Red and blue are the most common forms of tickets. Gold is received in events re
 It is easier to get armors later on from boxes or Vintage gacha. Therefore, it is generally suggested to reroll for weapons. 
 
 Reroll Suggestions:
-* [Knight](https://github.com/caelumff/bdfeguides/wiki/Reroll-Knight)
-* [Black Mage](https://github.com/caelumff/bdfeguides/wiki/Reroll-Black-Mage)
-* [White Mage](https://github.com/caelumff/bdfeguides/wiki/Reroll-White-Mage)
-* [Thief](https://github.com/caelumff/bdfeguides/wiki/Reroll-Thief)
-* [Ranger](https://github.com/caelumff/bdfeguides/wiki/Reroll-Ranger)
+* <a href="reroll-1">Knight</a>
+* <a href="reroll-2">Black Mage</a>
+* <a href="reroll-3">White Mage</a>
+* <a href="reroll-4">Thief</a>
+* <a href="reroll-5">Ranger</a>
 
 Every new account starts with 10 random rolls for selected job with 1 guaranteed 5-star. There are also weapon-only and armour-only start-dash with guaranteed 5-star that can only be pulled using 75 paid Mythril. 1 time per job per type per account. The start-dash will only be available for 72 hours after account creation. 
 

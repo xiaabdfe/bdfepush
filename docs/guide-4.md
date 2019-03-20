@@ -1,4 +1,26 @@
 ﻿# Guide: Bossing
+### Directory
+* <a href="index.html">Index</a>
+* General Guides
+	* <a href="guide-1">Beginner's Guide: Starting</a>
+	* <a href="guide-2">Beginner's Guide: Just Started</a>
+	* <a href="guide-3">Beginner's Guide: Getting Stronger</a>
+	* <a href="guide-4">Guide: Bossing</a>
+	* <a href="guide-5">Guide: Inheritance</a>
+	* <a href="guide-6">Guide: Medals</a>
+* Abyss Guides
+	* <a href="abyss-60">Floor 60</a>
+	* <a href="abyss-65">Floor 65</a>
+	* <a href="abyss-70">Floor 70</a>
+	* <a href="abyss-75">Floor 75</a>
+	* <a href="abyss-80">Floor 80</a>
+	* <a href="abyss-85">Floor 85</a>
+	* <a href="abyss-90">Floor 90</a>
+	* <a href="abyss-95">Floor 95</a>
+* Equipment Data
+	* <a href="list-weapons">List of Weapons</a>
+	* <a href="list-armours">List of Armours</a>
+	* <a href="list-names">Weapon Names</a>
 
 ### Table of Contents
 * [Bosses](#bosses)
@@ -68,7 +90,7 @@ The next action of the boss can usually be predicted by the following:
 
 ***
 # Gearing (In-Depth)
-Please refer to [Started Guide](https://github.com/caelumff/bdfeguides/wiki/2.-Started-Guide#how-to-gear-basic) for more basic and general information. 
+Please refer to <a href="guide-2#how-to-gear-basic">Beginner's Guide: Just Started</a> for more basic and general information. 
 
 Bosses usually have debuffs that can be either just annoying or fatal to the success of the boss run. It is important to know what debuffs the boss has and which to prioritize guarding against. Sometimes it is worth wearing an off-element for debuff resistance, depending on what options you have. But too many off-element pieces can be detrimental. In most cases, the more damage you can deal, the easier the boss runs are. Some bosses even require you to deal enough damage in a given time. All roles try to boost party damage in their own way.
 

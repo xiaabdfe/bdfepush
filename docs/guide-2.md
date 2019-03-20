@@ -1,4 +1,26 @@
 ﻿# Beginner's Guide: Just Started
+### Directory
+* <a href="index.html">Index</a>
+* General Guides
+	* <a href="guide-1">Beginner's Guide: Starting</a>
+	* <a href="guide-2">Beginner's Guide: Just Started</a>
+	* <a href="guide-3">Beginner's Guide: Getting Stronger</a>
+	* <a href="guide-4">Guide: Bossing</a>
+	* <a href="guide-5">Guide: Inheritance</a>
+	* <a href="guide-6">Guide: Medals</a>
+* Abyss Guides
+	* <a href="abyss-60">Floor 60</a>
+	* <a href="abyss-65">Floor 65</a>
+	* <a href="abyss-70">Floor 70</a>
+	* <a href="abyss-75">Floor 75</a>
+	* <a href="abyss-80">Floor 80</a>
+	* <a href="abyss-85">Floor 85</a>
+	* <a href="abyss-90">Floor 90</a>
+	* <a href="abyss-95">Floor 95</a>
+* Equipment Data
+	* <a href="list-weapons">List of Weapons</a>
+	* <a href="list-armours">List of Armours</a>
+	* <a href="list-names">Weapon Names</a>
 
 ### Table of Contents
 * [Account Binding](#account-binding)
@@ -221,7 +243,7 @@ Reverse Tiles | Pink (taller) flame | Refer to Abyss floor 85 for details.
 ## Categories
 As mentioned, there are three main categories of equipment: Weapons, Armours and Medals.
 
-[**Weapons**](https://github.com/caelumff/bdfeguides/wiki/List-of-Weapons) (武器): All weapons come with an auto skill (通常技) and at least one special skill (必殺技). You can equip up to five as you unlock the slots in tutorials. Passive effects of all weapons only work on that particular weapon except stat increases. Each job can only equip one weapon category.
+<a href="list-weapons">**Weapons**</a> (武器): All weapons come with an auto skill (通常技) and at least one special skill (必殺技). You can equip up to five as you unlock the slots in tutorials. Passive effects of all weapons only work on that particular weapon except stat increases. Each job can only equip one weapon category.
 
 Weapon Category | Japanese | Job
 ---|:-:|:-:
@@ -245,7 +267,7 @@ Self | 自身
 
 *Note: 2 Row always means the row you are on and the row in front of you. If you are standing on the front row, it is effectively just one row*
 
-[**Armours**](https://github.com/caelumff/bdfeguides/wiki/List-of-Armours) (防具): Armours offer various passive effects that stack upon each other. All jobs can equip all armour categories but each armour category is designed to be used by one or two jobs. There are event armours with no category, however.
+<a href="list-armours">**Armours**</a> (防具): Armours offer various passive effects that stack upon each other. All jobs can equip all armour categories but each armour category is designed to be used by one or two jobs. There are event armours with no category, however.
 
 Armour Category | Japanese | Optimal Jobs
 ---|:-:|:-:
@@ -268,7 +290,7 @@ Passive Type | Japanese | Description
 Normal Effect | 通常効果 | Inherent effects.
 Awakening Effect | 覚醒効果 | Activated only when the equipment is awakened using Brave Coins. 
 Slot Effect | 適正効果 | Activated only when the equipment is in the correct slot.
-Inherited Effect | 継承効果 | For more information, please refer to [Inheritance Guide](https://github.com/caelumff/bdfeguides/wiki/5.-Inheritance-Guide)
+Inherited Effect | 継承効果 | For more information, please refer to <a href="guide-5">Inheritance Guide</a>.
 Special Effect | 特殊効果 | Special inherent effects that usually only work on certain tribes.
 Event Effect | イベント効果 | Effects that are only active in the current event and disappear once event is over.
 
@@ -303,7 +325,7 @@ OO族へ与える威力 | Skill attack power when attacking ~ tribe
 ステタス耐性 | Stat-down resistance
 デバフ耐性 | Debuff resistance (works on all debuffs)
 
-**Medals** (メダル): For more information, please refer to [Medals Guide](https://github.com/caelumff/bdfeguides/wiki/6.-Medals-Guide)
+**Medals** (メダル): For more information, please refer to <a href="guide-6">Medals Guide</a>.
 
 ***
 # How to Gear (Basic)
@@ -315,7 +337,7 @@ Do not get rid of lower rarity gears until you have complete set of the element 
 ## Armours
 Do not get rid of lower rarity gears until you have complete set of the element of higher rarity. Always try to wear armours strong against the enemy. Each piece of armour adds elemental resist to element it is strong against, and cuts elemental resist to element it is weak against, i.e. avoid wearing wind armours against fire enemies.e same element instead of having full set of high rarity gears but different elements.
 
-## [Medals](https://github.com/caelumff/bdfeguides/wiki/6.-Medals-Guide)
+## Medals
 Medals are not obtained by Gacha but only events or monster drops. For starters, it is advisable to gather a set of slimes until you can survive better.
 
 
