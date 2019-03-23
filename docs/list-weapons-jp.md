@@ -369,3 +369,4 @@
 レジェンドボウ | <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-11.jpg" width="50" height="auto"> | 無 | 全体<br> | 全体<br>物攻物防魔攻魔防ダウン<br>ホークアイ II<br>
 アロアロキャンディ | <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-12.jpg" width="50" height="auto"> | IV | - | 風チェイサー II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> デバフ延長<br>
 
+一部の情報はじゅらさんの許可をいただいて、[ねこれあ。-BDFE-](https://bdfe.ladygo.net/)によります。
