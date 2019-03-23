@@ -2,7 +2,7 @@
 ### 目次
 
 <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="50"> [大剣](#-大剣) | <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="50"> [ロッド](#-ロッド) | <img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="50"> [ブック](#-ブック) | <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="50"> [双剣](#-双剣) | <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="50"> [弓](#-弓)
-:-:|:-:|:-:|:-:
+:-:|:-:|:-:|:-:|:-:
 [火大剣](#-火大剣) | [火ロッド](#-火ロッド) | [火ブック](#-火ブック) | [火双剣](#-火双剣) | [火弓](#-火弓)
 [水大剣](#-水大剣) | [水ロッド](#-水ロッド) | [水ブック](#-水ブック) | [水双剣](#-水双剣) | [水弓](#-水弓)
 [土大剣](#-土大剣) | [土ロッド](#-土ロッド) | [土ブック](#-土ブック) | [土双剣](#-土双剣) | [土弓](#-土弓)
@@ -11,7 +11,7 @@
 # <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="40"> 大剣
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火大剣
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-1.jpg" width="50" height="auto"> | 極楽鳥の重翼刃 | I | バフ<br> | リジェネ II<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="レジェンドコイン"> 物防魔防アップ<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-2.jpg" width="50" height="auto"> | 聖龍鱗の大牙剣 | 無 | - | 対風敵視<br>
@@ -31,7 +31,7 @@
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> 水大剣
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-1.jpg" width="50" height="auto"> | イービルレンテの翼幕 | 無 | - | 対火敵視<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-2.jpg" width="50" height="auto"> | 恩寵剣ハートネイズ | I | - | HPアップ<br>
@@ -50,7 +50,7 @@
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> 土大剣
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-1.jpg" width="50" height="auto"> | コスモカイザー | 無 | - | 対水敵視<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-2.jpg" width="50" height="auto"> | 機械兵ギギガグゴ | I | - | -
@@ -68,7 +68,7 @@
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> 風大剣
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-1.jpg" width="50" height="auto"> | 天聖剣バルビューダ | I | - | HP吸収<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-2.jpg" width="50" height="auto"> | 断罪エクスキューション | 無 | - | 対土敵視<br>
@@ -88,7 +88,7 @@
 # <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="40"> ロッド
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火ロッド
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-1.jpg" width="50" height="auto"> | 暗黒龍の魔具 | I | - | 全体<br>BP吸収<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-2.jpg" width="50" height="auto"> | 聖龍鱗の角杖 | 無 | - | 対風BP吸収<br>
@@ -108,7 +108,7 @@
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> 水ロッド
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-1.jpg" width="50" height="auto"> | ダークハートロット | I | バフ<br> | HP吸収<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-2.jpg" width="50" height="auto"> | 囚われ姫君 | 無 | - | 対火BP吸収<br>
@@ -127,7 +127,7 @@
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> 土ロッド
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-1.jpg" width="50" height="auto"> | 天魔混合 | 無 | - | 対水BP吸収<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-2.jpg" width="50" height="auto"> | 機械兵ダダビギ | I | - | -
@@ -145,7 +145,7 @@
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> 風ロッド
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-1.jpg" width="50" height="auto"> | アンクシャスワンド | I | - | BP全消費<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-2.jpg" width="50" height="auto"> | 断罪の獄杖 | 無 | - | 対土BP吸収<br>
@@ -165,7 +165,7 @@
 # <img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="40"> ブック
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火ブック
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-1.jpg" width="50" height="auto"> | リフレイムのグリモア | 無 | バフ<br> | ブレイブ II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-2.jpg" width="50" height="auto"> | 聖龍鱗の神秘グリモア | I | 攻撃<br> | 回復<br>物攻物防精神アップ<br>
@@ -185,7 +185,7 @@
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> 水ブック
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-1.jpg" width="50" height="auto"> | 超音術のグリモア | I | - | 二列回復<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-2.jpg" width="50" height="auto"> | 世界樹のグリモア | 無 | - | 蘇生<br>
@@ -204,7 +204,7 @@
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> 土ブック
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-1.jpg" width="50" height="auto"> | 暗月のグリモア | 無 | バフ<br> | デフォルト II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-2.jpg" width="50" height="auto"> | 機械兵ババビジズ | I | 攻撃<br> | 攻撃<br>
@@ -222,7 +222,7 @@
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> 風ブック
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-1.jpg" width="50" height="auto"> | エリルの秘匿グリモア | I | - | 回復<br>蘇生<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-2.jpg" width="50" height="auto"> | 断罪の制裁 | 無 | 攻撃<br> | 回復<br>魔攻魔防精神アップ<br>
@@ -242,7 +242,7 @@
 # <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="40"> 双剣
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火双剣
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-1.jpg" width="50" height="auto"> | 業炎の鬼双刃 | I | - | <img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="レジェンドコイン"> 物攻アップ<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-2.jpg" width="50" height="auto"> | 聖龍鱗の双爪剣 | 無 | 速い<br> | -
@@ -262,7 +262,7 @@
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> 水双剣
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-1.jpg" width="50" height="auto"> | 次元裂傷の魔短刀 | I | - | 全体<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-2.jpg" width="50" height="auto"> | アンカザスの宝剣 | 無 | 速い<br> | -
@@ -281,7 +281,7 @@
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> 土双剣
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-1.jpg" width="50" height="auto"> | 蒼天の剣 | 無 | 速い<br> | -
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-2.jpg" width="50" height="auto"> | 機械兵ドドゾゲブ | I | 三段<br> | 五段<br>
@@ -299,7 +299,7 @@
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> 風双剣
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-1.jpg" width="50" height="auto"> | 月光蝶プラネテリア | I | 回復<br> | 五段<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-2.jpg" width="50" height="auto"> | 断罪の棘突刃 | 無 | 速い<br> | -
@@ -319,7 +319,7 @@
 # <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="40"> 弓
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 火弓
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-1.jpg" width="50" height="auto"> | シュヴァルツヴァルト | I | - | -
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-2.jpg" width="50" height="auto"> | 聖龍鱗の翼弓 | 無 | - | 対風毒<br>
@@ -339,7 +339,7 @@
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> 水弓
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-1.jpg" width="50" height="auto"> | 海龍の宝珠 | 無 | - | 対火毒<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-2.jpg" width="50" height="auto"> | 聖硝子の魔大弓 | I | - | 全体<br>魔攻魔防ダウン<br>
@@ -358,7 +358,7 @@
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> 土弓
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-1.jpg" width="50" height="auto"> | ガイナテックボウ | 無 | - | 対水毒<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-2.jpg" width="50" height="auto"> | 機械兵ベボヅザ | I | - | -
@@ -376,7 +376,7 @@
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> 風弓
 
-装備 | 装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
+装備 | 装備名 | 適正枠 | 通常効果 | 必殺効果
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-1.jpg" width="50" height="auto"> | ライジングシューター | I | - | 全体<br>物攻物防ダウン<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-2.jpg" width="50" height="auto"> | 断罪のブラッディレイ | 無 | - | 対土毒<br>
