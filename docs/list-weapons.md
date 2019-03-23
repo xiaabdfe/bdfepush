@@ -18,17 +18,17 @@
 	* <a href="abyss-95.md">Floor 95</a>
 * Equipment Data
 	* **List of Weapons**
-	* <a href="list-armours">List of Armours</a>
-	* <a href="list-names">Weapon Names</a>
+	* <a href="list-armours.md">List of Armours</a>
+	* <a href="list-names.md">Weapon Names</a>
 	
 ### Table of Contents
 
 <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="50"> [Swords](#-swords) | <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="50"> [Rods](#-rods) | <img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="50"> [Books](#-books) | <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="50"> [Daggers](#-daggers) | <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width5025"> [Bows](#-bows)
-:-:|:-:|:-:|:-:
-[FireSwords](#-FireSwords) | [FireRods](#-FireRods) | [FireBooks](#-FireBooks) | [FireDaggers](#-FireDaggers) | [FireBows](#-FireBows)
-[WaterSwords](#-WaterSwords) | [WaterRods](#-WaterRods) | [WaterBooks](#-WaterBooks) | [WaterDaggers](#-WaterDaggers) | [WaterBows](#-WaterBows)
-[EarthSwords](#-EarthSwords) | [EarthRods](#-EarthRods) | [EarthBooks](#-EarthBooks) | [EarthDaggers](#-EarthDaggers) | [EarthBows](#-EarthBows)
-[WindSwords](#-WindSwords) | [WindRods](#-WindRods) | [WindBooks](#-WindBooks) | [WindDaggers](#-WindDaggers) | [WindBows](#-WindBows)
+:-:|:-:|:-:|:-:|:-:
+[FireSwords](#-fire-swords) | [FireRods](#-fire-rods) | [FireBooks](#-fire-rooks) | [FireDaggers](#-fireDaggers) | [FireBows](#-fire-rows)
+[WaterSwords](#-water-swords) | [WaterRods](#-water-rods) | [WaterBooks](#-water-rooks) | [WaterDaggers](#-water-raggers) | [WaterBows](#-waterBows)
+[EarthSwords](#-earth-swords) | [EarthRods](#-earth-rods) | [EarthBooks](#-earth-rooks) | [EarthDaggers](#-earth-raggers) | [EarthBows](#-earthBows)
+[WindSwords](#-wind-swords) | [WindRods](#-wind-rods) | [WindBooks](#-wind-rooks) | [WindDaggers](#-windDaggers) | [WindBows](#-wind-rows)
 
 * [Collab Weapons Name Conversion](#collab-weapons-name-conversion)
 * [EX Weapons](#ex-weapons)
