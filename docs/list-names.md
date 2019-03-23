@@ -1,20 +1,43 @@
+# Weapon Names
+### Directory
+* General Guides
+	* <a href="guide-1.md">Beginner's Guide: Starting</a>
+	* <a href="guide-2.md">Beginner's Guide: Just Started</a>
+	* <a href="guide-3.md">Beginner's Guide: Getting Stronger</a>
+	* <a href="guide-4.md">Guide: Bossing</a>
+ *	<a href="guide-5.md">Guide: Inheritance</a>
+	* <a href="guide-6.md">Guide: Medals</a>
+* Abyss Guides
+	* <a href="abyss-60.md">Floor 60</a>
+	* <a href="abyss-65.md">Floor 65</a>
+	* <a href="abyss-70.md">Floor 70</a>
+	* <a href="abyss-65.md">Floor 75</a>
+	* <a href="abyss-80.md">Floor 70</a>
+	* <a href="abyss-65.md">Floor 85</a>
+	* <a href="abyss-90.md">Floor 70</a>
+	* <a href="abyss-65.md">Floor 95</a>
+* Equipment Data
+	* <a href="list-weapons.md">List of Weapons</a>
+	* <a href="list-armours.md">List of Armours</a>
+	* **Weapon Names**
+
 ### Table of Contents
 
-# | <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> [Fire Weapons](#fire-weapons) | # | <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> [Water Weapons](#water-weapons) | # | <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> [Earth Weapons](#earth-weapons) | # | <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> [Wind Weapons](#wind-weapons)
---:|---|---|---|---
-1 | [Old Fire](#-old-fire) | [Old Water](#-old-water) | [Old Earth](#-old-earth) | [Old Wind](#-old-wind)
-2 | [Holy Dragon](#-holy-dragon) | [Old Water](#-old-water) | [Steampunk](#-steampunk) | [Condemnation](#-condemnation)
-3 | [Dark Angel](#-dark-angel) | [Evil Eye](#-evil-eye) | [Spiritual](#-spiritual) | [Quartz](#-quartz)
-4 | [Chain](#-chain) | [Summer 2017](#-summer-2017) | [Euclid](#-euclid) | [Bone](#-bone)
-5 | [Halloween 2017](#-halloween-2017) | [Animal](#-animal) | [Bull](#-bull) | [Twilight](#-twilight)
-6 | [New Year 2018](#-new-year-2018) | [Christmas 2017](#-christmas-2017) | [Dragon Slayer](#-dragon-slayer) | [Music](#-music)
-7 | [Phoenix](#-phoenix) | [Compass](#-compass) | [Royal](#-royal) | [Valentine's 2018](#-valentines-2018)
-8 | [Demon](#-demon) | [Fullmetal Alchemist](#-fullmetal-alchemist) | [NieR Automata](#-nier-automata) | [Glitzy](#-glitzy)
-9 | [Kairisei Million Arthur](#-kairisei-million-arthur) | [Tanabata](#-tanabata) | [Sakura](#-sakura) | [Bleach](#-bleach)
-10 | [Grimms Notes Repage](#-grimms-notes-repage) | [Kairisei Million Arthur](#-kairisei-million-arthur) | [Octopath Traveler](#-octopath-traveler) | [Summer 2018](#-summer-2018)
-11 | [Japan Folklore](#-japan-folklore) | [Sports 2018](#-sports-2018) | [Halloween 2018](#-halloween-2018) | [Grimms Notes Repage](#-grimms-notes-repage)
-12 | [Lotus](#-lotus) | [Sergeant Keroro](#-sergeant-keroro) | [Christmas 2018](#-christmas-2018) | [Valentine's 2019](#-valentines-2019)
-13 | [Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | \-
+<img src="https://caelum.s-ul.eu/2p740des.png" width="25"> [Fire Weapons](#fire-weapons) | <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> [Water Weapons](#water-weapons) | <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> [Earth Weapons](#earth-weapons) | <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> [Wind Weapons](#wind-weapons)
+---|---|---|---
+[Old Fire](#-old-fire) | [Old Water](#-old-water) | [Old Earth](#-old-earth) | [Old Wind](#-old-wind)
+[Holy Dragon](#-holy-dragon) | [Old Water](#-old-water) | [Steampunk](#-steampunk) | [Condemnation](#-condemnation)
+[Dark Angel](#-dark-angel) | [Evil Eye](#-evil-eye) | [Spiritual](#-spiritual) | [Quartz](#-quartz)
+[Chain](#-chain) | [Summer 2017](#-summer-2017) | [Euclid](#-euclid) | [Bone](#-bone)
+[Halloween 2017](#-halloween-2017) | [Animal](#-animal) | [Bull](#-bull) | [Twilight](#-twilight)
+[New Year 2018](#-new-year-2018) | [Christmas 2017](#-christmas-2017) | [Dragon Slayer](#-dragon-slayer) | [Music](#-music)
+[Phoenix](#-phoenix) | [Compass](#-compass) | [Royal](#-royal) | [Valentine's 2018](#-valentines-2018)
+[Demon](#-demon) | [Fullmetal Alchemist](#-fullmetal-alchemist) | [NieR Automata](#-nier-automata) | [Glitzy](#-glitzy)
+[Kairisei Million Arthur](#-kairisei-million-arthur) | [Tanabata](#-tanabata) | [Sakura](#-sakura) | [Bleach](#-bleach)
+[Grimms Notes Repage](#-grimms-notes-repage) | [Kairisei Million Arthur](#-kairisei-million-arthur) | [Octopath Traveler](#-octopath-traveler) | [Summer 2018](#-summer-2018)
+[Japan Folklore](#-japan-folklore) | [Sports 2018](#-sports-2018) | [Halloween 2018](#-halloween-2018) | [Grimms Notes Repage](#-grimms-notes-repage)
+[Lotus](#-lotus) | [Sergeant Keroro](#-sergeant-keroro) | [Christmas 2018](#-christmas-2018) | [Valentine's 2019](#-valentines-2019)
+[Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | \-
 
 # Fire Weapons
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Old Fire

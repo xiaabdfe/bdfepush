@@ -1,26 +1,25 @@
 ﻿# Abyss Floor 75
 ### Directory
-* <a href="index.html">Index</a>
 * General Guides
-	* <a href="guide-1">Beginner's Guide: Starting</a>
-	* <a href="guide-2">Beginner's Guide: Just Started</a>
-	* <a href="guide-3">Beginner's Guide: Getting Stronger</a>
-	* <a href="guide-4">Guide: Bossing</a>
-	* <a href="guide-5">Guide: Inheritance</a>
-	* <a href="guide-6">Guide: Medals</a>
+	* <a href="guide-1.md">Beginner's Guide: Starting</a>
+	* <a href="guide-2.md">Beginner's Guide: Just Started</a>
+	* <a href="guide-3.md">Beginner's Guide: Getting Stronger</a>
+	* <a href="guide-4.md">Guide: Bossing</a>
+	* <a href="guide-5.md">Guide: Inheritance</a>
+	* <a href="guide-6.md">Guide: Medals</a>
 * Abyss Guides
-	* <a href="abyss-60">Floor 60</a>
-	* <a href="abyss-65">Floor 65</a>
-	* <a href="abyss-70">Floor 70</a>
+	* <a href="abyss-60.md">Floor 60</a>
+	* <a href="abyss-65.md">Floor 65</a>
+	* <a href="abyss-70.md">Floor 70</a>
 	* **Floor 75**
-	* <a href="abyss-80">Floor 80</a>
-	* <a href="abyss-85">Floor 85</a>
-	* <a href="abyss-90">Floor 90</a>
-	* <a href="abyss-95">Floor 95</a>
+	* <a href="abyss-80.md">Floor 80</a>
+	* <a href="abyss-85.md">Floor 85</a>
+	* <a href="abyss-90.md">Floor 90</a>
+	* <a href="abyss-95.md">Floor 95</a>
 * Equipment Data
-	* <a href="list-weapons">List of Weapons</a>
-	* <a href="list-armours">List of Armours</a>
-	* <a href="list-names">Weapon Names</a>
+	* <a href="list-weapons.md">List of Weapons</a>
+	* <a href="list-armours.md">List of Armours</a>
+	* <a href="list-names.md">Weapon Names</a>
 	
 # Korpokkur
 ![Boss](https://caelum.s-ul.eu/WqaI0ier.jpg)
