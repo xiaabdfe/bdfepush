@@ -76,8 +76,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-11.jpg" width="60" height="auto"> | <a href="list-names#-japan-folklore">Dango</a> | 3 |  -  | Mono Phalanx 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-12.jpg" width="60" height="auto"> | <a href="list-names#-lotus">Lotus</a> | 4 |  -  | Wind AoE Taunt<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-13.jpg" width="60" height="auto"> | <a href="list-names#-retro-modern">Camellia</a> | 5 | Buff<br> | Mono Regen 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Saving 1<br>
-**[LIMITED]** Rose| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose1.jpg" width="60" height="auto"> | 0 | Heal<br> | 
-**[LIMITED]** Fairy| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy1.jpg" width="60" height="auto"> | 1 |  -  | Allies Aggro<br>HP Absorb<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose1.jpg" width="60" height="auto"> | **[LIMITED]** Rose| 0 | Heal<br> | 
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy1.jpg" width="60" height="auto"> | **[LIMITED]** Fairy| 1 |  -  | Allies Aggro<br>HP Absorb<br>
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Water Swords
 
@@ -96,7 +96,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-11.jpg" width="60" height="auto"> | <a href="list-names#-sports-2018">Megaphone</a> | 3 |  -  | Heal<br>Dueling 2<br>Allies Regen 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-12.jpg" width="60" height="auto"> | <a href="list-names#-sergeant-keroro">Space Army</a> | 0 |  -  | HP Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-13.jpg" width="60" height="auto"> | <a href="list-names#-bravely-default-praying-brage">Ruin</a> | 4 |  -  | Fire AoE Taunt<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
-**[LIMITED]** Valkyrie| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie1.jpg" width="60" height="auto"> | 1 |  -  | Phalanx 1<br>Allies Aggro<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie1.jpg" width="60" height="auto"> | **[LIMITED]** Valkyrie| 1 |  -  | Phalanx 1<br>Allies Aggro<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Earth Swords
 
@@ -132,8 +132,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-10.jpg" width="60" height="auto"> | <a href="list-names#-summer-2018">Tuna</a> | 3 | Heal<br> | Mono Phalanx 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-11.jpg" width="60" height="auto"> | <a href="list-names#-grimms-notes-repage">Legend</a> | 0 |  -  | Allies Heal<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-12.jpg" width="60" height="auto"> | <a href="list-names#-valentines-2019">Choco</a> | 4 |  -  | Command 2<br>Aggro<br>
-**[LIMITED]** Chocobo| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo1.jpg" width="60" height="auto"> | 1 |  -  | HP Up<br>Regen 1<br>
-**[LIMITED]** Rinne| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne1.jpg" width="60" height="auto"> | 0 |  -  | Dueling 3<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo1.jpg" width="60" height="auto"> | **[LIMITED]** Chocobo| 1 |  -  | HP Up<br>Regen 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne1.jpg" width="60" height="auto"> | **[LIMITED]** Rinne| 0 |  -  | Dueling 3<br>
 
 # <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="40"> Rods
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Fire Rods
@@ -153,8 +153,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-11.jpg" width="60" height="auto"> | <a href="list-names#-japan-folklore">Turtle</a> | 3 |  -  | Magic Barrier<br>Limit Break 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-12.jpg" width="60" height="auto"> | <a href="list-names#-lotus">Lotus</a> | 4 | AoE<br> | 3 Hit<br>Nuke<br>Critical 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-13.jpg" width="60" height="auto"> | <a href="list-names#-retro-modern">Soda</a> | 5 |  -  | Empower 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
-**[LIMITED]** Rose| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose2.jpg" width="60" height="auto"> | 0 |  -  | Magic Barrier<br>
-**[LIMITED]** Fairy| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy2.jpg" width="60" height="auto"> | 1 | Buff<br> | Critical 2<br>Magic Barrier<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose2.jpg" width="60" height="auto"> | **[LIMITED]** Rose| 0 |  -  | Magic Barrier<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy2.jpg" width="60" height="auto"> | **[LIMITED]** Fairy| 1 | Buff<br> | Critical 2<br>Magic Barrier<br>
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Water Rods
 
@@ -173,7 +173,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-11.jpg" width="60" height="auto"> | <a href="list-names#-sports-2018">Flag</a> | 3 |  -  | Aspir 2<br>Limit Break 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-12.jpg" width="60" height="auto"> | <a href="list-names#-sergeant-keroro">Space Army</a> | 0 |  -  | HP Absorb<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-13.jpg" width="60" height="auto"> | <a href="list-names#-bravely-default-praying-brage">Ruin</a> | 4 | AoE<br> | Limit Break 3<br>
-**[LIMITED]** Valkyrie| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie2.jpg" width="60" height="auto"> | 1 | AoE<br> | Rapid DPS<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie2.jpg" width="60" height="auto"> | **[LIMITED]** Valkyrie| 1 | AoE<br> | Rapid DPS<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Earth Rods
 
@@ -209,8 +209,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-10.jpg" width="60" height="auto"> | <a href="list-names#-summer-2018">Unagi</a> | 3 |  -  | AoE<br>Magic Barrier<br>Aspir 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-11.jpg" width="60" height="auto"> | <a href="list-names#-grimms-notes-repage">Legend</a> | 0 | Buff<br> | Split<br>Fast Cast 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-12.jpg" width="60" height="auto"> | <a href="list-names#-valentines-2019">Lollipop</a> | 4 |  -  | Limit Break 3<br>
-**[LIMITED]** Chocobo| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo2.jpg" width="60" height="auto"> | 1 | AoE<br> | Concentrate 2<br>
-**[LIMITED]** Rinne| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne2.jpg" width="60" height="auto"> | 0 |  -  | Limit Break 3<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo2.jpg" width="60" height="auto"> | **[LIMITED]** Chocobo| 1 | AoE<br> | Concentrate 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne2.jpg" width="60" height="auto"> | **[LIMITED]** Rinne| 0 |  -  | Limit Break 3<br>
 
 # <img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="40"> Books
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Fire Books
@@ -230,8 +230,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-11.jpg" width="60" height="auto"> | <a href="list-names#-japan-folklore">Tamatebako</a> | 3 | Buff<br> | Haste 2<br>Cleanse<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-12.jpg" width="60" height="auto"> | <a href="list-names#-lotus">Lotus</a> | 4 |  -  | 2 Row Heal<br>Mono Revive<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-13.jpg" width="60" height="auto"> | <a href="list-names#-retro-modern">Coffee</a> | 5 |  -  | Heal<br>PA/PD/MA/MD Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Mind 1<br>
-**[LIMITED]** Rose| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose3.jpg" width="60" height="auto"> | 0 | Attack<br> | Heal Area<br>
-**[LIMITED]** Fairy| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy3.jpg" width="60" height="auto"> | 1 |  -  | Heal<br>Cleanse<br>BP +<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose3.jpg" width="60" height="auto"> | **[LIMITED]** Rose| 0 | Attack<br> | Heal Area<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy3.jpg" width="60" height="auto"> | **[LIMITED]** Fairy| 1 |  -  | Heal<br>Cleanse<br>BP +<br>
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Water Books
 
@@ -250,7 +250,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-11.jpg" width="60" height="auto"> | <a href="list-names#-sports-2018">Bento</a> | 3 | Buff<br> | 2 Row Heal<br>Brave 1<br>Default 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-12.jpg" width="60" height="auto"> | <a href="list-names#-sergeant-keroro">Space Army</a> | 0 |  -  | Heal<br>Mono Default 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-13.jpg" width="60" height="auto"> | <a href="list-names#-bravely-default-praying-brage">Ruin</a> | 4 | AoE<br>Attack<br> | AoE Attack<br>Mono Brave/Default 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
-**[LIMITED]** Valkyrie| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie3.jpg" width="60" height="auto"> | 1 |  -  | Heal<br>Revive<br>Heal Area<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie3.jpg" width="60" height="auto"> | **[LIMITED]** Valkyrie| 1 |  -  | Heal<br>Revive<br>Heal Area<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Earth Books
 
@@ -286,8 +286,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-10.jpg" width="60" height="auto"> | <a href="list-names#-summer-2018">Flounder</a> | 3 | Attack<br> | Mono Brave 3<br>BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-11.jpg" width="60" height="auto"> | <a href="list-names#-grimms-notes-repage">Legend</a> | 0 | 2 Row<br> | Heal<br>PA/PD/MA/MD Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-12.jpg" width="60" height="auto"> | <a href="list-names#-valentines-2019">Choco</a> | 4 | Buff<br> | 2 Row<br>HP/BP Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
-**[LIMITED]** Chocobo| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo3.jpg" width="60" height="auto"> | 1 |  -  | Heal<br>Brave 1<br>Default 1<br>
-**[LIMITED]** Rinne| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne3.jpg" width="60" height="auto"> | 0 |  -  | Heal<br>Brave 2<br>BP Recovery<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo3.jpg" width="60" height="auto"> | **[LIMITED]** Chocobo| 1 |  -  | Heal<br>Brave 1<br>Default 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne3.jpg" width="60" height="auto"> | **[LIMITED]** Rinne| 0 |  -  | Heal<br>Brave 2<br>BP Recovery<br>
 
 # <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="40"> Daggers
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Fire Daggers
@@ -307,8 +307,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-11.jpg" width="60" height="auto"> | <a href="list-names#-japan-folklore">Dual-Axes</a> | 3 | 3 Hit<br> | Quick 2<br>Shadow 1<br>Assault 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-12.jpg" width="60" height="auto"> | <a href="list-names#-lotus">Lotus</a> | 4 | Fast 2 Hit<br>AWK Boost<br> | 5 Hit<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Party Quick 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-13.jpg" width="60" height="auto"> | <a href="list-names#-retro-modern">Umbrella</a> | 5 |  -  | Assault 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
-**[LIMITED]** Rose| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose4.jpg" width="60" height="auto"> | 0 | Fast<br> | Boost 1<br>
-**[LIMITED]** Fairy| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy4.jpg" width="60" height="auto"> | 1 | Fast 2 Hit<br> | Boost 1<br>Quick 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose4.jpg" width="60" height="auto"> | **[LIMITED]** Rose| 0 | Fast<br> | Boost 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy4.jpg" width="60" height="auto"> | **[LIMITED]** Fairy| 1 | Fast 2 Hit<br> | Boost 1<br>Quick 2<br>
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Water Daggers
 
@@ -327,7 +327,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-11.jpg" width="60" height="auto"> | <a href="list-names#-sports-2018">Pompom</a> | 3 | Fast<br> | HP Absorb<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-12.jpg" width="60" height="auto"> | <a href="list-names#-sergeant-keroro">Space Army</a> | 0 |  -  | AoE<br>Focus 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-13.jpg" width="60" height="auto"> | <a href="list-names#-bravely-default-praying-brage">Ruin</a> | 4 | 3 Hit<br>AWK Boost<br> | Row<br>Shadow 1<br>Assault 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Row Quick 1<br>
-**[LIMITED]** Valkyrie| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie4.jpg" width="60" height="auto"> | 1 |  -  | Nuke<br>Quick 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie4.jpg" width="60" height="auto"> | **[LIMITED]** Valkyrie| 1 |  -  | Nuke<br>Quick 1<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Earth Daggers
 
@@ -363,8 +363,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-10.jpg" width="60" height="auto"> | <a href="list-names#-summer-2018">Mackerel</a> | 3 |  -  | AoE<br>Nuke<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-11.jpg" width="60" height="auto"> | <a href="list-names#-grimms-notes-repage">Legend</a> | 0 |  -  | Focus 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-12.jpg" width="60" height="auto"> | <a href="list-names#-valentines-2019">Fondue</a> | 4 | Fast 2 Hit<br>Aim 100%<br>AWK Boost<br> | Dagger Stance<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Row Quick 1<br>
-**[LIMITED]** Chocobo| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo4.jpg" width="60" height="auto"> | 1 |  -  | Shadow 1<br>
-**[LIMITED]** Rinne| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne4.jpg" width="60" height="auto"> | 0 |  -  | Dodge 3<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo4.jpg" width="60" height="auto"> | **[LIMITED]** Chocobo| 1 |  -  | Shadow 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne4.jpg" width="60" height="auto"> | **[LIMITED]** Rinne| 0 |  -  | Dodge 3<br>
 
 # <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="40"> Bows
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Fire Bows
@@ -384,8 +384,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-11.jpg" width="60" height="auto"> | <a href="list-names#-japan-folklore">Bear</a> | 3 | AoE<br> | AoE, Mono Weakness 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-12.jpg" width="60" height="auto"> | <a href="list-names#-lotus">Lotus</a> | 4 |  -  | Fire Chaser 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-13.jpg" width="60" height="auto"> | <a href="list-names#-retro-modern">Briefcase</a> | 5 |  -  | Slow 3<br>
-**[LIMITED]** Rose| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose5.jpg" width="60" height="auto"> | 0 |  -  | Poison to Damage<br>
-**[LIMITED]** Fairy| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy5.jpg" width="60" height="auto"> | 1 |  -  | Dispel<br>Poison to Damage<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose5.jpg" width="60" height="auto"> | **[LIMITED]** Rose| 0 |  -  | Poison to Damage<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy5.jpg" width="60" height="auto"> | **[LIMITED]** Fairy| 1 |  -  | Dispel<br>Poison to Damage<br>
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Water Bows
 
@@ -404,7 +404,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-11.jpg" width="60" height="auto"> | <a href="list-names#-sports-2018">Baton</a> | 3 |  -  | Dodge 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-12.jpg" width="60" height="auto"> | <a href="list-names#-sergeant-keroro">Space Army</a> | 0 |  -  | AoE<br>PA/PD/MA/MD Down<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-13.jpg" width="60" height="auto"> | <a href="list-names#-bravely-default-praying-brage">Ruin</a> | 4 |  -  | Water Chaser 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
-**[LIMITED]** Valkyrie| <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie5.jpg" width="60" height="auto"> | 1 |  -  | Slowcast 1<br>Poison Up 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie5.jpg" width="60" height="auto"> | **[LIMITED]** Valkyrie| 1 |  -  | Slowcast 1<br>Poison Up 1<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Earth Bows
 
