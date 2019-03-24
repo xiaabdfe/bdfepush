@@ -185,8 +185,8 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-13.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">和傘の仕込み刀</a><br>Concealed Blade in Japanese Umbrella
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-13.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">弓椿の仕込み鞄</a><br>Briefcase Camellia Bow
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> **[LIMITED]** Rose
-**Slot: 0**<br>Weapon Names: "Passion" *something*<br>More commonly referred as "Rose" due to its iconic appearance and animation.<br>JP Community: 薔薇 *Rose*
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Rose
+**[LIMITED]**<br>**Slot: 0**<br>Weapon Names: "Passion" *something*<br>More commonly referred as "Rose" due to its iconic appearance and animation.<br>JP Community: 薔薇 *Rose*
 
 EQ | Names
 :-:|---
@@ -196,8 +196,8 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose4.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">情熱の双剣</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose5.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">情熱の魅弓</a>
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> **[LIMITED]** 1st Anniversary
-**Slot: 1**<br>While there is "Fairy's" in both anniversary series, 1st anniversary's is in katakana while 2nd anniversary's is in kanji.
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 1st Anniversary
+**[LIMITED]**<br>**Slot: 1**<br>While there is "Fairy's" in both anniversary series, 1st anniversary's is in katakana while 2nd anniversary's is in kanji.
 
 EQ | Names
 :-:|---
@@ -352,8 +352,8 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-13.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">ルインブレイド</a><br>Ruin Blade
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-13.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">ルインボウ</a><br>Ruin Bow
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> **[LIMITED]** Valkyrie Profile
-**Slot: 1**
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Valkyrie Profile
+**[LIMITED]**<br>**Slot: 1**
 
 EQ | Names
 :-:|---
@@ -642,8 +642,8 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-12.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">アラザンチョコフォンデュ</a><br>Argent Choco Fondue
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-12.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">アロアロキャンディ</a><br>Arrow Arrow Candy
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> **[LIMITED]** Final Fantasy Brave Exvius
-**Slot: 1**
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Final Fantasy Brave Exvius
+**[LIMITED]**<br>**Slot: 1**
 
 EQ | Names
 :-:|---
@@ -653,8 +653,8 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo4.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">チョコボクロウ</a><br>Chocobo Crow
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo5.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">チョコボメナス</a><br>Chocobo Menace
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> **[LIMITED]** 2nd Anniversary
-**Slot: 0**<br>In many of the weapons, there is katakana キセキ which can mean either 軌跡 Traces or 奇跡 Miracle
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> 2nd Anniversary
+**[LIMITED]**<br>**Slot: 0**<br>In many of the weapons, there is katakana キセキ which can mean either 軌跡 Traces or 奇跡 Miracle
 
 EQ | Names
 :-:|---
