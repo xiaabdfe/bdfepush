@@ -23,12 +23,12 @@
 	
 ### Table of Contents
 
-<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="50"> [Swords](#-swords) | <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="50"> [Rods](#-rods) | <img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="50"> [Books](#-books) | <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="50"> [Daggers](#-daggers) | <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width5025"> [Bows](#-bows)
+<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="50"> [Swords](#-swords) | <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="50"> [Rods](#-rods) | <img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="50"> [Books](#-books) | <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="50"> [Daggers](#-daggers) | <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="50"> [Bows](#-bows)
 :-:|:-:|:-:|:-:|:-:
-[FireSwords](#-fire-swords) | [FireRods](#-fire-rods) | [FireBooks](#-fire-rooks) | [FireDaggers](#-fireDaggers) | [FireBows](#-fire-rows)
-[WaterSwords](#-water-swords) | [WaterRods](#-water-rods) | [WaterBooks](#-water-rooks) | [WaterDaggers](#-water-raggers) | [WaterBows](#-waterBows)
-[EarthSwords](#-earth-swords) | [EarthRods](#-earth-rods) | [EarthBooks](#-earth-rooks) | [EarthDaggers](#-earth-raggers) | [EarthBows](#-earthBows)
-[WindSwords](#-wind-swords) | [WindRods](#-wind-rods) | [WindBooks](#-wind-rooks) | [WindDaggers](#-windDaggers) | [WindBows](#-wind-rows)
+[Fire Swords](#-fire-swords) | [Fire Rods](#-fire-rods) | [Fire Books](#-fire-books) | [Fire Daggers](#-fire-daggers) | [Fire Bows](#-fire-bows)
+[Water Swords](#-water-swords) | [Water Rods](#-water-rods) | [Water Books](#-water-books) | [Water Daggers](#-water-daggers) | [Water Bows](#-water-bows)
+[Earth Swords](#-earth-swords) | [Earth Rods](#-earth-rods) | [Earth Books](#-earth-books) | [Earth Daggers](#-earth-daggers) | [Earth Bows](#-earth-bows)
+[Wind Swords](#-wind-swords) | [Wind Rods](#-wind-rods) | [Wind Books](#-wind-books) | [Wind Daggers](#-wind-daggers) | [Wind Bows](#-wind-bows)
 
 * [Collab Weapons Name Conversion](#collab-weapons-name-conversion)
 * [EX Weapons](#ex-weapons)
