@@ -446,6 +446,7 @@ Collab | Effects | Slot | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Danmachi | Earth reload -15s | 2 | Bell | Bell | Bell
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Danmachi | Earth reload -15s | 1 | Ais | Ais | Ais
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Danmachi | Earth reload -15s | 2 | Lefiya | Lefiya | Lefiya
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bravely Second | Wind reload -15s | 2 | Edea | Agnes | Tiz
 
 ## Collab Chests
 *All in the table below have the same following effects:*
@@ -499,6 +500,7 @@ Collab | Effects | Slot | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Danmachi | Waste +50<br><img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> Earth BP cost -1<br>(Job-universal) | 1/2/2 | Bell | Ais | Lefiya
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Danmachi | Blind/Waste +25<br><img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> Earth BP cost -1<br>(Job-universal) | 2/2/1 | Ais | Lefiya | Bell
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Danmachi | Blind +50<br><img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> Earth BP cost -1<br>(Job-universal) | 2/1/2 | Lefiya | Bell | Ais
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bravely Second | Bleed/Pressure +35<br><img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> Wind BP cost -1<br>(Job-universal) | 2 | Edea | Agnes | Tiz
 
 ## Collab Pants
 *All in the table below have the same following effects:*
@@ -544,6 +546,7 @@ Collab | Effects | Slot | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Danmachi | Earth special power +50<br><img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> Earth auto power +10; <br>earth special power +20 | 1/2/2 | Bell | Ais | Lefiya
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Danmachi | Earth critical rate +10%<br><img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> Earth auto power +10; <br>earth special power +20 | 2/2/1 | Ais | Lefiya | Bell
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Danmachi | Earth auto power +30<br><img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> Earth auto power +10; <br>earth special power +20 | 2/1/2 | Lefiya | Bell | Ais
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bravely Second | Wind auto power +30<br><img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> Wind auto power +10; <br>wind special power +20 | 2 | Edea | Agnes | Tiz
 
 ## Collab Hybrid
 * They occupy spaces of both chest and pants, being effectively two pieces of armours in one. e.g. if you equip one to chest slot 1, it will also occupy pants slot 1.
