@@ -416,6 +416,34 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-4.jpg" width="60" height="auto"> | <a href="list-names#-euclid">Euclid</a> | 3 | Buff<br> | Forceless 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-5.jpg" width="60" height="auto"> | <a href="list-names#-bull">Bull</a> | 4 | AoE<br> | Slowcast 2<br>Debuff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-6.jpg" width="60" height="auto"> | <a href="list-names#-dragon-slayer">Dragon Slayer</a> | 5 |  -  | AoE<br>Mono Slow 3<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-7.jpg" width="60" height="auto"> | <a href="list-names#-royal">Royal</a> | 1 |  -  | Dispel<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-8.jpg" width="60" height="auto"> | <a href="list-names#-nier-automata">Zeroth Type</a> | 0 |  -  | Aim/Avo/CR/CP/SP Down<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-9.jpg" width="60" height="auto"> | <a href="list-names#-sakura">Sakura</a> | 2 | Heal<br> | Weakness 2<br>Forceless 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-10.jpg" width="60" height="auto"> | <a href="list-names#-octopath-traveler">Road of</a> | 0 |  -  | AoE<br>Weakness 1<br>Slowcast 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-11.jpg" width="60" height="auto"> | <a href="list-names#-halloween-2018">Silver Bullet</a> | 3 |  -  | Heal<br>Hawkeye 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-12.jpg" width="60" height="auto"> | <a href="list-names#-christmas-2018">Blessing</a> | 4 | AoE<br> | AoE<br>Weakness 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-13.jpg" width="60" height="auto"> | <a href="list-names#-danmachi">Heavenly</a> | 5 |  -  | Mono Weakness 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Hawkeye 1<br>
+
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Wind Bows
+
+EQ | Name | Slot | Auto | Special
+:-:|---|:-:|---|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-1.jpg" width="60" height="auto"> | <a href="list-names#-old-wind">Rising</a> | 1 |  -  | AoE<br>PA/PD Down<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-2.jpg" width="60" height="auto"> | <a href="list-names#-condemnation">Condemn</a> | 0 |  -  | Earth Poison<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-3.jpg" width="60" height="auto"> | <a href="list-names#-quartz">Quartz</a> | 2 |  -  | Slowcast 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Slow 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-4.jpg" width="60" height="auto"> | <a href="list-names#-bone">Bone</a> | 3 |  -  | Poison to Heal<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-5.jpg" width="60" height="auto"> | <a href="list-names#-twilight">Twilight</a> | 4 |  -  | PA/PD/MA/MD Down<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-6.jpg" width="60" height="auto"> | <a href="list-names#-music">Harp</a> | 5 | AoE<br> | Mono Weakness/Forceless 1<br>Debuff Extend<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-7.jpg" width="60" height="auto"> | <a href="list-names#-valentines-2018">Cupid</a> | 1 |  -  | Slow 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-8.jpg" width="60" height="auto"> | <a href="list-names#-glitzy">Glitzy</a> | 2 | AoE<br> | AoE<br>Dispel<br>Poison Up 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-9.jpg" width="60" height="auto"> | <a href="list-names#-bleach">Illusion</a> | 0 |  -  | Weakness 1<br>Forceless 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-10.jpg" width="60" height="auto"> | <a href="list-names#-summer-2018">Hairtail</a> | 3 |  -  | AoE<br>Mono Weakness/Forceless 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-11.jpg" width="60" height="auto"> | <a href="list-names#-grimms-notes-repage">Legend</a> | 0 | AoE<br> | AoE<br>PA/PD/MA/MD Down<br>Hawkeye 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-12.jpg" width="60" height="auto"> | <a href="list-names#-valentines-2019">Candy</a> | 4 |  -  | Wind Chaser 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo5.jpg" width="60" height="auto"> | **[LIMITED]** Chocobo| 1 |  -  | Weakness 1<br>Forceless 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne5.jpg" width="60" height="auto"> | **[LIMITED]** Rinne| 0 | AoE<br> | AoE<br>Mono Weakness 3<br>
+
+
 
 
 # EX Weapons
