@@ -5,7 +5,7 @@
 	* <a href="guide-2.md">Beginner's Guide: Just Started</a>
 	* <a href="guide-3.md">Beginner's Guide: Getting Stronger</a>
 	* <a href="guide-4.md">Guide: Bossing</a>
- *	<a href="guide-5.md">Guide: Inheritance</a>
+ 	* <a href="guide-5.md">Guide: Inheritance</a>
 	* <a href="guide-6.md">Guide: Medals</a>
 * Abyss Guides
 	* <a href="abyss-60.md">Floor 60</a>
