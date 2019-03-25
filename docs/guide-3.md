@@ -1,12 +1,12 @@
-﻿# Beginner's Guide: Getting Stronger
+# General Guides: Getting Stronger
 ### Directory
 * General Guides
-	* <a href="guide-1.md">Beginner's Guide: Starting</a>
-	* <a href="guide-2.md">Beginner's Guide: Just Started</a>
-	* **Beginner's Guide: Getting Stronger**
-	* <a href="guide-4.md">Guide: Bossing</a>
-	* <a href="guide-5.md">Guide: Inheritance</a>
-	* <a href="guide-6.md">Guide: Medals</a>
+	* <a href="guide-1.md">Starting</a>
+	* <a href="guide-2.md">Just Started</a>
+	* **Getting Stronger**
+	* <a href="guide-4.md">Bossing</a>
+	* <a href="guide-5.md">Inheritance</a>
+	* <a href="guide-6.md">Medals</a>
 * Abyss Guides
 	* <a href="abyss-60.md">Floor 60</a>
 	* <a href="abyss-65.md">Floor 65</a>
@@ -20,6 +20,12 @@
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
 	* <a href="list-names.md">Weapon Names</a>
+* Reroll Suggestions
+	* <a href="reroll-1.md">Knight</a>
+	* <a href="reroll-2.md">Black Mage</a>
+	* <a href="reroll-3.md">White Mage</a>
+	* <a href="reroll-4.md">Thief</a>
+	* <a href="reroll-5.md">Ranger</a>
 
 ### Table of Contents
 * [Character Development](#character-development)
@@ -32,18 +38,19 @@
 	* [Skill Inheritance](#skill-inheritance)
 * [Resources](#resources)
 	* [pq](#pq)
-	* [Hammer](#hammer-1)
+	* [Hammer](#hammer)
 	* [Boost Items](#boost-items)
 	* [Artifacts](#artifacts)
 	* [Rare Coin](#rare-coin)
 	* [Brave Coin](#brave-coin)
 	* [Casino Coin](#casino-coin)
 	* [Legend Coin](#legend-coin)
-	* [Evolution Fodders/Scrolls](#evolution-fodderscrolls)
+	* [Evolution Fodders/Scrolls](#evolution-foddersscrolls)
 	* [Elemental Crystals](#elemental-crystals)
 	* [EXP](#exp)
 	* [Mythril](#mythril)
 
+﻿
 # Character Development
 Job Level
 

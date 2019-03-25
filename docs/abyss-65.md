@@ -1,12 +1,12 @@
-# Abyss Floor 65
+# Abyss Guides: Floor 65
 ### Directory
 * General Guides
-	* <a href="guide-1.md">Beginner's Guide: Starting</a>
-	* <a href="guide-2.md">Beginner's Guide: Just Started</a>
-	* <a href="guide-3.md">Beginner's Guide: Getting Stronger</a>
-	* <a href="guide-4.md">Guide: Bossing</a>
-	* <a href="guide-5.md">Guide: Inheritance</a>
-	* <a href="guide-6.md">Guide: Medals</a>
+	* <a href="guide-1.md">Starting</a>
+	* <a href="guide-2.md">Just Started</a>
+	* <a href="guide-3.md">Getting Stronger</a>
+	* <a href="guide-4.md">Bossing</a>
+	* <a href="guide-5.md">Inheritance</a>
+	* <a href="guide-6.md">Medals</a>
 * Abyss Guides
 	* <a href="abyss-60.md">Floor 60</a>
 	* **Floor 65**
@@ -20,7 +20,25 @@
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
 	* <a href="list-names.md">Weapon Names</a>
-	
+* Reroll Suggestions
+	* <a href="reroll-1.md">Knight</a>
+	* <a href="reroll-2.md">Black Mage</a>
+	* <a href="reroll-3.md">White Mage</a>
+	* <a href="reroll-4.md">Thief</a>
+	* <a href="reroll-5.md">Ranger</a>
+
+### Table of Contents
+* [Hell Tyrant](#hell-tyrant)
+* [Overview](#overview)
+* [Pattern/Thresholds](#patternthresholds)
+* [Tips](#tips)
+	* [Knight](#knight)
+	* [White Mage](#white-mage)
+	* [Black Mage / Thief](#black-mage--thief)
+	* [Ranger](#ranger)
+* [References](#references)
+
+
 # Hell Tyrant
 ![Boss](https://caelum.s-ul.eu/14mjTM22.jpg)
 * <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Fire/Demon/Magical

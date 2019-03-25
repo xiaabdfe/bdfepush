@@ -1,12 +1,12 @@
-﻿# Guide: Inheritance
+# General Guides: Inheritance
 ### Directory
 * General Guides
-	* <a href="guide-1.md">Beginner's Guide: Starting</a>
-	* <a href="guide-2.md">Beginner's Guide: Just Started</a>
-	* <a href="guide-3.md">Beginner's Guide: Getting Stronger</a>
-	* <a href="guide-4.md">Guide: Bossing</a>
-	* **Guide: Inheritance**
-	* <a href="guide-6.md">Guide: Medals</a>
+	* <a href="guide-1.md">Starting</a>
+	* <a href="guide-2.md">Just Started</a>
+	* <a href="guide-3.md">Getting Stronger</a>
+	* <a href="guide-4.md">Bossing</a>
+	* **Inheritance**
+	* <a href="guide-6.md">Medals</a>
 * Abyss Guides
 	* <a href="abyss-60.md">Floor 60</a>
 	* <a href="abyss-65.md">Floor 65</a>
@@ -20,6 +20,12 @@
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
 	* <a href="list-names.md">Weapon Names</a>
+* Reroll Suggestions
+	* <a href="reroll-1.md">Knight</a>
+	* <a href="reroll-2.md">Black Mage</a>
+	* <a href="reroll-3.md">White Mage</a>
+	* <a href="reroll-4.md">Thief</a>
+	* <a href="reroll-5.md">Ranger</a>
 
 ### Table of Contents
 * [General](#general)
@@ -35,6 +41,7 @@
 	* [Other Weapons](#other-weapons)
 * [Disclaimers](#disclaimers)
 
+﻿
 # General
 Inheritance is an action to consume a piece of inheritance fodder to add a new effect to the piece of equipment. The inheritance fodder is lost forever after used. However, the inherited effect can be replaced over and over again. The topic of inheritance is very vast and complicated. There are two types of inheritance: skill inheritance and effect inheritance. There is no inheritance for medals.
 

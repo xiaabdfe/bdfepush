@@ -1,12 +1,12 @@
-﻿# Beginner's Guide: Just Started
+# General Guides: Just Started
 ### Directory
 * General Guides
-	* <a href="guide-1.md">Beginner's Guide: Starting</a>
-	* <a href="guide-2.md">Beginner's Guide: Just Started</a>
-	* <a href="guide-3.md">Beginner's Guide: Getting Stronger</a>
-	* <a href="guide-4.md">Guide: Bossing</a>
-	* <a href="guide-5.md">Guide: Inheritance</a>
-	* <a href="guide-6.md">Guide: Medals</a>
+	* <a href="guide-1.md">Starting</a>
+	* **Just Started**
+	* <a href="guide-3.md">Getting Stronger</a>
+	* <a href="guide-4.md">Bossing</a>
+	* <a href="guide-5.md">Inheritance</a>
+	* <a href="guide-6.md">Medals</a>
 * Abyss Guides
 	* <a href="abyss-60.md">Floor 60</a>
 	* <a href="abyss-65.md">Floor 65</a>
@@ -20,6 +20,12 @@
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
 	* <a href="list-names.md">Weapon Names</a>
+* Reroll Suggestions
+	* <a href="reroll-1.md">Knight</a>
+	* <a href="reroll-2.md">Black Mage</a>
+	* <a href="reroll-3.md">White Mage</a>
+	* <a href="reroll-4.md">Thief</a>
+	* <a href="reroll-5.md">Ranger</a>
 
 ### Table of Contents
 * [Account Binding](#account-binding)
@@ -31,7 +37,8 @@
 	* [Debuffs](#debuffs)
 	* [Tile Effects](#tile-effects)
 * [Equipment](#equipment)
-* [How to Gear (Basic)](#how-to-gear-basic)
+	* [Categories](#categories)
+* [How to Gear (Basic)](#how-to-gear-(basic))
 	* [Weapons](#weapons)
 	* [Armours](#armours)
 	* [Medals](#medals)
@@ -39,8 +46,8 @@
 	* [00:00](#0000)
 	* [04:00](#0400)
 	* [15:00](#1500)
-* [Miscellaneous](#miscellaneous)
 
+﻿
 # Account Binding
 If you are content with this game / account and would like to keep your account, you have to bind it. Do this as soon as possible unless you don't mind losing the account.
 

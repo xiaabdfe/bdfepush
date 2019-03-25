@@ -1,29 +1,35 @@
-# Weapon Names
+# Equipment Data: Weapon Names
 ### Directory
 * General Guides
-	* <a href="guide-1.md">Beginner's Guide: Starting</a>
-	* <a href="guide-2.md">Beginner's Guide: Just Started</a>
-	* <a href="guide-3.md">Beginner's Guide: Getting Stronger</a>
-	* <a href="guide-4.md">Guide: Bossing</a>
- 	* <a href="guide-5.md">Guide: Inheritance</a>
-	* <a href="guide-6.md">Guide: Medals</a>
+	* <a href="guide-1.md">Starting</a>
+	* <a href="guide-2.md">Just Started</a>
+	* <a href="guide-3.md">Getting Stronger</a>
+	* <a href="guide-4.md">Bossing</a>
+	* <a href="guide-5.md">Inheritance</a>
+	* <a href="guide-6.md">Medals</a>
 * Abyss Guides
 	* <a href="abyss-60.md">Floor 60</a>
 	* <a href="abyss-65.md">Floor 65</a>
 	* <a href="abyss-70.md">Floor 70</a>
-	* <a href="abyss-65.md">Floor 75</a>
-	* <a href="abyss-80.md">Floor 70</a>
-	* <a href="abyss-65.md">Floor 85</a>
-	* <a href="abyss-90.md">Floor 70</a>
-	* <a href="abyss-65.md">Floor 95</a>
+	* <a href="abyss-75.md">Floor 75</a>
+	* <a href="abyss-80.md">Floor 80</a>
+	* <a href="abyss-85.md">Floor 85</a>
+	* <a href="abyss-90.md">Floor 90</a>
+	* <a href="abyss-95.md">Floor 95</a>
 * Equipment Data
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
 	* **Weapon Names**
+* Reroll Suggestions
+	* <a href="reroll-1.md">Knight</a>
+	* <a href="reroll-2.md">Black Mage</a>
+	* <a href="reroll-3.md">White Mage</a>
+	* <a href="reroll-4.md">Thief</a>
+	* <a href="reroll-5.md">Ranger</a>
 
 ### Table of Contents
 
-<img src="https://caelum.s-ul.eu/2p740des.png" width="25"> [Fire Weapons](#fire-weapons) | <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> [Water Weapons](#water-weapons) | <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> [Earth Weapons](#earth-weapons) | <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> [Wind Weapons](#wind-weapons)
+<img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> [Fire Weapons](#fire-weapons) | <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> [Water Weapons](#water-weapons) | <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> [Earth Weapons](#earth-weapons) | <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> [Wind Weapons](#wind-weapons)
 ---|---|---|---
 [Old Fire](#-old-fire) | [Old Water](#-old-water) | [Old Earth](#-old-earth) | [Old Wind](#-old-wind)
 [Holy Dragon](#-holy-dragon) | [Old Water](#-old-water) | [Steampunk](#-steampunk) | [Condemnation](#-condemnation)
@@ -42,7 +48,7 @@
 [1st Anniversary](#-1st-anniversary) | \- | \- | \-
 
 # Fire Weapons
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Old Fire
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Old Fire
 **Slot: 1**, except Book (Slot: 0)<br>Weapons from launch
 
 EQ | Names
@@ -53,7 +59,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-1.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">業炎の鬼双刃</a><br>Purgatory Dagger
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-1.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">シュヴァルツヴァルト</a><br>Schwarzwald
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Holy Dragon
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Holy Dragon
 **Slot: 0**, except Book (Slot: 1)<br>Weapons from launch<br>Weapon names: "Holy Dragon Scales" *something*<br>JP Community: せいるー (Simplified form of original せいりゅう)
 
 EQ | Names
@@ -64,7 +70,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-2.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">聖龍鱗の双爪剣</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-2.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">聖龍鱗の翼弓</a>
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Dark Angel
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Dark Angel
 **Slot: 2**<br>JP Community: ダクエン (Abbreviation)
 
 EQ | Names
@@ -75,7 +81,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-3.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">ダークエンジェルエッジ</a><br>Dark Angel Edge
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-3.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">ダークエンジェルボウ</a><br>Dark Angel Bow
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Chain
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Chain
 **Slot: 3**<br>Named Chain for the iconic animation of chains (except Dagger)
 
 EQ | Names
@@ -86,7 +92,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-4.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">愚者のナイフ</a><br>Fool's Knife
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-4.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">夢骨の束縛弓</a>
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Halloween 2017
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Halloween 2017
 **Slot: 4**
 
 EQ | Names
@@ -97,7 +103,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-5.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">ツインゴースト</a><br>Twin Ghost
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-5.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">スパイダーアロー</a><br>Spider Arrow
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> New Year 2018
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> New Year 2018
 **Slot: 5**<br>The series mainly consists of activities or auspicious objects in a Japanese New Year.
 
 EQ | Names
@@ -108,7 +114,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-6.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">毬杖の双剣</a><br>Gicchou Dagger (while shaped like a Hagoita)
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-6.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">結びの艶弓</a><br>Knot Bow
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Phoenix
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Phoenix
 **Slot: 1**<br>Weapon Names: "Sun Moon" *something*<br>Named Phoenix because of box name and special skill names starting with 鳳凰来儀
 
 EQ | Names
@@ -119,7 +125,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-7.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">陽月匕首</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-7.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">陽月楊弓</a>
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Demon
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Demon
 **Slot: 2**<br>Weapon Names: *random Katakana of unknown origins*<br>JP Community: ブラッキー (*Blacky*, that all special skill names start with)
 
 EQ | Names
@@ -130,7 +136,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-8.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">フリーダーモース</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-8.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">ジョーヴ・スーリ</a><br>JP Community: 蝙蝠 (こうもり, *Bat*)
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Kairisei Million Arthur
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Kairisei Million Arthur
 **Slot: 0**
 
 EQ | Names
@@ -141,7 +147,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-9.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">エンシェントダガー</a><br>Ancient Dagger
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-9.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">エンシェントボウ</a><br>Ancient Bow
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Grimms Notes Repage
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Grimms Notes Repage
 **Slot: 0**<br>Weapon names are fairly random, but named "Ritual" anyway since it is as close as we got to give it a theme
 
 EQ | Names
@@ -152,7 +158,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-10.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">亡者の呼び声</a><br>Cries of the Dead
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-10.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">業火の術弓</a><br>Purgatory Bow
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Japan Folklore
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Japan Folklore
 **Slot: 3**<br>They are from three popular Japanese folklores - [Momotarou](https://en.wikipedia.org/wiki/Momotar%C5%8D), [Urashimatarou](https://en.wikipedia.org/wiki/Urashima_Tar%C5%8D) and [Kintarou](https://en.wikipedia.org/wiki/Kintar%C5%8D).
 
 EQ | Names
@@ -163,7 +169,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-11.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">マサカリの双斧</a><br>Dual Axes (Kintarou)
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-11.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">金太郎の熊弓</a><br>Kintarou's Bear Bow
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Lotus
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Lotus
 **Slot: 4**
 
 EQ | Names
@@ -174,7 +180,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-12.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">蓮の扇双剣</a><br>Lotus Fan Sword
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-12.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">蓮の金華弓</a><br>Lotus Golden Flower Bow
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Retro Modern
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Retro Modern
 **Slot: 5**
 
 EQ | Names
@@ -185,7 +191,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-13.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">和傘の仕込み刀</a><br>Concealed Blade in Japanese Umbrella
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-13.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">弓椿の仕込み鞄</a><br>Briefcase Camellia Bow
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> Rose
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Rose
 **[LIMITED]**<br>**Slot: 0**<br>Weapon Names: "Passion" *something*<br>More commonly referred as "Rose" due to its iconic appearance and animation.<br>JP Community: 薔薇 *Rose*
 
 EQ | Names
@@ -196,7 +202,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose4.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">情熱の双剣</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose5.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">情熱の魅弓</a>
 
-## <img src="https://caelum.s-ul.eu/2p740des.png" width="25"> 1st Anniversary
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> 1st Anniversary
 **[LIMITED]**<br>**Slot: 1**<br>While there is "Fairy's" in both anniversary series, 1st anniversary's is in katakana while 2nd anniversary's is in kanji.
 
 EQ | Names
@@ -209,7 +215,7 @@ EQ | Names
 
 
 # Water Weapons
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Old Water
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Old Water
 **Slot: 1**<br>Weapons from launch
 
 EQ | Names
@@ -220,7 +226,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-1.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">次元裂傷の魔短刀</a><br>Dimensional Dagger
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-2.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">聖硝子の魔大弓</a><br>Butterfly Bow (lit. Magic Bow of Holy Glass, the bow itself is made of butterfly-shaped stained glass)<br>JP Community: ガラス (Alternate form of 硝子 *Glass*)
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Old Water
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Old Water
 **Slot: 0**<br>Weapons from launch
 
 EQ | Names
@@ -231,7 +237,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-2.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">アンカザスの宝剣</a><br>Ancazas Dagger
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-1.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">海龍の宝珠</a><br>Sea Dragon's Pearl
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Evil Eye
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Evil Eye
 **Slot: 2**<br>Weapon Names: "Evil Eye" *random katakana of unknown origins*
 
 EQ | Names
@@ -242,7 +248,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-3.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">邪眼ケルクスス</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-3.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">邪眼トライツァウト</a>
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Summer 2017
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Summer 2017
 **Slot: 3**
 
 EQ | Names
@@ -253,7 +259,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-4.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">完熟スイカ</a><br>Fully Ripe Watermelon
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-4.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">びしょ濡れシューター</a><br>Dripping Wet Shooter<br>Alias: Watergun Bow<br>JP Community: 水鉄砲 *Watergun*
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Animal
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Animal
 **Slot: 4**<br>Weapon Names: "Demon Tanuki/Kitty/Squirrel" *random katakana of unknown origins*
 
 EQ | Names
@@ -264,7 +270,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-5.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">魔栗鼠イリエレール</a><br>Squirrel Dagger
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-5.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">化栗鼠スキュリレール</a><br>Squirrel Bow<br>JP Community: リス (Alternate form of 栗鼠)
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Christmas 2017
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Christmas 2017
 **Slot: 5**
 
 EQ | Names
@@ -275,7 +281,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-6.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">ベルズオブセイト</a><br>Bells of Saint
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-6.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">クリスタルオブスノウ</a><br>Crystal of Snow<br>JP Community: 雪だるま *Snowman*
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Compass
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Compass
 **Slot: 1**
 
 EQ | Names
@@ -286,7 +292,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-7.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">アクアフックソード</a><br>Aqua Hook Sword<br>Alias: Compass Dagger
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-7.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">コンパスシューター</a><br>Compass Shooter
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Fullmetal Alchemist
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Fullmetal Alchemist
 **Slot: 0**<br>JP Community: アンケミ
 
 EQ | Names
@@ -297,7 +303,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-8.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">アンケミカルクロス</a><br>Anchemical Cross
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-8.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">アンケミカルボウ</a><br>Anchemical Bow
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Tanabata
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Tanabata
 **Slot: 2**<br>Weapon Names: "Stardust" *something*
 
 EQ | Names
@@ -308,7 +314,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-9.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">星屑の天懐剣</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-9.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">星屑の綺羅弩</a>
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Kairisei Million Arthur
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Kairisei Million Arthur
 **Slot: 0**<br>Weapon Names: "King's" *something*
 
 EQ | Names
@@ -319,7 +325,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-10.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">王の双剣</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-10.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">王の大弓</a>
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Sports 2018
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Sports 2018
 **Slot: 3**
 
 EQ | Names
@@ -330,7 +336,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-11.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">伝説のポンポン</a><br>Legendary Pompom
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-11.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">伝説のチアバトン</a><br>Legendary Cheer Baton
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Sergeant Keroro
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Sergeant Keroro
 **Slot: 0**
 
 EQ | Names
@@ -341,7 +347,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-12.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">スペースミリタリーカッター</a><br>Space Military Cutter
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-12.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">スペースミリタリーショット</a><br>Space Military Shot
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Bravely Default Praying Brage
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Bravely Default Praying Brage
 **Slot: 4**
 
 EQ | Names
@@ -352,7 +358,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-13.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">ルインブレイド</a><br>Ruin Blade
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-13.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">ルインボウ</a><br>Ruin Bow
 
-## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25"> Valkyrie Profile
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Valkyrie Profile
 **[LIMITED]**<br>**Slot: 1**
 
 EQ | Names
@@ -365,7 +371,7 @@ EQ | Names
 
 
 # Earth Weapons
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Old Earth
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Old Earth
 **Slot: 0**<br>Weapons from launch
 
 EQ | Names
@@ -376,7 +382,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-1.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">蒼天の剣</a><br>Blue Sky Sword
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-1.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">ガイナテックボウ</a><br>Gainatec Bow
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Steampunk
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Steampunk
 **Slot: 1**<br>Weapons from launch<br>Weapon Names: "Mechanical Soldier" *random katakana of unknown origins*<br>Named Steampunk for the iconic steam animation
 
 EQ | Names
@@ -387,7 +393,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-2.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">機械兵ドドゾゲブ</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-2.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">機械兵ベボヅザ</a>
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Spiritual
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Spiritual
 **Slot: 2**
 
 EQ | Names
@@ -398,7 +404,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-3.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">スピリチュアルエッジ</a><br>Spiritual Edge
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-3.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">スピリチュアルシューター</a><br>Spiritual Shooter
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Euclid
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Euclid
 **Slot: 3**<br>Weapon Names: "Thoughts Crystal" *something*<br>Named Euclid for the special skill names starting with ユークリッド
 
 EQ | Names
@@ -409,7 +415,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-4.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">思念結晶の双剣</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-4.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">思念結晶の集積弓</a>
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Bull
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Bull
 **Slot: 4**<br>Weapon Names: "Judgement" *something*<br>Named Bull for the bull's horns from special animation and on weapons themselves; sometimes "Nether" is added because of box name
 
 EQ | Names
@@ -420,7 +426,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-5.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">裁断の角刃</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-5.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">裁断の極彩弓</a>
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Dragon Slayer
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Dragon Slayer
 **Slot: 5**<br>Weapon Names: "Dragon Slayer" *something*
 
 EQ | Names
@@ -431,7 +437,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-6.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">滅竜の双剣</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-6.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">滅竜の弓</a>
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Royal
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Royal
 **Slot: 1**<br>Sometimes also called Card series because of special animation
 
 EQ | Names
@@ -442,7 +448,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-7.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">ロイヤルエッジ</a><br>Royal Edge
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-7.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">ロイヤルジョーカー</a><br>Royal Joker
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> NieR Automata
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> NieR Automata
 **Slot: 0**<br>Weapon Names: *something*: "Zeroth Type"<br>JP Community: ニーア *Nier*
 
 EQ | Names
@@ -453,7 +459,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-8.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">戦技双刀：零型</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-8.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">戦術弓：零型</a>
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Sakura
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Sakura
 **Slot: 2**<br>Weapon Names: "Cherry Blossom" *something*
 
 EQ | Names
@@ -464,7 +470,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-9.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">桜花の鬼双剣</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-9.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">桜花の鬼戦弓</a>
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Octopath Traveler
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Octopath Traveler
 **Slot: 0**
 
 EQ | Names
@@ -475,7 +481,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-10.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">ロードオブエッジ</a><br>Road of Edge
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-10.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">ロードオブボウガン</a><br>Road of Bowgun
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Halloween 2018
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Halloween 2018
 **Slot: 3**
 
 EQ | Names
@@ -486,7 +492,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-11.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">デュアルボーンミート</a><br>Dual Bone Meat<br>JP Community: 肉 *Meat*
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-11.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">シルバーブレッド</a><br>Silver Bullet
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Christmas 2018
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Christmas 2018
 **Slot: 4**
 
 EQ | Names
@@ -497,7 +503,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-12.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">祝福の礼剣</a><br>Blessing Dagger
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-12.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">スターオブキャロル</a><br>Star of Carol
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25"> Danmachi
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Danmachi
 **Slot: 5**
 
 EQ | Names
@@ -510,7 +516,7 @@ EQ | Names
 
 
 # Wind Weapons
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Old Wind
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Old Wind
 **Slot: 1**<br>Weapons from launch
 
 EQ | Names
@@ -521,7 +527,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-1.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">月光蝶プラネテリア</a><br>Moonlight Butterfly Planeteria
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-1.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">ライジングシューター</a><br>Rising Shooter
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Condemnation
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Condemnation
 **Slot: 0**<br>Weapons from launch<br>Also called Danzai for the readings of first two kanji
 
 EQ | Names
@@ -532,7 +538,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-2.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">断罪の棘突刃</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-2.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">断罪のブラッディレイ</a><br>Condemnation Bloody Ray
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Quartz
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Quartz
 **Slot: 2**<br>Weapon Names: *random Katakana of unknown origins* "Ray Quartz"
 
 EQ | Names
@@ -543,7 +549,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-3.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">アリヒット・レイクォーツ</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-3.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">オリム・レイクォーツ</a>
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Bone
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Bone
 **Slot: 3**<br>Weapon Names: *some kanji* Bone that Sleeps in the Demon Temple
 
 EQ | Names
@@ -554,7 +560,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-4.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">魔廟に眠る狂骨</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-4.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">魔廟に眠る翼骨</a>
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Twilight
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Twilight
 **Slot: 4**
 
 EQ | Names
@@ -565,7 +571,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-5.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">ヨイノクチ</a><br>宵の口 *Nightfall*
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-5.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">ヨイヤミノイチゲキ</a><br>宵闇の一撃 *Single Strike of Twilight*
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Music
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Music
 **Slot: 5**
 
 EQ | Names
@@ -576,7 +582,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-6.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">弦剣オリン・ツヴァイ</a><br>Olin Zwei<br>Alias: Violin Dagger<br>JP Community: バイオリン *Violin*
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-6.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">竪弓エオリアン</a><br>Aeolian<br>Alias: Harp Bow<br>JP Community: ハープ *Harp*
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Valentine's 2018
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Valentine's 2018
 **Slot: 1**<br>The names of the series are names of love gods/goddesses from different mythologies.
 
 EQ | Names
@@ -587,7 +593,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-7.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">惑剣アフロディーテ</a><br>Charm Sword Aphrodite
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-7.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">愛弓クピド</a><br>Love Bow Cupid
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Glitzy
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Glitzy
 **Slot: 2**<br>Also called Garden/Flower for the animation and box theme
 
 EQ | Names
@@ -598,7 +604,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-8.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">グリッジークロス</a><br>Glitzy Cross
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-8.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">グリッジーアロー</a><br>Glitzy Arrow
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Bleach
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Bleach
 **Slot: 0**<br>Weapon Names: "Illusion Death" *something*<br>JP Community: ブリーチ *Bleach*
 
 EQ | Names
@@ -609,7 +615,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-9.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">幻亡の裂刃</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-9.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">幻亡の狂弩</a>
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Summer 2018
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Summer 2018
 **Slot: 3**
 
 EQ | Names
@@ -620,7 +626,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-10.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">サバイタルナイフ</a><br>Mackerel Dagger
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-10.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">タッチウォーガン</a><br>Cutlassfish Bow<br>Other names of the fish: Largehead Hairtail, Beltfish<br>JP Community: タチウオ *Cutlassfish*
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Grimms Notes Repage
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Grimms Notes Repage
 **Slot: 0**
 
 EQ | Names
@@ -631,7 +637,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-11.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">レジェンドナイフ</a><br>Legend Knife
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-11.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">レジェンドボウ</a><br>Legend Bow
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Valentine's 2019
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Valentine's 2019
 **Slot: 4**
 
 EQ | Names
@@ -642,7 +648,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-12.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">アラザンチョコフォンデュ</a><br>Argent Choco Fondue
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-12.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">アロアロキャンディ</a><br>Arrow Arrow Candy
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> Final Fantasy Brave Exvius
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Final Fantasy Brave Exvius
 **[LIMITED]**<br>**Slot: 1**
 
 EQ | Names
@@ -653,7 +659,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo4.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">チョコボクロウ</a><br>Chocobo Crow
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo5.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">チョコボメナス</a><br>Chocobo Menace
 
-## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25"> 2nd Anniversary
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> 2nd Anniversary
 **[LIMITED]**<br>**Slot: 0**<br>In many of the weapons, there is katakana キセキ which can mean either 軌跡 Traces or 奇跡 Miracle
 
 EQ | Names

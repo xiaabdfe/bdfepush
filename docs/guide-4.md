@@ -1,12 +1,12 @@
-﻿# Guide: Bossing
+# General Guides: Bossing
 ### Directory
 * General Guides
-	* <a href="guide-1.md">Beginner's Guide: Starting</a>
-	* <a href="guide-2.md">Beginner's Guide: Just Started</a>
-	* <a href="guide-3.md">Beginner's Guide: Getting Stronger</a>
-	* **Guide: Bossing**
-	* <a href="guide-5.md">Guide: Inheritance</a>
-	* <a href="guide-6.md">Guide: Medals</a>
+	* <a href="guide-1.md">Starting</a>
+	* <a href="guide-2.md">Just Started</a>
+	* <a href="guide-3.md">Getting Stronger</a>
+	* **Bossing**
+	* <a href="guide-5.md">Inheritance</a>
+	* <a href="guide-6.md">Medals</a>
 * Abyss Guides
 	* <a href="abyss-60.md">Floor 60</a>
 	* <a href="abyss-65.md">Floor 65</a>
@@ -20,38 +20,45 @@
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
 	* <a href="list-names.md">Weapon Names</a>
+* Reroll Suggestions
+	* <a href="reroll-1.md">Knight</a>
+	* <a href="reroll-2.md">Black Mage</a>
+	* <a href="reroll-3.md">White Mage</a>
+	* <a href="reroll-4.md">Thief</a>
+	* <a href="reroll-5.md">Ranger</a>
 
 ### Table of Contents
 * [Bosses](#bosses)
 * [Aggro](#aggro)
-* [Gearing (In-Depth)](#gearing-in-depth)
+* [Gearing (In-Depth)](#gearing-(in-depth))
 	* [Knight](#knight)
 		* [Weapons](#weapons)
 		* [Armours](#armours)
 		* [Medals](#medals)
 		* [Battle Tips](#battle-tips)
 	* [Black Mage](#black-mage)
-		* [Weapons](#weapons-1)
-		* [Armours](#armours-1)
-		* [Medals](#medals-1)
-		* [Battle Tips](#battle-tips-1)
+		* [Weapons](#weapons)
+		* [Armours](#armours)
+		* [Medals](#medals)
+		* [Battle Tips](#battle-tips)
 	* [White Mage](#white-mage)
-		* [Weapons](#weapons-2)
-		* [Armours](#armours-2)
-		* [Medals](#medals-2)
-		* [Battle Tips](#battle-tips-2)
+		* [Weapons](#weapons)
+		* [Armours](#armours)
+		* [Medals](#medals)
+		* [Battle Tips](#battle-tips)
 	* [Thief](#thief)
-		* [Weapons](#weapons-3)
-		* [Armours](#armours-3)
-		* [Medals](#medals-3)
-		* [Battle Tips](#battle-tips-3)
+		* [Weapons](#weapons)
+		* [Armours](#armours)
+		* [Medals](#medals)
+		* [Battle Tips](#battle-tips)
 	* [Ranger](#ranger)
-		* [Weapons](#weapons-4)
-		* [Armours](#armours-4)
-		* [Medals](#medals-4)
-		* [Battle Tips](#battle-tips-4)
+		* [Weapons](#weapons)
+		* [Armours](#armours)
+		* [Medals](#medals)
+		* [Battle Tips](#battle-tips)
 * [Final Notes](#final-notes)
 
+﻿
 # Bosses
 There are two main types of bosses: event and abyss hole. At high level you usually have to do event bosses regularly to clear missions.
 
