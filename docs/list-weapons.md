@@ -495,4 +495,5 @@ Weapon | Auto | Special
 <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30"><br>Bow | 4.5s / BP+4<br>PA/Spr +15% 40s | BP17 / 160s / AoE 350p<br>Slow 2 60s against weakness element
 
 ### Disclaimers
+* Icons from limited weapons are contributed by friends and guild members.
 * Some information is taken from [ねこれあ。-BDFE-](https://bdfe.ladygo.net/), with permission.
