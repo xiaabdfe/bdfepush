@@ -29,7 +29,7 @@
 
 ### Table of Contents
 * [Account Binding](#account-binding)
-* [Knowing Yourself And Your Enemies](#knowing-yourself-and-your-enemies)
+* [Knowledge is Power](#knowledge-is-power)
 	* [Element](#element)
 	* [Family](#family)
 	* [Stats](#stats)
@@ -55,7 +55,9 @@ If you are content with this game / account and would like to keep your account,
 
 
 ***
-# Knowing Yourself And Your Enemies
+# Knowledge is Power
+While there is a lot of information in this section, you do not need to remember all of them. The lists are mostly for references whenever you happen to need them.
+
 ## Element
 Four elements in this game. The weakness relationship is as follows: Fire > Wind > Earth > Water > Fire.
 
@@ -69,7 +71,7 @@ Wind | 風
 All weapons and armours have elements. All monsters also have elements (except the current final boss in abyss, which you do not have to worry about yet). It is important to gear against the monster you are facing, e.g. gearing fire to fight wind monster.
 
 ## Family
-Some equipment effect has advantage against certain family of monsters. All monsters have families. All enemy players (in PVP) are considered humanoid.
+Some equipment effects have advantage against certain family of monsters. All monsters have families. All enemy players (in PVP) are considered humanoid.
 
 Element | Japanese
 ---|---
@@ -85,7 +87,7 @@ Undead | 死霊
 Dragon | 竜族
 
 ## Stats
-Also called parameters. Bread and butter in video games. (Discord command: ~parameters)
+Also called parameters. Bread and butter in video games.
 
 Element | Japanese
 ---|---
@@ -113,43 +115,43 @@ Total power is calculated based on all your other stats except BP. A certain amo
 ## Buffs
 There are three main types of buffs. Blue buffs are usually stats increment, stacking up to a certain percentage depending on the stats. Green buffs of the same level overwrite when recasted, but different levels stack. For example, Default 2 stacks with Default 3, but if Default 3 is casted again it will only replace the existing Default 3. Yellow buffs are boss-only buffs that cannot be dispelled. *See also: [Status Effects](https://ringabel.net/bdfe/?guide_effects), [Status Effects (Visual)](https://ringabel.net/bdfe/?effects_shiny).*
 
-Green Buff | Japanese
----|---
-Phalanx | ファランクス
-Cover | かばう
-Endure | たえる
-Dueling | デュエリング
-Saving | セービング
-Regen | リジェネ
-Command | 号令
-Split | スプリット
-Concentrate | 集中
-Magic Barrier | マジックバリア
-Fast Cast | 早口
-Critical | 会心
-Limit Break | リミブレ
-Levitate | レビテト
-Dualcast | 連続魔
-Aspir | アスピル
-Empower | エンパワー
-Haste | ヘイスト
-Brave | ブレイブ
-Default | デフォルト
-Proud | プラウド
-Mind | マインド
-Debuff Resist | デバフ無効
-Dragon Scale | 竜の鱗
-Human Shield | 人智の盾
-Shadow | シャドウ
-Assault | アサルト
-Quick | クイック
-Focus | フォーカス
-Dodge | みかわし
-Boost | ブースト
-Charge | チャージ
-Dagger Stance | 双剣の構え
-Poison Up | ポイズンアップ
-Hawkeye | ホークアイ
+Green Buff | Japanese | Effect
+---|---|---
+Phalanx | ファランクス | Raise damage of allies at the same row or behind. (I: 30%; II: 50%; III: 80%)
+Cover | かばう | Take 50% of damage taken on behalf of allies at the same row or behind.
+Endure | たえる | Survive 1 fatal attack at 1 HP. Disappears after activated.
+Dueling | デュエリング | Reflect damage taken back at the enemies, subject to your damage limit however. (I: 100%; II: 200%; III: 300%)
+Saving | セービング | Heal back a portion of damage taken. (II: 20%)
+Regen | リジェネ | Recover a percentage of HP per 10s. (I: 5%; II: 10%; III: 25%)
+Command | 号令 | When attacked, reduce remaining cooldown counter and extend buff durations on allies. (II: 3s)
+Split | スプリット | Turn all special attacks into AoE.
+Concentrate | 集中 | Decrease damage reduction from splitting due to AoE.
+Magic Barrier | マジックバリア | Divert a portion of damage taken to an additional HP bar according to your spirit stat.
+Fast Cast | 早口 | Reduce casting time of special skills. (II: 50%)
+Critical | 会心 | Increase critical rate.
+Limit Break | リミブレ | Raise damage cap. (I: 2500; II: 5000; III: 10000)
+Levitate | レビテト | Ignore harmful floor effects.
+Dualcast | 連続魔 | Execute twice for the next special skill (on the same target if alive), but the next special skill costs 5 more BP.
+Aspir | アスピル | Recover BP consumed from special skills. (II: 75%)
+Empower | エンパワー | Increase special damage in the cost of increase in special reload time. (II: 50%/30%)
+Haste | ヘイスト | Shorten special reload time. Further reduce remaining cooldown counter every time the buff is refreshed. (I: 10s; II: 30s)
+Brave | ブレイブ | Increase damage dealt. (I: 12.5%; II: 25%; III: 50%)
+Default | デフォルト| Decrease damage received. (I: 10%; II: 20%; III: 30%)
+Proud | プラウド | Reduce BP cost of special skills. (II: 2)
+Mind | マインド | Increase healing power of all skills. (I: 50)
+Debuff Resist | デバフ無効 | Immune to all debuffs temporarily.
+Dragon Scale | 竜の鱗 | Reduce damage received from Dragon tribe. (5%)
+Human Shield | 人智の盾 | Reduce damage received from Human tribe. (5%)
+Shadow | シャドウ | Deal follow-up damage for all auto attacks. (I: 30%; II: 60%)
+Assault | アサルト | Deal follow-up damage for all special attacks. (I: 15%; II: 30%; III: 45%)
+Quick | クイック | Shorten intervals between auto skills. (I: 0.25s; II: 0.5s)
+Focus | フォーカス | Increase damage for all auto attacks, but BP gain per auto skill is fixed to be -4. (II: 100%)
+Dodge | みかわし | Increase evasion temporarily.
+Boost | ブースト | Increase BP gained from auto skills. (I: 1)
+Charge | チャージ | Increase power of the same special attack for the rest of the battle. Stacks up to 5 times, 50 each stack.
+Dagger Stance | 双剣の構え | Deal progressively stronger follow-up damage (start with 50%, +10% per auto, up to 200%) for all auto attacks. Active until the thief gets damaged by enemies.
+Poison Up | ポイズンアップ | Increase poison damage. (I: 10%; II: 20%; III: 30%)
+Hawkeye | ホークアイ | Increase debuff duration. (I: 25%; II: 50%)
 
 Boss-only Green Buffs
 
@@ -174,24 +176,24 @@ There are two types of debuffs. Red debuffs are usually stats decrement and alwa
 
 Purple Debuffs that stack up to 5 times:
 
-Debuff | Japanese
----|---
-Poison | 毒
-Burn | 火傷
-Seal | 封印
+Debuff | Japanese | Effect
+---|---|---
+Poison | 毒 | Receive damage over time.
+Burn | 火傷 | Increase damage over time on burning floor tiles.
+Seal | 封印 | Applied to each weapon individually. Special skills of locked weapons cannot be used.
 
 Purple Debuffs that stack for different levels:
 
-Debuff | Japanese
----|---
-Weakness | ウィークネス
-Forceless | フォースレス
-Slowcast | スロウキャスト
-Slow | スロウ
-Bleed | 出血
-Waste | 衰弱
-Chaser | チェイサー
-Pressure | プレッシャー
+Debuff | Japanese | Effect
+---|---|---
+Weakness | ウィークネス | Increase damage received. (I: 15%; II: 30%; III: 50%)
+Forceless | フォースレス | Decrease damage dealt. (I: 7.5%; II: 15%)
+Slowcast | スロウキャスト | Increase casting time (usually but not only the red tiles). (I: 0.25s; II: 0.5s)
+Slow | スロウ | Increase intervals between attacks. (By seconds on enemies, by % on players; I: 0.5s/25%; II: 1s/50%; III: 1.5s/100) 
+Bleed | 出血 | Receive damage when dealing special damage; decrease special healing amount. (V: 100%)
+Waste | 衰弱 | Decrease all stats except HP/BP.
+Chaser | チェイサー | Receive follow-up damage (from certain element depending on the Chaser). (II: 30%)
+Pressure | プレッシャー | Increase BP cost. (V: 100%)
 
 Purple Debuffs that have no levels, and thus do not stack:
 
@@ -213,13 +215,13 @@ There are special penalties that cannot be cleansed unless by dying and getting 
 
 Special Debuffs are debuffs that have a special deep purple icon to the left to your name. They cannot be removed normally. Sometimes they can be removed by dying and getting revived but bosses tend to reapply quickly.
 
-Debuff | Japanese
----|---
-Trial | 試練
-Doom | 死亡宣告
-Blind (Special) | ブラインド
-Gravity | 重力
-Curse | 呪詛
+Debuff | Japanese | Effect
+---|---|---
+Trial | 試練 | Receives heavy damage if not meeting certain criteria.
+Doom | 死亡宣告 | Death when timer hits 0.
+Blind (Special) | ブラインド | HP bar becomes hidden.
+Gravity | 重力 | Can only move 1 tile, e.g. front to middle row.
+Curse | 呪詛 | Receive damage proportional to max HP over time.
 
 Iconless debuffs are also special debuffs but do not have any icons to identify. Their potency varies from boss to boss without a clear indicator. Otherwise they behave the same way. While most are literal in what they do, Power-Down (パワーダウン) results in permanent decrease of all stats as well as increase in auto and special reload time.
 
@@ -236,20 +238,22 @@ Tile effects are effects of the terrain that activate depend on where you stand.
 
 Tile Effect|Visual Appearance|Effect
 ---|---|---
-Burning Tiles | Red/Blue/Violet flames | Reduce HP periodically proportional to current Max HP. HP reduction increases if under the debuff Burn.
+Burning Tiles | Red/Blue/Violet flames | Receive damage over time proportional to current Max HP. Damage over time increases if under the debuff Burn.
 Poison Tiles | Green bubbles | Inflict poison periodically up to 5 stacks. Poison immunity works.
 Blind Tiles | Black clouds | Inflict blind periodically. Blind immunity works.
 Slow Tiles | Spider webs | Inflict slow periodically. Slow immunity works.
 Doom Tiles | Black glow | Inflict doom. Disappears once inflicted.
 Reverse Tiles | Pink (taller) flame | Refer to Abyss floor 85 for details.
 
+### Notes
+For BP and reload related percentage increase and reduction from various effects, they are relative to the original amount of the skills, not the ones you see on your battle screen. 
 
 ***
 # Equipment
 ## Categories
 As mentioned, there are three main categories of equipment: Weapons, Armours and Medals.
 
-<a href="list-weapons">**Weapons**</a> (武器): All weapons come with an auto skill (通常技) and at least one special skill (必殺技). You can equip up to five as you unlock the slots in tutorials. Passive effects of all weapons only work on that particular weapon except stat increases. Each job can only equip one weapon category.
+<a href="list-weapons.md">**Weapons**</a> (武器): All weapons come with an auto skill (通常技 lit. normal skill) and at least one special skill (必殺技). You can equip up to five as you unlock the slots in tutorials. Passive effects of all weapons only work on that particular weapon except stat increases. Each job can only equip one weapon category.
 
 Weapon Category | Japanese | Job
 ---|:-:|:-:
@@ -273,7 +277,7 @@ Self | 自身
 
 *Note: 2 Row always means the row you are on and the row in front of you. If you are standing on the front row, it is effectively just one row*
 
-<a href="list-armours">**Armours**</a> (防具): Armours offer various passive effects that stack upon each other. All jobs can equip all armour categories but each armour category is designed to be used by one or two jobs. There are event armours with no category, however.
+<a href="list-armours.md">**Armours**</a> (防具): Armours offer various passive effects that stack upon each other. All jobs can equip all armour categories but each armour category is designed to be used by one or two jobs. There are event armours with no category, however.
 
 Armour Category | Japanese | Optimal Jobs
 ---|:-:|:-:

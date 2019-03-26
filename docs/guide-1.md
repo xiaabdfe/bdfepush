@@ -39,7 +39,7 @@
 	* [Ticket Gacha](#ticket-gacha)
 	* [Beginner / Reroll](#beginner--reroll)
 	* [Alchemy](#alchemy)
-	* [[Crystal Gacha](https://ringabel.net/chomp/?help/crystal-gacha)](#[crystal-gacha](httpsringabel.netchomp?helpcrystal-gacha))
+	* [Crystal Gacha](#crystal-gacha)
 * [User Interface](#user-interface)
 * [Battle](#battle)
 
@@ -50,18 +50,20 @@
 
 Tank with a lot of playstyles depending on weapons. 
 
-The main job of knights is to be targetted by enemies and to bait the attacks away from the party. How likely you are to be targeted is gauged by a term called *aggro*, related to how much hate you can generate from the enemies. There are also other amazing party support available to knights.
+The main job of Knights is to be targetted by enemies and to bait the attacks away from the party. How likely you are to be targeted is gauged by a term called *aggro*, related to how much hate you can generate from the enemies, more about it in <a href="guide-4.md#aggro>Bossing Guide</a>. There are also other amazing party support buffs available to Knights. Note that Knights' support buffs that affect allies usually do not affect themselves.
+
+Knights can also have fun by solo-ing using Regen and Dueling. 
 
 Buff|Effect
 ---|---
-Phalanx | Raise damage of allies at the same row or rows behind you.
-Cover | Take 50% of damage taken on behalf of allies.
+Phalanx | Raise damage of allies at the same row or behind.
+Cover | Take 50% of damage taken on behalf of allies at the same row or behind.
 Endure | Survive 1 fatal attack.
 Dueling | Reflect damage.
 Saving | Heal back a portion of damage taken.
 Regen | Recover a percentage of HP per 10s.
 HP Up | Increase max HP temporarily.
-Command | When the knight is attacked, reduce remaining cooldown counter and extend buff durations on allies except self
+Command | When attacked, reduce remaining cooldown counter and extend buff durations on allies.
 
 Debuff|Effect
 ---|---
@@ -72,49 +74,49 @@ Taunt | The enemy can only target you.
 
 Magical DPS with strong and some AoE special attacks. 
 
-Black mage's rods usually provide buffs that augment own or party damage. They have unparalleled damage in terms of AoE. AoE attacks usually have their damage split among all targets, but Black Mage has Concentrate to negate that to deal full damage. All spells come with casting time, so timing is important. Also black mages are fragile to physical attacks. It is also a fun and challenging job.
+Black Mages' rods usually provide buffs that augment own or party damage. They have are advantageous facing multiple enemies. AoE attacks usually have their damage split among all targets, but Black Mages have Concentrate to negate the damage reduction to a certain extend. All spells come with casting time, so timing is important. Black Mages are usually fragile to physical attacks, but they have Elemental Resist buffs and Magic Barrier to mitigate that. It is also a fun and challenging job.
 
 Buff|Effect
 ---|---
 Split | Turn all special attacks into AoE.
 Concentrate | Decrease damage reduction from splitting due to AoE.
-Magic Barrier | Decrease damage taken with certain proportion, with an additional HP bar according to your spirit stat.
+Magic Barrier | Divert a portion of damage taken to an additional HP bar according to your spirit stat.
 Fast Cast | Reduce casting time of special skills.
 Critical | Increase critical rate.
 Limit Break | Raise damage cap.
 Levitate | Ignore harmful floor effects.
-Dualcast | Execute twice for the next special skill (the same special on the same target if alive), but cost 5 more BP (i.e. 5 more BP to cast 1 more time).
+Dualcast | Execute twice for the next special skill, but the next special skill costs more BP).
 Aspir | Recover BP consumed from special skills.
-Empower | Increase special skill damage in the cost of increase in special reload time
+Empower | Increase special damage in the cost of increase in special reload time.
 [Element] Resist | Decrease damage taken from a specific element.
 [Element] Power | Increase damage dealt using a specific element.
 
 ## White Mage
 ![Icon](https://caelum.s-ul.eu/4XlIsPl2.jpg) JP: 白魔道士
 
-Healer and Buffer. Essential in all hard contents. A challenging job in many aspects.
+Healer and Buffer. Essential in all hard contents.
 
-White Mage has a tough job that not only to keep allies alive, but also to buff them, shorten reload time with Haste, cleanse debuffs and supply BP. All spells come with casting time, so White Mage has toavoid killing themselves or killing allies when casting. Also, all buffs have varying duration. Hence, there are a lot of information to keep in mind when playing. Hence it is very challenging but rewardingto become a good white mage.
+White Mages have a tough job that not only to keep allies alive, but also to buff them, shorten reload time with Haste, cleanse debuffs and supply BP. All spells come with casting time, so White Mages have to avoid killing themselves or killing allies when casting. Also, all buffs have varying duration. Hence, there are a lot of information to keep in mind when playing. It is very challenging but also rewarding to become a good White Mage.
 
 Buff|Effect
 ---|---
 Haste | Shorten special reload time. Further reduce remaining cooldown counter every time the buff is refreshed.
 Brave | Increase damage dealt.
 Default | Decrease damage received.
-Proud | Reduce BP cost of special.
+Proud | Reduce BP cost of special skills.
 Mind | Increase healing power of all skills.
 Various stat-buffs | -
 Buff extension | Extends the duration of buffs already on the target
-Debuff Resist | (Armour passive only) Immune to all debuffs.
+Debuff Resist | (Armour passive only) Immune to all debuffs temporarily.
 Dragon Scale | Reduce damage received from Dragon tribe.
 Human Shield | Reduce damage received from Human tribe.
 
 ## Thief
 ![Icon](https://caelum.s-ul.eu/MGL6i8bK.jpg) JP: シーフ
 
-Physical DPS with fast and strong auto attacks.
+Physical DPS with fast and strong auto attacks (i.e. actually called normal attacks but usually referred as auto attacks to avoid confusion with some other terms).
 
-Thief's daggers usually provide buffs that augment own or party damage, or evasion. Thief has naturally high evasion, so boosting that makes them harder to be hit. Since thief's main strength is auto attacks, daggers that give Shadow/Quick/Focus buffs are popular.
+Thieves' daggers usually provide buffs that augment own damage or evasion. While Thieves are fragile, they have naturally high evasion. Since Thieves' main strength is auto attacks, buffs and equipment that increase auto damage or make auto attacks faster are coveted.
 
 Buff|Effect
 ---|---
@@ -125,14 +127,14 @@ Focus | Increase damage for all auto attacks, but BP gain per auto skill is fixe
 Dodge | Increase evasion temporarily.
 Boost | Increase BP gained from auto skills.
 Charge | Increase power of the same special attack for the rest of the battle.
-Dagger Stance | Deal follow-up damage for all auto attacks. Active until the thief gets damaged by enemies. Follow-up damage starts at 50%, gains 10% every auto move and caps at 200%.
+Dagger Stance | Deal progressively stronger follow-up damage (up to a certain limit) for all auto attacks. Active until the thief gets damaged by enemies.
 
 ## Ranger
 ![Icon](https://caelum.s-ul.eu/nzsSH0OO.jpg) JP: 狩人
 
 Debuffer that also deals some physical / magical / DoT damage. Important in most hard contents.
 
-Ranger's main job is to dispel enemy buffs while inflicting debuffs to turn the battle to the party's favour. Since debuffs usually have short duration, there are debuff extension bows to extend debuffs already inlicted on the enemy.
+Ranger's main job is to dispel enemy buffs while inflicting debuffs to turn the battle to the party's favour. Since debuffs usually have short duration and/or high BP cost, there are debuff extension bows to extend debuffs already inlicted on the enemy.
 
 Buff|Effect
 ---|---
@@ -153,7 +155,7 @@ Debuff extension | Extends the duration of debuffs already on the target.
 
 ***
 # Gacha
-Gacha are split into mythril gacha and ticket gacha. In this game, you gacha for equipment, <a href="list-weapons">weapons</a> and <a href="list-armours">armours</a> specifically. There is a third type of equipment called medals (accessories) but are not from gacha, you do not have to worry about it for now.
+Gacha are split into mythril gacha and ticket gacha. In this game, you gacha for equipment, <a href="list-weapons.md">weapons</a> and <a href="list-armours.md">armours</a> specifically. There is a third type of equipment called medals (accessories) but are not from gacha, you do not have to worry about it for now.
 
 ## Mythril Gacha
 Mythril is the premium currency in this game, where it is split into free mythril and paid mythril. Mythril gacha is always separated by jobs, meaning you will only get what the job can use.
@@ -176,11 +178,12 @@ Job Gacha/Fest
 Elemental Fest
 
 * Same as Job Gacha / Fest but contain only equipment for one specific element.
-* Chance to get with EX weapons that can inherit 2 specials and 2 normal effects, more about them in Inheritance Guide.
+* Chance to get with EX weapons that can inherit 2 specials and 2 normal effects.
 
 Box Gacha
 
 * All new equipment pieces are launched in the form of Box Gacha.
+* Contents of boxes may differ for collaboration events, depending on BDFE's mood at the moment.
 * 126 3-star, 62 4-star, 8 5-star pieces in the pool.
 * 5-star pieces (in general):
 	* 1 New Weapon
@@ -230,13 +233,13 @@ Red and blue are the most common forms of tickets. Gold is received in events re
 It is easier to get armors later on from boxes or Vintage gacha. Therefore, it is generally suggested to reroll for weapons. 
 
 Reroll Suggestions:
-* <a href="reroll-1">Knight</a>
-* <a href="reroll-2">Black Mage</a>
-* <a href="reroll-3">White Mage</a>
-* <a href="reroll-4">Thief</a>
-* <a href="reroll-5">Ranger</a>
+* <a href="reroll-1.md">Knight</a>
+* <a href="reroll-2.md">Black Mage</a>
+* <a href="reroll-3.md">White Mage</a>
+* <a href="reroll-4.md">Thief</a>
+* <a href="reroll-5.md">Ranger</a>
 
-Every new account starts with 10 random rolls for selected job with 1 guaranteed 5-star. There are also weapon-only and armour-only start-dash with guaranteed 5-star that can only be pulled using 75 paid Mythril. 1 time per job per type per account. The start-dash will only be available for 72 hours after account creation. 
+Every new account starts with 10 random rolls for selected job with 1 guaranteed 5-star. There are also weapon-only and armour-only start-dash with guaranteed 5-star that can only be pulled using 75 paid Mythril. 1 time per job per type per account. The start-dash will only be available for 72 hours after account creation. It may be better to spend paid mythril in Vintage Gacha, however.
 
 **Beginner Boost**: Please note that within one week of starting, there is a honeymoon period that you get boosted pq drop, rare encounters, item drop rate and EXP gain for a week. It is a good time to quickly catch up when the boost is still going on. 
 
@@ -260,8 +263,10 @@ Medal Alchemy
 
 * Event-only. Trade 3 medals to get one random medal.
 
-## [Crystal Gacha](https://ringabel.net/chomp/?help/crystal-gacha)
+## Crystal Gacha
+[Crystal Gacha](https://ringabel.net/chomp/?help/crystal-gacha)
 
+***
 # User Interface
 [Gamepedia Beginner's Guide](https://fairyseffect.gamepedia.com/Beginner%27s_Guide) contains pictures and UI translations useful for non-Japanese speakers. It is a bit outdated, so this section is written to complement the outdated info (I am too lazy to redo everything). The information may be a bit overwhelming to try to remember all at once. Some functions are self-explanatory and some are explained further in the guides. Just check it out whenever you feel like exploring. Feel free to ask about anything unclear in [Discord](https://discord.gg/jCRBwmz).
 
