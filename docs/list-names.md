@@ -33,7 +33,7 @@
 <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> [Fire Weapons](#fire-weapons) | <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> [Water Weapons](#water-weapons) | <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> [Earth Weapons](#earth-weapons) | <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> [Wind Weapons](#wind-weapons)
 ---|---|---|---
 [Old Fire](#-old-fire) | [Old Water](#-old-water) | [Old Earth](#-old-earth) | [Old Wind](#-old-wind)
-[Holy Dragon](#-holy-dragon) | [Old Water](#-old-water) | [Steampunk](#-steampunk) | [Condemnation](#-condemnation)
+[Holy Dragon](#-holy-dragon) | [Old Water](#-old-water) | [Mechanical Soldier](#-mechanical-soldier) | [Condemnation](#-condemnation)
 [Dark Angel](#-dark-angel) | [Evil Eye](#-evil-eye) | [Spiritual](#-spiritual) | [Quartz](#-quartz)
 [Chain](#-chain) | [Summer 2017](#-summer-2017) | [Euclid](#-euclid) | [Bone](#-bone)
 [Halloween 2017](#-halloween-2017) | [Animal](#-animal) | [Bull](#-bull) | [Twilight](#-twilight)
@@ -45,8 +45,8 @@
 [Japan Folklore](#-japan-folklore) | [Sports 2018](#-sports-2018) | [Halloween 2018](#-halloween-2018) | [Grimms Notes Repage](#-grimms-notes-repage)
 [Lotus](#-lotus) | [Sergeant Keroro](#-sergeant-keroro) | [Christmas 2018](#-christmas-2018) | [Valentine's 2019](#-valentines-2019)
 [Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
-[Rose](#-rose) | [Valkyrie Profile](#-valkyrie-profile) | \- | [2nd Anniversary](#-2nd-anniversary)
-[1st Anniversary](#-1st-anniversary) | \- | \- | \-
+[Rose](#-rose) | [Steampunk](#-steampunk) | \- | [2nd Anniversary](#-2nd-anniversary)
+[1st Anniversary](#-1st-anniversary) | [Valkyrie Profile](#-valkyrie-profile) | \- | \-
 
 # Fire Weapons
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Old Fire
@@ -359,6 +359,17 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-13.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">ルインブレイド</a><br>Ruin Blade
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-13.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">ルインボウ</a><br>Ruin Bow
 
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Steampunk
+**Slot: 5**
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-14.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-water-swords">古ノ退剣</a><br>Antique Sword
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-14.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-water-rods">古ノ核</a><br>Antique Core
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-14.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-water-books">イニシエの設計図</a><br>Antique Design Chart
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-14.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">古ノ騒剣</a><br>Antique Dagger
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-14.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">古ノ歯轟弓</a><br>Antique Gear Bow
+
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Valkyrie Profile
 **[LIMITED]**<br>**Slot: 1**
 
@@ -383,8 +394,8 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-1.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">蒼天の剣</a><br>Blue Sky Sword
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-1.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">ガイナテックボウ</a><br>Gainatec Bow
 
-## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Steampunk
-**Slot: 1**<br>Weapons from launch<br>Weapon Names: "Mechanical Soldier" *random katakana of unknown origins*<br>Named Steampunk for the iconic steam animation
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Mechanical Soldier
+**Slot: 1**<br>Weapons from launch<br>Weapon Names: "Mechanical Soldier" *random katakana of unknown origins*<br>Used to be named Steampunk for the iconic steam animation until the actual Steampunk box was released.
 
 EQ | Names
 :-:|---

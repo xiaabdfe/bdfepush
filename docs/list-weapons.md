@@ -103,6 +103,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-11.jpg" width="60" alt="Sword"> | <a href="list-names.md#-sports-2018">Megaphone</a> | 3 |  -  | Heal<br>Dueling 2<br>Allies Regen 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-12.jpg" width="60" alt="Sword"> | <a href="list-names.md#-sergeant-keroro">Space Army</a> | 0 |  -  | HP Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-13.jpg" width="60" alt="Sword"> | <a href="list-names.md#-bravely-default-praying-brage">Ruin</a> | 4 |  -  | Fire AoE Taunt<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-14.jpg" width="60" alt="Sword"> | <a href="list-names.md#-steampunk">Antique</a> | 5 | Row Buff<br> | Mono Phalanx 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Testudo 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie1.jpg" width="60" alt="Sword"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 |  -  | Phalanx 1<br>Allies Aggro<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Swords
@@ -110,7 +111,7 @@ EQ | Name | Slot | Auto | Special
 EQ | Name | Slot | Auto | Special
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-1.jpg" width="60" alt="Sword"> | <a href="list-names.md#-old-earth">Cosmokaiser</a> | 0 |  -  | Water Aggro<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-2.jpg" width="60" alt="Sword"> | <a href="list-names.md#-steampunk">Steampunk</a> | 1 |  -  | 
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-2.jpg" width="60" alt="Sword"> | <a href="list-names.md#-mechanical-soldier">Mechanical</a> | 1 |  -  | 
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-3.jpg" width="60" alt="Sword"> | <a href="list-names.md#-spiritual">Spiritual</a> | 2 |  -  | Allies HP Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-4.jpg" width="60" alt="Sword"> | <a href="list-names.md#-euclid">Euclid</a> | 3 | Buff<br> | Aggro<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-5.jpg" width="60" alt="Sword"> | <a href="list-names.md#-bull">Bull</a> | 4 |  -  | Water Taunt<br>
@@ -180,6 +181,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-11.jpg" width="60" alt="Rod"> | <a href="list-names.md#-sports-2018">Flag</a> | 3 |  -  | Aspir 2<br>Limit Break 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-12.jpg" width="60" alt="Rod"> | <a href="list-names.md#-sergeant-keroro">Space Army</a> | 0 |  -  | HP Absorb<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-13.jpg" width="60" alt="Rod"> | <a href="list-names.md#-bravely-default-praying-brage">Ruin</a> | 4 | AoE<br> | Limit Break 3<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-14.jpg" width="60" alt="Rod"> | <a href="list-names.md#-steampunk">Antique</a> | 5 |  -  | Empower 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie2.jpg" width="60" alt="Rod"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 | AoE<br> | Rapid DPS<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Rods
@@ -187,7 +189,7 @@ EQ | Name | Slot | Auto | Special
 EQ | Name | Slot | Auto | Special
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-1.jpg" width="60" alt="Rod"> | <a href="list-names.md#-old-earth">Heaven Demon</a> | 0 |  -  | Water BP Absorb<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-2.jpg" width="60" alt="Rod"> | <a href="list-names.md#-steampunk">Steampunk</a> | 1 |  -  | 
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-2.jpg" width="60" alt="Rod"> | <a href="list-names.md#-mechanical-soldier">Mechanical</a> | 1 |  -  | 
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-3.jpg" width="60" alt="Rod"> | <a href="list-names.md#-spiritual">Spiritual</a> | 2 |  -  | HP Absorb<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> MA Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-4.jpg" width="60" alt="Rod"> | <a href="list-names.md#-euclid">Euclid</a> | 3 | Buff<br> | Split<br>Concentrate 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-5.jpg" width="60" alt="Rod"> | <a href="list-names.md#-bull">Bull</a> | 4 | Buff<br> | Rapid DPS<br>
@@ -257,6 +259,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-11.jpg" width="60" alt="Book"> | <a href="list-names.md#-sports-2018">Bento</a> | 3 | Buff<br> | 2 Row Heal<br>Brave 1<br>Default 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-12.jpg" width="60" alt="Book"> | <a href="list-names.md#-sergeant-keroro">Space Army</a> | 0 |  -  | Heal<br>Mono Default 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-13.jpg" width="60" alt="Book"> | <a href="list-names.md#-bravely-default-praying-brage">Ruin</a> | 4 | AoE<br>Attack<br> | AoE Attack<br>Mono Brave/Default 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-steampunk">Antique</a> | 5 |  -  | 2 Row Heal<br>Mono Brave 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Mind 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 |  -  | Heal<br>Revive<br>Heal Area<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Books
@@ -264,7 +267,7 @@ EQ | Name | Slot | Auto | Special
 EQ | Name | Slot | Auto | Special
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-1.jpg" width="60" alt="Book"> | <a href="list-names.md#-old-earth">Dark Moon</a> | 0 | Buff<br> | Default 2<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-2.jpg" width="60" alt="Book"> | <a href="list-names.md#-steampunk">Steampunk</a> | 1 | Attack<br> | Attack<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-2.jpg" width="60" alt="Book"> | <a href="list-names.md#-mechanical-soldier">Mechanical</a> | 1 | Attack<br> | Attack<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-3.jpg" width="60" alt="Book"> | <a href="list-names.md#-spiritual">Spiritual</a> | 2 |  -  | <img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Mind 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-4.jpg" width="60" alt="Book"> | <a href="list-names.md#-euclid">Euclid</a> | 3 |  -  | 2 Row Heal<br>Revive<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-5.jpg" width="60" alt="Book"> | <a href="list-names.md#-bull">Bull</a> | 4 |  -  | Heal<br>BP Recovery<br>
@@ -334,6 +337,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-11.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-sports-2018">Pompom</a> | 3 | Fast<br> | HP Absorb<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-12.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-sergeant-keroro">Space Army</a> | 0 |  -  | AoE<br>Focus 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-13.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-bravely-default-praying-brage">Ruin</a> | 4 | 3 Hit<br>AWK Boost<br> | Row<br>Shadow 1<br>Assault 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Row Quick 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-14.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-steampunk">Antique</a> | 5 |  -  | Row<br>Assault 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie4.jpg" width="60" alt="Dagger"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 |  -  | Nuke<br>Quick 1<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Daggers
@@ -341,7 +345,7 @@ EQ | Name | Slot | Auto | Special
 EQ | Name | Slot | Auto | Special
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-1.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-old-earth">Blue Sky</a> | 0 | Fast<br> | 
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-2.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-steampunk">Steampunk</a> | 1 | 3 Hit<br> | 5 Hit<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-2.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-mechanical-soldier">Mechanical</a> | 1 | 3 Hit<br> | 5 Hit<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-3.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-spiritual">Spiritual</a> | 2 | Fast 2 Hit<br>Aim 100%<br> | HP Absorb<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> PA Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-4.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-euclid">Euclid</a> | 3 |  -  | Quick 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-5.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-bull">Bull</a> | 4 | 3 Hit<br> | AoE<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Party Quick 1<br>
@@ -411,6 +415,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-11.jpg" width="60" alt="Bow"> | <a href="list-names.md#-sports-2018">Baton</a> | 3 |  -  | Dodge 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-12.jpg" width="60" alt="Bow"> | <a href="list-names.md#-sergeant-keroro">Space Army</a> | 0 |  -  | AoE<br>PA/PD/MA/MD Down<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-13.jpg" width="60" alt="Bow"> | <a href="list-names.md#-bravely-default-praying-brage">Ruin</a> | 4 |  -  | Water Chaser 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-14.jpg" width="60" alt="Bow"> | <a href="list-names.md#-steampunk">Antique</a> | 5 |  -  | Bleed2<br>Poison to Damage<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Hawkeye 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie5.jpg" width="60" alt="Bow"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 |  -  | Slowcast 1<br>Poison Up 1<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Bows
@@ -418,7 +423,7 @@ EQ | Name | Slot | Auto | Special
 EQ | Name | Slot | Auto | Special
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-1.jpg" width="60" alt="Bow"> | <a href="list-names.md#-old-earth">Gainatec</a> | 0 |  -  | Water Poison<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-2.jpg" width="60" alt="Bow"> | <a href="list-names.md#-steampunk">Steampunk</a> | 1 |  -  | 
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-2.jpg" width="60" alt="Bow"> | <a href="list-names.md#-mechanical-soldier">Mechanical</a> | 1 |  -  | 
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-3.jpg" width="60" alt="Bow"> | <a href="list-names.md#-spiritual">Spiritual</a> | 2 |  -  | Debuff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-4.jpg" width="60" alt="Bow"> | <a href="list-names.md#-euclid">Euclid</a> | 3 | Buff<br> | Forceless 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-5.jpg" width="60" alt="Bow"> | <a href="list-names.md#-bull">Bull</a> | 4 | AoE<br> | Slowcast 2<br>Debuff Extend<br>
