@@ -338,8 +338,8 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-11.jpg" width="60" alt="弓"> | 金太郎の熊弓 | III | 全体<br> | 全体, 染めウィークネス III<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-12.jpg" width="60" alt="弓"> | 蓮の金華弓 | IV | - | 火チェイサー II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> デバフ延長<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-13.jpg" width="60" alt="弓"> | 弓椿の仕込み鞄 | V | - | スロウ III<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose5.jpg" width="60" alt="弓"> | **[期間限定]** 情熱の魅弓 | 無 | - | Poison to Damage<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy5.jpg" width="60" alt="弓"> | **[期間限定]** フェアリーズ・ドレッド | I | - | バフ全解除<br>Poison to Damage<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose5.jpg" width="60" alt="弓"> | **[期間限定]** 情熱の魅弓 | 無 | - | 毒を追撃に<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy5.jpg" width="60" alt="弓"> | **[期間限定]** フェアリーズ・ドレッド | I | - | バフ全解除<br>毒を追撃に<br>
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="水"> 水弓
 
@@ -358,7 +358,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-11.jpg" width="60" alt="弓"> | 伝説のチアバトン | III | - | みかわし II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-12.jpg" width="60" alt="弓"> | スペースミリタリーショット | 無 | - | 全体<br>物攻物防魔攻魔防ダウン<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-13.jpg" width="60" alt="弓"> | ルインボウ | IV | - | 水チェイサー II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> デバフ延長<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-14.jpg" width="60" alt="弓"> | 古ノ歯轟弓 | V | - | Bleed2<br>Poison to Damage<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> ホークアイ I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-14.jpg" width="60" alt="弓"> | 古ノ歯轟弓 | V | - | ブリード<br>毒を追撃に<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> ホークアイ I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie5.jpg" width="60" alt="弓"> | **[期間限定]** 神弓シルヴァンボウ | I | - | スロウキャスト I<br>ポイズンアップ I<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="土"> 土弓
