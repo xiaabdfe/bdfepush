@@ -7,6 +7,7 @@
 	* <a href="guide-4.md">Bossing</a>
 	* <a href="guide-5.md">Inheritance</a>
 	* <a href="guide-6.md">Medals</a>
+	* <a href="guide-pets.md">Pets</a>
 * Abyss Guides
 	* <a href="abyss-60.md">Floor 60</a>
 	* <a href="abyss-65.md">Floor 65</a>
@@ -64,6 +65,7 @@ Saving | Heal back a portion of damage taken.
 Regen | Recover a percentage of HP per 10s.
 HP Up | Increase max HP temporarily.
 Command | When attacked, reduce remaining cooldown counter and extend buff durations on allies.
+Testudo | Reduce damage taken of self and allies at the same row or behind.
 
 Debuff|Effect
 ---|---
@@ -110,6 +112,7 @@ Buff extension | Extends the duration of buffs already on the target
 Debuff Resist | (Armour passive only) Immune to all debuffs temporarily.
 Dragon Scale | Reduce damage received from Dragon tribe.
 Human Shield | Reduce damage received from Human tribe.
+Sky Shield | Reduce damage received from Aerial tribe.
 
 ## Thief
 ![Icon](https://caelum.s-ul.eu/MGL6i8bK.jpg) JP: シーフ

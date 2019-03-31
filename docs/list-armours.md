@@ -7,6 +7,7 @@
 	* <a href="guide-4.md">Bossing</a>
 	* <a href="guide-5.md">Inheritance</a>
 	* <a href="guide-6.md">Medals</a>
+	* <a href="guide-pets.md">Pets</a>
 * Abyss Guides
 	* <a href="abyss-60.md">Floor 60</a>
 	* <a href="abyss-65.md">Floor 65</a>

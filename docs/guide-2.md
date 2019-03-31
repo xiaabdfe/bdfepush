@@ -7,6 +7,7 @@
 	* <a href="guide-4.md">Bossing</a>
 	* <a href="guide-5.md">Inheritance</a>
 	* <a href="guide-6.md">Medals</a>
+	* <a href="guide-pets.md">Pets</a>
 * Abyss Guides
 	* <a href="abyss-60.md">Floor 60</a>
 	* <a href="abyss-65.md">Floor 65</a>
@@ -124,6 +125,7 @@ Dueling | デュエリング | Reflect damage taken back at the enemies, subject
 Saving | セービング | Heal back a portion of damage taken. (II: 20%)
 Regen | リジェネ | Recover a percentage of HP per 10s. (I: 5%; II: 10%; III: 25%)
 Command | 号令 | When attacked, reduce remaining cooldown counter and extend buff durations on allies. (II: 3s)
+Testudo | テストゥド | Reduce damage taken of self and allies at the same row or behind.
 Split | スプリット | Turn all special attacks into AoE.
 Concentrate | 集中 | Decrease damage reduction from splitting due to AoE.
 Magic Barrier | マジックバリア | Divert a portion of damage taken to an additional HP bar according to your spirit stat.
@@ -142,6 +144,7 @@ Mind | マインド | Increase healing power of all skills. (I: 50)
 Debuff Resist | デバフ無効 | Immune to all debuffs temporarily.
 Dragon Scale | 竜の鱗 | Reduce damage received from Dragon tribe. (5%)
 Human Shield | 人智の盾 | Reduce damage received from Human tribe. (5%)
+Sky Shield | 空の盾 | Reduce damage received from Aerial tribe. (5%)
 Shadow | シャドウ | Deal follow-up damage for all auto attacks. (I: 30%; II: 60%)
 Assault | アサルト | Deal follow-up damage for all special attacks. (I: 15%; II: 30%; III: 45%)
 Quick | クイック | Shorten intervals between auto skills. (I: 0.25s; II: 0.5s)
