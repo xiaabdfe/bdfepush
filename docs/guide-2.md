@@ -369,6 +369,7 @@ This game uses Japanese timezone (UTC+9). The timestamps you see in chat are all
 	* Rare Coin Exchange (including 1 Blue Ticket)
 	* Brave Coin Exchange (Phantom Key only)
 	* Gacha events that offer daily guaranteed 5-star etc
+	* Certain pet food limit
 * Opening and closing of weeekly weapon inheritance dungeon (Friday 0:00 to Sunday 23:59)
 
 ## 04:00
