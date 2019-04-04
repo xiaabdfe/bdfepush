@@ -217,7 +217,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-9.jpg" width="60" alt="Rod"> | <a href="list-names.md#-bleach">Illusion</a> | 0 | AoE<br> | AoE<br>Concentrate 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-10.jpg" width="60" alt="Rod"> | <a href="list-names.md#-summer-2018">Unagi</a> | 3 |  -  | AoE<br>Magic Barrier<br>Aspir 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-11.jpg" width="60" alt="Rod"> | <a href="list-names.md#-grimms-notes-repage">Legend</a> | 0 | Buff<br> | Split<br>Fast Cast 2<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-12.jpg" width="60" alt="Rod"> | <a href="list-names.md#-valentines-2019">Lollipop</a> | 4 |  -  | Limit Break 3<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-12.jpg" width="60" alt="Rod"> | <a href="list-names.md#-valentines-2019">Lollipop</a> | 4 |  -  | Critical 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo2.jpg" width="60" alt="Rod"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 | AoE<br> | Concentrate 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne2.jpg" width="60" alt="Rod"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 |  -  | Limit Break 3<br>
 
