@@ -160,9 +160,9 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-9.jpg" width="60" alt="ロッド"> | 幻亡の厳錫 | 無 | 全体<br> | 全体<br>集中 II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-10.jpg" width="60" alt="ロッド"> | ウナギスティック | III | - | 全体<br>マジックバリア<br>アスピル II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-11.jpg" width="60" alt="ロッド"> | レジェンドスタッフ | 無 | バフ<br> | スプリット<br>早口 II<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-12.jpg" width="60" alt="ロッド"> | マジロリポップ | IV | - | 会心 III<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-12.jpg" width="60" alt="ロッド"> | マジロリポップ | IV | - | リミブレ III<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo2.jpg" width="60" alt="ロッド"> | **[期間限定]** チョコボフェザー | I | 全体<br> | 集中 II<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne2.jpg" width="60" alt="ロッド"> | **[期間限定]** キセキの杖 | 無 | - | リミブレ III<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne2.jpg" width="60" alt="ロッド"> | **[期間限定]** キセキの杖 | 無 | - | 会心 III<br>
 
 # <img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="40" alt="白魔道士"> ブック
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="火"> 火ブック
