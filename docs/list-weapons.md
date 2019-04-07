@@ -415,7 +415,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-11.jpg" width="60" alt="Bow"> | <a href="list-names.md#-sports-2018">Baton</a> | 3 |  -  | Dodge 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-12.jpg" width="60" alt="Bow"> | <a href="list-names.md#-sergeant-keroro">Space Army</a> | 0 |  -  | AoE<br>PA/PD/MA/MD Down<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-13.jpg" width="60" alt="Bow"> | <a href="list-names.md#-bravely-default-praying-brage">Ruin</a> | 4 |  -  | Water Chaser 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-14.jpg" width="60" alt="Bow"> | <a href="list-names.md#-steampunk">Antique</a> | 5 |  -  | Bleed2<br>Poison to Damage<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Hawkeye 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-14.jpg" width="60" alt="Bow"> | <a href="list-names.md#-steampunk">Antique</a> | 5 | AoE<br> | AoE<br>Bleed2<br>Poison to Damage<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Hawkeye 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie5.jpg" width="60" alt="Bow"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 |  -  | Slowcast 1<br>Poison Up 1<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Bows
