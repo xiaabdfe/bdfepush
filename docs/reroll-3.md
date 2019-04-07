@@ -96,7 +96,7 @@ Name | Description
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/RIVs8WtB.png)
+## ![Picture](https://caelum.s-ul.eu/flist/7jW4Q2pz.png)
 **BP** Books are very excellent party supports that allow party to use more specials. Since they give BP back to you too, they are easy to use.
 
 Name | Description
