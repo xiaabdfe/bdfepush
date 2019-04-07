@@ -345,10 +345,24 @@ OO族へ与える威力 | Skill attack power when attacking ~ tribe
 The following is just a basic rule of thumb on how to gear. There will be more things to take not as you advance depending on your job. A more comprehensive guideline is in Bossing Guide. First things first, revise the elemental advantage: Fire -> Wind -> Earth -> Water -> Fire
 
 ## Weapons
-Do not get rid of lower rarity gears until you have complete set of the element of higher rarity. You gain 25% additional elemental damage each piece of weapon of that element you are equipped with. It is always encouraged to weapons of th
+Do not get rid of lower rarity gears until you have complete set of the element of higher rarity. You gain 25% additional elemental damage each piece of weapon of that element you are equipped with. It is always encouraged to weapons of the same element instead of having full set of high rarity gears but different elements. 
+
+There are several 3-star weapons that are handy until you have complete gears of the element too. They are usually completely normal at first glance but unlock useful additional effect once awakened. Note that they come in all elements.
+
+![Swords](https://caelum.s-ul.eu/olist/zdhwxBsp.png)
+Phalanx 1, Regen 1, Endure (2 each)
+
+![Rods](https://caelum.s-ul.eu/olist/FF1WA9XS.png)
+Elemental Resist of respective elements (wind resist on fire rod) and Elemental Boost of respective elements.
+
+![Daggers](https://caelum.s-ul.eu/olist/gJrwbR3s.png)
+Shadow 1, Quick 1, Dodge 1 (2 each)
+
+![Bows](https://caelum.s-ul.eu/olist/sISLQutm.png)
+Weakness 1, single-dispel, Forceless 1, single-dispel, Slowcast 1, self-heal
 
 ## Armours
-Do not get rid of lower rarity gears until you have complete set of the element of higher rarity. Always try to wear armours strong against the enemy. Each piece of armour adds elemental resist to element it is strong against, and cuts elemental resist to element it is weak against, i.e. avoid wearing wind armours against fire enemies.e same element instead of having full set of high rarity gears but different elements.
+Do not get rid of lower rarity gears until you have complete set of the element of higher rarity. Always try to wear armours strong against the enemy. Each piece of armour adds elemental resist to element it is strong against, and cuts elemental resist to element it is weak against, i.e. avoid wearing wind armours against fire enemies.
 
 ## Medals
 Medals are not obtained by Gacha but only events or monster drops. For starters, it is advisable to gather a set of slimes until you can survive better.

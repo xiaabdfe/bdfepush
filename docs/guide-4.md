@@ -146,7 +146,7 @@ Although depending on the BP supply from the White Mage(s), it is always helpful
 
 Next up is for DPS maximization. 2-hit nuke rods, Fast Cast rods and Dualcast rods are good in that order. Limit Break is situationally good too. However as a DPS, try to limit the use of off-elemental rods.
 
-**Choice of Auto**: Self buff auto is the most recommended especially when black mages usually do not have auto power inherited. 
+**Choice of Auto**: [Self buff auto](https://caelum.s-ul.eu/flist/U3BiJmo6.png) is the most recommended especially when black mages usually do not have auto power inherited. 
 
 ### Armours
 * Hats: Reload reduction is very important, especially if using Aspir. For that reason, Wakoku/Bravo/Vintage hats are highly coveted for black mages.

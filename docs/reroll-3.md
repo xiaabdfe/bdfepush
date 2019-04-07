@@ -29,6 +29,7 @@
 	* <a href="reroll-5.md">Ranger</a>
 
 ### Table of Contents
+* [Special S Tier](#special-s-tier)
 * [S Tier](#s-tier)
 * [A Tier](#a-tier)
 * [B Tier](#b-tier)
@@ -41,6 +42,36 @@ While I list them by effects, take note of the followings:
 * The horizontal order of the equipment pictures is the same as the vertical order of the tables.
 * :o: indicates that among the weapons with the same effect, that weapon is exceptionally recommended compared to the rest.
 
+# Special S Tier
+## ![Picture](https://caelum.s-ul.eu/flist/P6Lz0tTh.png)
+**Brave 3** is highly coveted by parties to deal a lot of damage in a short time. As of current meta, **Mono fire** set of white mages has the best balance in overall usefulness and versatility. It has fewer defensive options than Wind or Water though. 
+
+You are not required to have all of them to make mono fire set work, each of them is good in different scenarios. The most important ones to have are Ritual Book and Tamatebako, though. Please refer to the books in their individual sections later on.
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Holy Dragon Grimoire | Heal + Patk/Pdef/Spirit buffs. 
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Daybreak Book (New Year 2018) | Whole field BP.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Book | Heal + Brave 2 + buff extension.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Grimoire | Max HP/BP buffs.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ritual Book | Heal + Brave 3 when mono fire.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Tamatebako | Cleanse + Haste 2
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Today's Menu | Heal + Patk/Pdef/Matk/Mdef buffs.
+
+## ![Picture](https://caelum.s-ul.eu/flist/XELdA53o.png)
+**Brave 3** is highly coveted by parties to deal a lot of damage in a short time. **Mono wind** set of white mages is also a very balanced set that is more defensive due to having Default 3 in the set. The weak point is Haste/Cleanse being extremely slow.
+
+You are not required to have all of them to make mono fire set work, each of them is good in different scenarios. The most important ones to have are Ritual Book and Tamatebako, though. Please refer to the books in their individual sections later on.
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Comdemnation Book | Heal + Matk/Mdef/Spirit buffs.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Organ Book | Heal + Default 3 when mono wind.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Grimoire | Cleanse + Haste 2
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Flounder Book | Brave 3 when mono wind and BP recovery.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Grimoire | Heal + Patk/Pdef/Matk/Mdef buffs.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Choco Assort | Max HP/BP buffs and BP recovery.
+
 # S Tier
 ## ![Picture](https://caelum.s-ul.eu/flist/ScNTlUfm.png)
 The most important jobs of white mages are to heal and cleanse debuffs. Since most books heal, so **Cleanse** books are your targets. And among the buffs, **Haste** is usually the most important, especially for the White Mages themselves. Cleanse and Haste happen to be put together often, thus the following books. 
@@ -49,7 +80,7 @@ Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Tamatebako | :o: Cleanse + Haste 2. Fastest cast time of the four.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Tropical Drink (Boat / Summer 2017) | :o: Cleanse + Haste 2. Low BP cost.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Grimoire | 2-row Heal + Haste 2 + Brave 1. Significantly different from the rest since it heals instead of cleanses. Having so many effects yet with reasonably low BP cost and reload makes it one of the most coveted books.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Grimoire | 2-row Heal + Haste 2 + Brave 1. Significantly different from the rest since it heals instead of cleanses.
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Grimoire | 2-row Cleanse + Haste 2. While having low BP cost, the cast time is painfully slow. 
 
 ***
@@ -65,7 +96,7 @@ Name | Description
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/SxBS2fOl.png)
+## ![Picture](https://caelum.s-ul.eu/flist/RIVs8WtB.png)
 **BP** Books are very excellent party supports that allow party to use more specials. Since they give BP back to you too, they are easy to use.
 
 Name | Description
@@ -73,6 +104,7 @@ Name | Description
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Daybreak Book (New Year 2018) | Whole field BP with very fast cast time. The most versatile and easy-to-use BP book.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Book | Heal + BP. Having slightly long cast time and very long reload make it the a little hard to use.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Blessing Hymn (Christmas 2018) | 2-row Heal + BP. Lowest BP cost while maintaining reasonable reload/cast time make it highly valuable.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Choco Assort (Valentines 2019) | Max HP/BP Buff with BP recovery at slot 4. While it recovers less BP, its combination with Max BP buff makes it stronger as you spam it more.
 
 ***
 
@@ -111,13 +143,14 @@ Name | Description
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/BRNxMbHq.png)
-While **Brave 2** is available in 4-star as an awakening effect, these offer some utilities that let them be recommended as well.
+## ![Picture](https://caelum.s-ul.eu/flist/rqcY5dTc.png)
+**Buff extension** is very valuable. With good reload and BP reduction end-game build, it is possible to infinitely extend buffs for the rest of the battle. While white mage buffs are naturally long due to their innate effects, it benefits the DPS in the party the most since DPS buffs are significantly shorter.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Book | Heal + Brave 2 + extend buffs 15s. The heal + buff extension makes this book very handy in supporting dps without worrying about health, casting Brave 2 at the same time.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Black Cat's Footsteps (Halloween 2018) | 2-row Brave 2 + Proud 2. While it does not heal, it offers Proud 2 that lets you spam other specials more easily.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dark Angel Grimoire | Heal + Cleanse + extend buffs 15s. It requires legend coins. Situationally useful in some high difficulty content.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Book | :o: Heal + Brave 2 + extend buffs 15s. Brave 2 being a important buff makes it the best of all extension books.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Book | Heal + Proud 2 + extend buffs 15s. Proud 2 is also a handy buff but water set is less useful in general.
 
 ***
 
