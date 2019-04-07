@@ -148,4 +148,4 @@ Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Bear Bow | Weakness 3 with mono fire set.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Squirrel Bow | Weakness 3 with mono water set.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Arrow | Weakness 3 with mono earth set. Not really recommended as earth is lacking in many areas as of now.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Arrow | Weakness 3 with mono earth set.

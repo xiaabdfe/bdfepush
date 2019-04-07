@@ -156,10 +156,11 @@ Name | Description
 ***
 
 # Special Mention
-## ![Picture](https://caelum.s-ul.eu/flist/KDzW22kR.png)
+## ![Picture](https://caelum.s-ul.eu/flist/r0kwz7FO.png)
 **Phalanx 3** with mono elements. Very strong end game but difficult to make use for beginners. 
 
 Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dango Sword | Phalanx 3 with mono fire set. 
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Sword | Phalanx 3 with mono water set. 
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Tuna Sword (Summer 2018) | Phalanx 3 with mono wind set. Auto healing that has amazing aggro generation if built right.

@@ -122,11 +122,12 @@ Name | Description
 ***
 
 # Special Mention
-## ![Picture](https://caelum.s-ul.eu/flist/fFMNym3Q.png)
+## ![Picture](https://caelum.s-ul.eu/flist/8bIqayIG.png)
 **Brave 3** with mono elements. Very strong end game but difficult to make use for beginners.  
 
 Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Key of Goetia | Brave 3 with mono fire set.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Book | Brave 3 with mono water set.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Book | Brave 3 with mono earth set.
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Flounder Book (Summer 2018) |  Brave 3 with mono wind set. 
