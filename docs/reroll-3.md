@@ -61,7 +61,7 @@ Name | Description
 ## ![Picture](https://caelum.s-ul.eu/flist/XELdA53o.png)
 **Brave 3** is highly coveted by parties to deal a lot of damage in a short time. **Mono wind** set of white mages is also a very balanced set that is more defensive due to having Default 3 in the set. The weak point is Haste/Cleanse being extremely slow.
 
-You are not required to have all of them to make mono fire set work, each of them is good in different scenarios. The most important ones to have are Ritual Book and Tamatebako, though. Please refer to the books in their individual sections later on.
+You are not required to have all of them to make mono wind set work, each of them is good in different scenarios. The most important ones to have are Flounder Book and Glitzy Grimoire, though. Please refer to the books in their individual sections later on.
 
 Name | Description
 ---|---
@@ -102,9 +102,9 @@ Name | Description
 Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Daybreak Book (New Year 2018) | Whole field BP with very fast cast time. The most versatile and easy-to-use BP book.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Book | Heal + BP. Having slightly long cast time and very long reload make it the a little hard to use.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Blessing Hymn (Christmas 2018) | 2-row Heal + BP. Lowest BP cost while maintaining reasonable reload/cast time make it highly valuable.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Choco Assort (Valentines 2019) | Max HP/BP Buff with BP recovery at slot 4. While it recovers less BP, its combination with Max BP buff makes it stronger as you spam it more.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Book | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Heal + BP. Having slightly long cast time and very long reload make it the a little hard to use.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Blessing Hymn (Christmas 2018) | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> 2-row Heal + BP. Lowest BP cost while maintaining reasonable reload/cast time make it highly valuable.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Choco Assort (Valentines 2019) | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Max HP/BP Buff with BP recovery at slot 4. While it recovers less BP, its combination with Max BP buff makes it stronger as you spam it more.
 
 ***
 
@@ -148,7 +148,7 @@ Name | Description
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dark Angel Grimoire | Heal + Cleanse + extend buffs 15s. It requires legend coins. Situationally useful in some high difficulty content.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dark Angel Grimoire | <img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Heal + Cleanse + extend buffs 15s. It requires legend coins. Situationally useful in some high difficulty content.
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Book | :o: Heal + Brave 2 + extend buffs 15s. Brave 2 being a important buff makes it the best of all extension books.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Book | Heal + Proud 2 + extend buffs 15s. Proud 2 is also a handy buff but water set is less useful in general.
 
