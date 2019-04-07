@@ -181,7 +181,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-11.jpg" width="60" alt="Rod"> | <a href="list-names.md#-sports-2018">Flag</a> | 3 |  -  | Aspir 2<br>Limit Break 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-12.jpg" width="60" alt="Rod"> | <a href="list-names.md#-sergeant-keroro">Space Army</a> | 0 |  -  | HP Absorb<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-13.jpg" width="60" alt="Rod"> | <a href="list-names.md#-bravely-default-praying-brage">Ruin</a> | 4 | AoE<br> | Limit Break 3<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-14.jpg" width="60" alt="Rod"> | <a href="list-names.md#-steampunk">Antique</a> | 5 |  -  | Empower 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-14.jpg" width="60" alt="Rod"> | <a href="list-names.md#-steampunk">Antique</a> | 5 | Buff<br> | AoE<br>Empower 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie2.jpg" width="60" alt="Rod"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 | AoE<br> | Rapid DPS<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Rods

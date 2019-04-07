@@ -124,7 +124,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-11.jpg" width="60" alt="ロッド"> | 伝説の1等賞フラッグ | III | - | アスピル II<br>リミブレ II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-12.jpg" width="60" alt="ロッド"> | スペースミリタリーロッド | 無 | - | HP吸収<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-13.jpg" width="60" alt="ロッド"> | ルインロッド | IV | 全体<br> | リミブレ III<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-14.jpg" width="60" alt="ロッド"> | 古ノ核 | V | - | エンパワー II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> リミブレ I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-14.jpg" width="60" alt="ロッド"> | 古ノ核 | V | バフ<br> | 全体<br>エンパワー II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> リミブレ I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie2.jpg" width="60" alt="ロッド"> | **[期間限定]** 聖杖ミリオンテラー | I | 全体<br> | 1秒キャスト<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="土"> 土ロッド
