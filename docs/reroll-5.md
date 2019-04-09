@@ -113,7 +113,7 @@ Name | Description
 
 # B Tier
 ## ![Picture](https://caelum.s-ul.eu/flist/7xweGlq2.png)
-**Slow** decreases the frequency of attacks while **slowcast** gives more room to dodge red tiles or brace for upcoming attacks. Both are good to deal with aggresive bosses or bosses with a lot of lethal red tiles. Slow 2 and 3 do not differ that much, usually used in conjunction to stack both effects.
+**Slow** decreases the frequency of attacks while **Slowcast** gives more room to dodge red tiles or brace for upcoming attacks. Both are good to deal with aggresive bosses or bosses with a lot of lethal red tiles. Slow 2 and 3 do not differ that much, usually used in conjunction to stack both effects.
 
 Name | Description
 ---|---

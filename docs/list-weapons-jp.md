@@ -335,7 +335,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-8.jpg" width="60" alt="弓"> | ジョーヴ・スーリ | II | 回復<br> | 全体<br>物攻物防魔攻魔防ダウン<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-9.jpg" width="60" alt="弓"> | エンシェントボウ | 無 | 全体<br> | スロウ II<br>スロウキャスト II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-10.jpg" width="60" alt="弓"> | 業火の術弓 | 無 | - | ホークアイ II<br>みかわし II<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-11.jpg" width="60" alt="弓"> | 金太郎の熊弓 | III | 全体<br> | 全体, 染めウィークネス III<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-11.jpg" width="60" alt="弓"> | 金太郎の熊弓 | III | 全体<br> | 全体<br>染めウィークネス III<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-12.jpg" width="60" alt="弓"> | 蓮の金華弓 | IV | - | 火チェイサー II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> デバフ延長<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-13.jpg" width="60" alt="弓"> | 弓椿の仕込み鞄 | V | - | スロウ III<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose5.jpg" width="60" alt="弓"> | **[期間限定]** 情熱の魅弓 | 無 | - | 毒を追撃に<br>

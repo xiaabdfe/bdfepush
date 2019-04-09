@@ -392,7 +392,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-8.jpg" width="60" alt="Bow"> | <a href="list-names.md#-demon">Demon</a> | 2 | Heal<br> | AoE<br>PA/PD/MA/MD Down<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-9.jpg" width="60" alt="Bow"> | <a href="list-names.md#-kairisei-million-arthur">Ancient</a> | 0 | AoE<br> | Slow 2<br>Slowcast 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-10.jpg" width="60" alt="Bow"> | <a href="list-names.md#-grimms-notes-repage">Ritual</a> | 0 |  -  | Hawkeye 2<br>Dodge 2<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-11.jpg" width="60" alt="Bow"> | <a href="list-names.md#-japan-folklore">Bear</a> | 3 | AoE<br> | AoE, Mono Weakness 3<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-11.jpg" width="60" alt="Bow"> | <a href="list-names.md#-japan-folklore">Bear</a> | 3 | AoE<br> | AoE<br>Mono Weakness 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-12.jpg" width="60" alt="Bow"> | <a href="list-names.md#-lotus">Lotus</a> | 4 |  -  | Fire Chaser 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-13.jpg" width="60" alt="Bow"> | <a href="list-names.md#-retro-modern">Briefcase</a> | 5 |  -  | Slow 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose5.jpg" width="60" alt="Bow"> | **[LIMITED]** <a href="list-names.md#-rose">Rose</a> | 0 |  -  | Poison to Damage<br>

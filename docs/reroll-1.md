@@ -146,7 +146,7 @@ Name | Description
 ***
 
 ## ![Picture](https://caelum.s-ul.eu/flist/Di2hwpXQ.png)
-**Phalanx 1** swords are good to pair with Phalanx 2 swords. While there are 3-star awakening effects, these have longer duration and offer better stats.
+**Phalanx 1** swords are good to pair with Phalanx 2 swords. However 3-star swords with Phalanx 1 as awakening effects are sufficient mostly.
 
 Name | Description
 ---|---

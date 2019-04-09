@@ -124,7 +124,7 @@ Name | Speed | Description
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Argent Choco Fondue (Valentine's 2019) | 4.0s 2-line 100% aim | Dagger Stance + Row Quick 1.
 
 ## ![Picture](https://caelum.s-ul.eu/flist/a0PWEzhZ.png)
-While Assault does not help Thieves themselves very much, **Row Assault** buffs are very coveted for Black Mages in the party.
+While Assault does not help Thieves themselves very much, **Row Assault** buffs are very coveted for Black Mages when you happen to party.
 
 Name | Description
 ---|---
