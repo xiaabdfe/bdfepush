@@ -112,7 +112,7 @@ EQ | Name | Slot | Auto | Special
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-1.jpg" width="60" alt="Sword"> | <a href="list-names.md#-old-earth">Cosmokaiser</a> | 0 |  -  | Water Aggro<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-2.jpg" width="60" alt="Sword"> | <a href="list-names.md#-mechanical-soldier">Mechanical</a> | 1 |  -  | 
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-3.jpg" width="60" alt="Sword"> | <a href="list-names.md#-spiritual">Spiritual</a> | 2 |  -  | Allies HP Up<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-3.jpg" width="60" alt="Sword"> | <a href="list-names.md#-spiritual">Spiritual</a> | 2 |  -  | Allies HP Up<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Allies Heal<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-4.jpg" width="60" alt="Sword"> | <a href="list-names.md#-euclid">Euclid</a> | 3 | Buff<br> | Aggro<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-5.jpg" width="60" alt="Sword"> | <a href="list-names.md#-bull">Bull</a> | 4 |  -  | Water Taunt<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-6.jpg" width="60" alt="Sword"> | <a href="list-names.md#-dragon-slayer">Dragon Slayer</a> | 5 | Buff<br> | Dueling 2<br>
@@ -337,7 +337,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-11.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-sports-2018">Pompom</a> | 3 | Fast<br> | HP Absorb<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-12.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-sergeant-keroro">Space Army</a> | 0 |  -  | AoE<br>Focus 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-13.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-bravely-default-praying-brage">Ruin</a> | 4 | 3 Hit<br>AWK Boost<br> | Row<br>Shadow 1<br>Assault 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Row Quick 1<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-14.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-steampunk">Antique</a> | 5 |  -  | Row<br>Assault 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-14.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-steampunk">Antique</a> | 5 |  -  | Row Assault 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie4.jpg" width="60" alt="Dagger"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 |  -  | Nuke<br>Quick 1<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Daggers
@@ -366,10 +366,10 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-2.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-condemnation">Condemn</a> | 0 | Fast<br> | 
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-3.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-quartz">Quartz</a> | 2 |  -  | Dodge 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> PA Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-4.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-bone">Bone</a> | 3 |  -  | 
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-5.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-twilight">Twilight</a> | 4 | Fast 2 Hit<br>100% Aim<br> | AoE<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-5.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-twilight">Twilight</a> | 4 | Fast 2 Hit<br>Aim 100%<br> | AoE<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-6.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-music">Violin</a> | 5 |  -  | Shadow 2<br>Quick 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-7.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-valentines-2018">Aphrodite</a> | 1 | 3 Hit<br> | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Party Assault 1<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-8.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-glitzy">Glitzy</a> | 2 | Fast 2 Hit<br>100% Aim<br> | Assault 2<br>HP Absorb<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-8.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-glitzy">Glitzy</a> | 2 | Fast 2 Hit<br>Aim 100%<br> | Assault 2<br>HP Absorb<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-9.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-bleach">Illusion</a> | 0 | 3 Hit<br> | Nuke<br>Shadow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-10.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-summer-2018">Mackerel</a> | 3 |  -  | AoE<br>Nuke<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-11.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-grimms-notes-repage">Legend</a> | 0 |  -  | Focus 2<br>

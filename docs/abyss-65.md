@@ -88,7 +88,7 @@ m:ss | Moves
 * Make sure to return to the rest quickly.
 
 ## White Mage
-* BP management to buff after buff release.
+* BP management to buff after buff dispel.
 * Prioritize default and/or Mdef buffs.
 * Seal resistance helps, else try to dodge red tiles.
 

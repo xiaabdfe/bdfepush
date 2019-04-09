@@ -57,7 +57,8 @@
 * Depends on the set up, it is more usual to stay in 1 row and tank everything without dodging.
 * Nuke attacks happen randomly in final phase. 
 * Typically try to nuke fast if you see before and/or during final phase to skip random nukes.
-	* Especially when you see 尽キル生命, he will continue to attack for quite a while,
+	* Especially when you see 尽キル生命, he will continue to attack for quite a while.
+	* Note to cross threshold during the second attack of 尽キル生命, otherwise the continuous attacks will stop.
 
 # Pattern/Thresholds:
 
@@ -66,7 +67,7 @@ Key moves | Effects
 Normal Attack | Row damage
 蝕ム腐斧 | One/Two Row AoE with Poison Floor
 枯レル活力 | Party damage / Waste debuff
-尽キル生命 | Multiple Auto Hits to Target
+尽キル生命 | Multiple normal attacks to the same target, cannot be dodged
 崩壊の理  | Party Damage / Bind / party buffs dispel / boss debuffs cleanse
 
 HP | Moves
@@ -121,9 +122,10 @@ Position | Sequence
 * Difficult to stay alive without barrier or resist.
 * Be aware of buff dispels.
 * Waste and poison resistances help.
+* Auto-buff helps to adjust HP in skipping thresholds.
 
 ## White Mage
-* BP management to buff after buff release.
+* BP management to buff after buff dispel.
 * Prioritize default and/or Pdef buffs.
 * Either seal immunity or time cleanse right into bar breaking phase
 * If DPS can break bar with auto, you can forgo seal.
@@ -134,10 +136,11 @@ Position | Sequence
 ## Thief
 * Be aware of buff dispels.
 * Waste and poison resistances help.
+* Auto-buff helps to adjust HP in skipping thresholds.
 
 ## Ranger
 * Single buff only, 3-star / 4-star dispel bows are sufficient.
-* BP management to spam debuffs after debuff release. 
+* BP management to spam debuffs after debuff cleanse. 
 * Prioritize forceless and/or Patk debuffs.
 * Weakness helps in skipping random days.
 * Slowcast helps to move in time in Seven Days.

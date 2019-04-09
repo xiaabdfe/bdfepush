@@ -89,6 +89,7 @@
 	* The rest usually stay in the middle row
 	* After taking the first hit, knights return to the rest to catch heal/buff
 	* There are now 2 light puddles, one being "Correct" one being "Wrong"
+	* As you step in a light puddle, the other light puddle disappears
 	* Stepping on the correct light puddle dispels invincibility
 	* Stepping on the wrong light puddle cuts own HP by half of Max HP and invincibility stays
 	* Knights usually avoid light puddles
@@ -114,6 +115,8 @@
 ## Thief
 * Pure DPS
 * Bring Assault if paired with Black Mage
+* Since you will not get hit, Dagger Stance is very useful
+* Auto-buff (Road of Edge or Grande) helps too if you switch well.
 
 ## Ranger
 * Time Weakness during the first normal attack of every single count

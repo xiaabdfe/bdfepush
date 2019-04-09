@@ -123,6 +123,16 @@ Name | Speed | Description
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Cross | 3.5s 2-line 100% aim | One of the best auto in the game. Wind auto reload reduction is usually event limited, however. Assault 2 + weak HP drain, might be useful depending on build.
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Argent Choco Fondue (Valentine's 2019) | 4.0s 2-line 100% aim | Dagger Stance + Row Quick 1.
 
+## ![Picture](https://caelum.s-ul.eu/flist/a0PWEzhZ.png)
+While Assault does not help Thieves themselves very much, **Row Assault** buffs are very coveted for Black Mages in the party.
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Dagger | Row Shadow/Quick/Assault 1.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Dagger | Row Assault 3.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Dagger | Row Assault 2.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Edge | Row Assault 3.
+
 ***
 
 **C Tier**

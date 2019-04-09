@@ -101,7 +101,7 @@ HP | Self | The Other
 
 ## Knight
 * AoE Taunt is required.
-* Regen 2, HP Up buffs help.
+* Self healing specials help for emergency.
 * Job is to stay alive while Rangers extend taunt.
 * Be mindful of their debuff clear timings.
 * Typical to auto buff Pdef/Mdef with Keysword.
@@ -143,22 +143,23 @@ HP | Self | The Other
 	* Typical non-slow 3 build:
 		* Glitzy (or other dispels)
 		* Nether Bull/Tanabata
-		* Slow 2 (Compass/Love/Dragon Slayer)
+		* Slow 2 (Compass/Quartz/Dragon Slayer)
 		* Twilight (or equivalent)
 		* 3* Slowcast 1 / Forceless 1 / whatever
 * Solo ranger is much more challenging.
  	* Typical build: 
 		* Glitzy (may need 2 dispels if otherwise)
-		* Slow 2 (Compass/Love/Dragon Slayer)
+		* Slow 2 (Compass/Quartz/Dragon Slayer)
 		* Nether Bull/Tanabata
 		* Twilight (or equivalent)
 		* Phoenix / 3* Slowcast 1 / Forceless 2
- 	* Depends on the set up, need extreme BP builds.
+ 	* Depends on the set up, need good BP reductions.
+* Briefcase Bow allows single ranger to have both Slow 2 and Slow 3 at once, but probably will not have enough slots without EX bows.
 * Be mindful of HP timing to dispel / reapply debuffs.
 	* Dispel Brave as soon as possible.
 * If there is no DPS, having Mono Wind Set helps immensely to clear faster as well as to easier finish both sisters at the same time
 	* Typical mono wind build:
-		* Glitzy, Legend / Twilight, Quartz, Cupid
+		* Glitzy, Legend / Twilight, Quartz
 		* Harp / Candy / Limited for extension
 		* Cutlassfish Bow if slot still available
 

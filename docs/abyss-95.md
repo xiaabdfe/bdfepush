@@ -126,18 +126,18 @@
 ## Knight
 * Poison and Waste immunity
 * Bind, Bleed if possible
-* Phalanx 2, 3 (won't have BP to cast Phalanx 1 in Phase 5)
+* Phalanx 2, 3
 
 ## Black Mage
 * Blind, Waste, Bleed immunity
-* Demon, New Year 17 and Ancient Rods are required
+* Demon, New Year 17 and Ancient/Lotus Rods are required
 * High DPS requirement to defeat the boss
 
 ## White Mage
 * Poison, Waste, Bleed immunity
 * Bind if possible
 * Due to reload increase, powerful auto heal is needed for one of the White Mages
-* Typical for one of the White Mages to go mono wind
+* Typical for one of the White Mages to go mono wind or mono fire (with Coffee Book)
 * Build in a way to maximize Black Mage DPS in quick succession
 * More hastes help
 
@@ -146,7 +146,8 @@
 * Very high equipment requirement
 * Forsake auto build, use pure special builds
 * Phoenix Dagger / Umbrella Dagger and 2 or 3 Dark Angel daggers are required
-* Significant BP cost reduction and limit break increase are required
+* Highly recommended to use legend coins on the Dark Angel daggers
+* Significant BP cost reduction and special power boost are required
 
 ## Ranger
 * Bleed, Waste immunity

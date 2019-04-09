@@ -92,7 +92,7 @@ If DPS is sufficient to break the non-weakness gauge. Might be better to use the
 	* Starts from non-weakness -> weakness -> non-weakness -> etc
 * **Enter final bar when HP reaches 1**
 	* Please conserve buffs / specials / BP before entering final bar
-* For the first bar, it is recommended to use weakness element to hit HP 1 again befoer using non-weakness to break the bar.
+* For the first bar, it is recommended to use weakness element to hit HP 1 again before using non-weakness to break the bar.
 
 ## Final bar (永久の方舟)
 * Dispel party buffs

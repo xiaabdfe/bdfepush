@@ -51,7 +51,7 @@ You are not required to have all of them to make mono fire set work, each of the
 Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Holy Dragon Grimoire | Heal + Patk/Pdef/Spirit buffs. 
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Daybreak Book (New Year 2018) | Whole field BP.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Daybreak Book | Whole field BP.
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Book | Heal + Brave 2 + buff extension.
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Grimoire | Max HP/BP buffs.
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ritual Book | Heal + Brave 3 when mono fire.

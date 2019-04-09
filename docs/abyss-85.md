@@ -93,6 +93,7 @@ Phase 2
 	* Attack boss -> heal boss
 	* Inflict debuff -> miss
 	* Buff / revive -> miss
+	* (It is possible to distribute BP using New Year 2018 book, however)
 	* Disappear if became doom tiles
 	* Never recasted
 	* Tips: Do not stand in the same row if others reverse tiles are cleared
@@ -140,6 +141,7 @@ Phase 2
 ## White Mage
 * Seal immunity
 * If there are two white mages, can discuss beforehand who cleanses and who heals during 不浄の言葉.
+* Otherwise Dark Angel / Fairy books are helpful.
 * Phase 1
 	* Heal timing is important
 	* Just so people don't die from burn from 1 HP
@@ -152,13 +154,14 @@ Phase 2
 
 ## Thief
 * Reverse tiles
-	* Use auto buff / violin if available
-* Blind/slow resistance helps
+	* Use auto buff / violin / fondue if available
+* Slow resistance helps but not needed
+* Blind resistance helps if not using 100% aim auto
 
 ## Ranger
 * Reverse tiles
 	* Use auto buff / off elemental attack
-	* No choice if mono water
+	* Does not really matter especially if no auto power is inherited
 * Seal resistance helps
 
 # Clear videos

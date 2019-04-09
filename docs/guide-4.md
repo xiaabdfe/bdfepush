@@ -153,6 +153,8 @@ Next up is for DPS maximization. 2-hit nuke rods, Fast Cast rods and Dualcast ro
 * Chests: Reload reduction chests are very useful. Otherwise any special power boost is fine.
 * Pants: Debuff resistance.
 
+The current meta of Black Mages is to have sufficient reload reduction to have main attacking rods on 0 reload. Therefore it is wise to calculate your reload reduction and look at your Rods reload.
+
 ### Medals
 Ice Golem. Debuff resistance if pants do not offer enough. Depending on party setup, Fighting Spirit and Faith can also be considered, especially if hitting damage cap.
 
@@ -164,6 +166,8 @@ If you have problem surviving the first few hits, starting with Barrier or Resis
 ## White Mage
 ### Weapons
 Generally, try to have both **Haste** and **Cleanse** unless you are paired with another white mage. Check the attributes of the boss and try to slot in **Pdef and/or Mdef**. Then, check the DPS in your team and try to slot in **Patk or Matk**. Fill up the rest with BP fill, Brave, Revive, HP/BP Up and/or Default. Mono elemental series (mainly fire, earth and wind) are good too if you have enough core books of the said elements. While Braves and Defaults seem powerful, stat buffs may result in better results in the end. A big misconception of the buffs result in many White Mages only bringing Braves/Defaults without corresponding stat buffs. For example, while mono earth set provides Brave 1/2/3 simultaneously, without auto buffing they are not as effective as on paper.
+
+For current meta, it is always better to go mono on books even when not using any mono effects because of BP and reload reduction from armours.
 
 **Choice of Auto**: It mainly depends on the chests the white mages choose. Typically auto buffs can be used for all cases, especially when healing is not needed as much. Otherwise auto heal is used. Avoid auto heal with only 4 BP gain, in general consider these auto heals in order: 5.5s 6 BP > 5s 5 BP > 5.5s 5 BP. Sometimes 2-row auto heal is beneficial too.
 
@@ -218,12 +222,13 @@ The general timings of Focus:
 ### Weapons
 First, check if the boss self buffs. If so, insert **Dispel** bow. **Weakness** is important to bring out party DPS. Then, consider Stat-down, Slow, Slowcast to improve party survival. Finally, **Debuff Extension** bow is very helpful to ensure that the debuffs stay on, especially if there's a knight who uses taunt.
 
-
 **Choice of Auto**: Bows that inflict poison are usually preferred. While a majority of the bows offer similar BP and speed, bows that offer 5 BP per auto are top choice, such as King's, Space Military and Anchemical. Otherwise, bows with faster autos are usually chosen.
 
-The current most popular set is **Mono Water Set**, with Weakness 3 from Squirrel as the core, then King's bow for Weakness 2, Compass for Slow/Slowcast/Extension, Space Military for stat-down and Watergun for dispel. While Weakness 3 is also possible with mono fire set, extension being only on Chaser and Limited bows makes mono water more versatile. For Weakness 3 of mono earth set, lack of stat-down and debuff efficiency make them inferior to mono water set.
+The current most popular set is **Mono Water Set**, with Weakness 3 from Squirrel as the core, then King's bow for Weakness 2, Compass for Slow/Slowcast/Extension, Space Military for stat-down and Watergun for dispel. While Weakness 3 is also possible with mono fire set, extension being only on Chaser and Limited bows makes mono water more versatile. For Weakness 3 of mono earth set, lack of stat-down and debuff efficiency make them inferior to mono water set. **Mono Wind Set** is also very well-balanced and powerful but wind Weakness 3 is a limited bow.
 
 Chaser is good to replace or combine with Weakness if slot available, especially when the DPS is a Black Mage.
+
+For current meta, it is always better to go mono on bows even when not using any mono effects because of BP and reload reduction from armours.
 
 ### Armours
 * Hats: BP and reload reduction.

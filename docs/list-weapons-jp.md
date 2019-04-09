@@ -55,7 +55,7 @@
 :-:|---|:-:|---|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-1.jpg" width="60" alt="大剣"> | コスモカイザー | 無 | - | 対水敵視<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-2.jpg" width="60" alt="大剣"> | 機械兵ギギガグゴ | I | - | -
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-3.jpg" width="60" alt="大剣"> | スピリチュアルブレード | II | - | 自分以外HPアップ<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-3.jpg" width="60" alt="大剣"> | スピリチュアルブレード | II | - | 自分以外HPアップ<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="レジェンドコイン"> 自分以外回復<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-4.jpg" width="60" alt="大剣"> | 思念結晶の大剣 | III | バフ<br> | 敵視<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-5.jpg" width="60" alt="大剣"> | 裁断の大破刃 | IV | - | 対水挑発<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-6.jpg" width="60" alt="大剣"> | 滅竜の大剣 | V | バフ<br> | デュエリング II<br>
@@ -280,7 +280,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-11.jpg" width="60" alt="双剣"> | 伝説のポンポン | III | 速い<br> | HP吸収<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-12.jpg" width="60" alt="双剣"> | スペースミリタリーカッター | 無 | - | 全体<br>フォーカス II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-13.jpg" width="60" alt="双剣"> | ルインブレイド | IV | 三段<br>覚醒威力<br> | 列<br>シャドウ I<br>アサルト I<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> 列クイック I<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-14.jpg" width="60" alt="双剣"> | 古ノ騒剣 | V | - | 列<br>アサルト III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> シャドウ I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-14.jpg" width="60" alt="双剣"> | 古ノ騒剣 | V | - | 列アサルト III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> シャドウ I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie4.jpg" width="60" alt="双剣"> | **[期間限定]** 白麗の双剣 | I | - | 防御無視<br>クイック I<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="土"> 土双剣
@@ -309,10 +309,10 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-2.jpg" width="60" alt="双剣"> | 断罪の棘突刃 | 無 | 速い<br> | -
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-3.jpg" width="60" alt="双剣"> | アリヒット・レイクォーツ | II | - | みかわし II<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="レジェンドコイン"> 物攻アップ<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-4.jpg" width="60" alt="双剣"> | 魔廟に眠る狂骨 | III | - | -
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-5.jpg" width="60" alt="双剣"> | ヨイノクチ | IV | 速い二段<br>100% Aim<br> | 全体<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-5.jpg" width="60" alt="双剣"> | ヨイノクチ | IV | 速い二段<br>必中<br> | 全体<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-6.jpg" width="60" alt="双剣"> | 弦剣オリン・ツヴァイ | V | - | シャドウ II<br>クイック II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-7.jpg" width="60" alt="双剣"> | 惑剣アフロディーテ | I | 三段<br> | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> 味方全体アサルト I<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-8.jpg" width="60" alt="双剣"> | グリッジークロス | II | 速い二段<br>100% Aim<br> | アサルト II<br>HP吸収<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-8.jpg" width="60" alt="双剣"> | グリッジークロス | II | 速い二段<br>必中<br> | アサルト II<br>HP吸収<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-9.jpg" width="60" alt="双剣"> | 幻亡の裂刃 | 無 | 三段<br> | 防御無視<br>シャドウ I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-10.jpg" width="60" alt="双剣"> | サバイタルナイフ | III | - | 全体<br>防御無視<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-11.jpg" width="60" alt="双剣"> | レジェンドナイフ | 無 | - | フォーカス II<br>
