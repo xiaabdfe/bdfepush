@@ -49,7 +49,7 @@ While I list them by effects, take note of the followings:
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Sword | Phalanx 2 + self heal. Cleanse-able Weakness 2 as penalty. 
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Sword | Phalanx 2 + self heal. Cleanse-able Weakness 2 as penalty (removed with 5 legend coins). 
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | Self Heal + HP+100%. A key to survival.
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Tuna Sword (Summer 2018) | Phalanx 3 with mono wind set. 30% Max BP reduction as penalty. Auto healing with powerful aggro generation.
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Sabre | Cleanses self debuffs while extend own buffs by 30s. Good to maintain Phalanxes, especially Phalanx 3 that comes with 30% Max BP penalty each use. 
@@ -62,10 +62,11 @@ Name | Description
 
 Name | Description
 ---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Sword | Phalanx 2 + Cover. Needs 5 legend coins to remove the max BP reduction penalty.
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ritual Sword | Phalanx 2 + aggro generation. Short duration.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Sword | Phalanx 2 + Endure. Long duration and penalty is Weakness 2 that can be cleansed.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Sword | Phalanx 2 + aggro generation. Short duration. Its auto healing has powerful aggro generation.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Sword | :o: Phalanx 2 + self heal. Cleanse-able Weakness 2 as penalty. The most coveted due to the heal and synergy with Tuna Sword.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Sword | :o: Phalanx 2 + self heal. Cleanse-able Weakness 2 as penalty (removed with 5 legend coins). The most coveted due to the heal and synergy with Tuna Sword.
 
 ***
 
@@ -86,6 +87,7 @@ Name | Description
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Sword | Works on all elements. Penalties: Reload +30s, BP Cost +1
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Halberd | Only works on wind.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Sword | Only works on fire. Shorter duration but comes with 30s debuff extension.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Euclid Sword | <img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> AoE universal taunt without penalty makes it very powerful.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sakura Sword | Its faster animation makes it easier to use. Works on all elements. Penalties: Reload +30s, BP Cost +1
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Blessing Sword (Christmas 2018) | Only works on water.
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Twilight Sword | Only works on earth. It comes with 30% Max BP penalty but it is very useful in [Abyss 80](https://github.com/caelumff/bdfeguides/wiki/Abyss-Floor-80), one of the few places you really want to taunt.

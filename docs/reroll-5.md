@@ -101,6 +101,7 @@ Name | Description
 Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Lotus Bow | Debuff extension 15s + (fire) chaser 2. The only fire extension bow but element-locked chaser lacks versatility for beginners.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Watergun Bow | Dispel + debuff extension 15s. The slow animation and short extension make it difficult to use as main extension bow.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Compass Shooter |:o: Debuff extension 15s + slow/slowcast 2. While short extension, having 2 slows in one plus extension is very slot-efficient. Its fast animation makes it easy to handle. BP and reload heavy, however.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Stardust Bow | AoE debuff extension 30s. Since it does nothing but extension, it is seldom used unless you need to extend multiple enemies at once.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Ruin Bow | Debuff extension 15s + (water) chaser 2. Element-locked chaser lacks versatility for beginners.

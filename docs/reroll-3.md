@@ -79,7 +79,7 @@ The most important jobs of white mages are to heal and cleanse debuffs. Since mo
 Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Tamatebako | :o: Cleanse + Haste 2. Fastest cast time of the four.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Tropical Drink (Boat / Summer 2017) | :o: Cleanse + Haste 2. Low BP cost.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Tropical Drink (Boat / Summer 2017) | :o: Cleanse + Haste 2. Low BP cost. With 5 legend coins it comes with the much valuable buff extension.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Grimoire | 2-row Heal + Haste 2 + Brave 1. Significantly different from the rest since it heals instead of cleanses.
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Grimoire | 2-row Cleanse + Haste 2. While having low BP cost, the cast time is painfully slow. 
 
@@ -126,7 +126,7 @@ Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Book (New Year 2019) | :o: Useful 2-row revive book with BP recovery. More powerful with more fire books.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Book | Needing at least 3 water books to work and long cast time make it difficult to use. The only advantage is it works on the whole field.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Euclid Book | While it works on 2 rows, having the longest cast time (4.5s) in the whole game makes it a pain to use.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Euclid Book | While it works on 2 rows, having the longest cast time (4.5s) in the whole game makes it a pain to use. Becomes standard 2.5s with 5 legend coins, however.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Royal Book | :o: One of the best, easiest to use revive books.
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Eril Grimoire | :o: One of the best, easiest to use revive books.
 
@@ -148,8 +148,9 @@ Name | Description
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dark Angel Grimoire | <img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Heal + Cleanse + extend buffs 15s. It requires legend coins. Situationally useful in some high difficulty content.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Dark Angel Grimoire | Heal + Cleanse + extend buffs 15s. It requires legend coins. Situationally useful in some high difficulty content.
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Book | :o: Heal + Brave 2 + extend buffs 15s. Brave 2 being a important buff makes it the best of all extension books.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Tropical Drink (Summer 2017) | Cleanse + Haste 2 + extend buffs 15s. Very handy combination.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Book | Heal + Proud 2 + extend buffs 15s. Proud 2 is also a handy buff but water set is less useful in general.
 
 ***

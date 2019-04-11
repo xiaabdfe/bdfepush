@@ -111,7 +111,7 @@ EQ | Names
 :-:|---
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-6.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-fire-swords">吉書の大筆剣</a><br>Paintbrush for the First Calligraphy of the Year (Paintbrush Sword)
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-6.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-fire-rods">神宿のこずえ</a><br>Branch Tip that a God Resides (Branch Tip Rod)
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-6.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-fire-books">富士鷹茄子の書</a><br>Book of Fuji Eagle Eggplant (it is said to be auspicious if you see these three objects in the first dream, [*hatsuyume*](https://en.wikipedia.org/wiki/Hatsuyume), of the year)<br>JP Community: ぼの (from special skill name あけぼのの太陽 *Sun of Daybreak*)<br>Alias: Daybreak Book
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-6.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-fire-books">富士鷹茄子の書</a><br>Book of Fuji Eagle Eggplant (it is said to be auspicious if you see these three objects in the first dream, [*hatsuyume*](https://en.wikipedia.org/wiki/Hatsuyume), of the year)<br>JP Community: ぼの (from special skill name あけぼのの陽 *Sun of Daybreak*)<br>Alias: Daybreak Book
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-6.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">毬杖の双剣</a><br>Gicchou Dagger (while shaped like a Hagoita)
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-6.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">結びの艶弓</a><br>Knot Bow
 

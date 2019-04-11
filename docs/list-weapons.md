@@ -113,7 +113,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-1.jpg" width="60" alt="Sword"> | <a href="list-names.md#-old-earth">Cosmokaiser</a> | 0 |  -  | Water Aggro<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-2.jpg" width="60" alt="Sword"> | <a href="list-names.md#-mechanical-soldier">Mechanical</a> | 1 |  -  | 
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-3.jpg" width="60" alt="Sword"> | <a href="list-names.md#-spiritual">Spiritual</a> | 2 |  -  | Allies HP Up<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Allies Heal<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-4.jpg" width="60" alt="Sword"> | <a href="list-names.md#-euclid">Euclid</a> | 3 | Buff<br> | Aggro<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-4.jpg" width="60" alt="Sword"> | <a href="list-names.md#-euclid">Euclid</a> | 3 | Buff<br> | Aggro<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> AoE Taunt<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-5.jpg" width="60" alt="Sword"> | <a href="list-names.md#-bull">Bull</a> | 4 |  -  | Water Taunt<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-6.jpg" width="60" alt="Sword"> | <a href="list-names.md#-dragon-slayer">Dragon Slayer</a> | 5 | Buff<br> | Dueling 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-7.jpg" width="60" alt="Sword"> | <a href="list-names.md#-royal">Royal</a> | 1 |  -  | Heal<br>Regen 2<br>
@@ -171,7 +171,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-1.jpg" width="60" alt="Rod"> | <a href="list-names.md#-old-water">Dark Heart</a> | 1 | Buff<br> | HP Absorb<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-2.jpg" width="60" alt="Rod"> | <a href="list-names.md#-old-water">Princess</a> | 0 |  -  | Fire BP Absorb<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-3.jpg" width="60" alt="Rod"> | <a href="list-names.md#-evil-eye">Evil Eye</a> | 2 |  -  | Critical 2<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-4.jpg" width="60" alt="Rod"> | <a href="list-names.md#-summer-2017">Ice Cream</a> | 3 |  -  | Split<br>Concentrate 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-4.jpg" width="60" alt="Rod"> | <a href="list-names.md#-summer-2017">Ice Cream</a> | 3 |  -  | Split<br>Concentrate 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> MA Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-5.jpg" width="60" alt="Rod"> | <a href="list-names.md#-animal">Kitty</a> | 4 | AoE<br> | Magic Barrier<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-6.jpg" width="60" alt="Rod"> | <a href="list-names.md#-christmas-2017">Wreath</a> | 5 | AoE<br> | 2 Hit<br>Dualcast<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-7.jpg" width="60" alt="Rod"> | <a href="list-names.md#-compass">Compass</a> | 1 | Buff<br> | Row<br>Fire Resist<br>Water Boost<br>
@@ -191,7 +191,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-1.jpg" width="60" alt="Rod"> | <a href="list-names.md#-old-earth">Heaven Demon</a> | 0 |  -  | Water BP Absorb<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-2.jpg" width="60" alt="Rod"> | <a href="list-names.md#-mechanical-soldier">Mechanical</a> | 1 |  -  | 
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-3.jpg" width="60" alt="Rod"> | <a href="list-names.md#-spiritual">Spiritual</a> | 2 |  -  | HP Absorb<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> MA Up<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-4.jpg" width="60" alt="Rod"> | <a href="list-names.md#-euclid">Euclid</a> | 3 | Buff<br> | Split<br>Concentrate 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-4.jpg" width="60" alt="Rod"> | <a href="list-names.md#-euclid">Euclid</a> | 3 | Buff<br> | Split<br>Concentrate 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Nuke<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-5.jpg" width="60" alt="Rod"> | <a href="list-names.md#-bull">Bull</a> | 4 | Buff<br> | Rapid DPS<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-6.jpg" width="60" alt="Rod"> | <a href="list-names.md#-dragon-slayer">Dragon Slayer</a> | 5 |  -  | Dualcast<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-7.jpg" width="60" alt="Rod"> | <a href="list-names.md#-royal">Royal</a> | 1 |  -  | Magic Barrier<br>Fast Cast 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Party Critical 1<br>
@@ -209,7 +209,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-1.jpg" width="60" alt="Rod"> | <a href="list-names.md#-old-wind">Anxious</a> | 1 |  -  | Use all BP<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-2.jpg" width="60" alt="Rod"> | <a href="list-names.md#-condemnation">Condemn</a> | 0 |  -  | Earth BP Absorb<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-3.jpg" width="60" alt="Rod"> | <a href="list-names.md#-quartz">Quartz</a> | 2 |  -  | Levitate<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Magic Barrier<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-4.jpg" width="60" alt="Rod"> | <a href="list-names.md#-bone">Bone</a> | 3 |  -  | AoE<br>Nuke<br>Fast Cast 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-4.jpg" width="60" alt="Rod"> | <a href="list-names.md#-bone">Bone</a> | 3 |  -  | AoE<br>Nuke<br>Fast Cast 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Limit Break 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-5.jpg" width="60" alt="Rod"> | <a href="list-names.md#-twilight">Twilight</a> | 4 |  -  | Limit Break 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-6.jpg" width="60" alt="Rod"> | <a href="list-names.md#-music">Mic</a> | 5 | AoE<br> | Dualcast<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-7.jpg" width="60" alt="Rod"> | <a href="list-names.md#-valentines-2018">Frigg</a> | 1 |  -  | 2 Hit<br>Critical 2<br>Rapid DPS<br>
@@ -229,7 +229,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-1.jpg" width="60" alt="Book"> | <a href="list-names.md#-old-fire">Reflame</a> | 0 | Buff<br> | Brave 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-2.jpg" width="60" alt="Book"> | <a href="list-names.md#-holy-dragon">Holy Dragon</a> | 1 | Attack<br> | Heal<br>PA/PD/SP Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-3.jpg" width="60" alt="Book"> | <a href="list-names.md#-dark-angel">Dark Angel</a> | 2 |  -  | Heal<br>Cleanse<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Buff Extend<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-4.jpg" width="60" alt="Book"> | <a href="list-names.md#-chain">Chain</a> | 3 |  -  | Heal<br>Haste 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-4.jpg" width="60" alt="Book"> | <a href="list-names.md#-chain">Chain</a> | 3 |  -  | Heal<br>Haste 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Mind 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-5.jpg" width="60" alt="Book"> | <a href="list-names.md#-halloween-2017">Ghost House</a> | 4 |  -  | 2 Row Heal<br>Mono Revive<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-6.jpg" width="60" alt="Book"> | <a href="list-names.md#-new-year-2018">Daybreak</a> | 5 | 2 Row<br> | Party<br>BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-7.jpg" width="60" alt="Book"> | <a href="list-names.md#-phoenix">Phoenix</a> | 1 |  -  | Default 2<br>Proud 2<br>
@@ -249,7 +249,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-1.jpg" width="60" alt="Book"> | <a href="list-names.md#-old-water">Supersonic</a> | 1 |  -  | 2 Row Heal<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-2.jpg" width="60" alt="Book"> | <a href="list-names.md#-old-water">World Tree</a> | 0 |  -  | Revive<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-3.jpg" width="60" alt="Book"> | <a href="list-names.md#-evil-eye">Evil Eye</a> | 2 | Attack<br> | Attack<br>Allies BP Recovery<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-4.jpg" width="60" alt="Book"> | <a href="list-names.md#-summer-2017">Boat</a> | 3 |  -  | Cleanse<br>Haste 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-4.jpg" width="60" alt="Book"> | <a href="list-names.md#-summer-2017">Boat</a> | 3 |  -  | Cleanse<br>Haste 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Buff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-5.jpg" width="60" alt="Book"> | <a href="list-names.md#-animal">Kitty</a> | 4 | Buff<br> | Heal<br>Mono Brave/Default 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-6.jpg" width="60" alt="Book"> | <a href="list-names.md#-christmas-2017">Cookie</a> | 5 |  -  | 2 Row Heal<br>PD/MD Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-7.jpg" width="60" alt="Book"> | <a href="list-names.md#-compass">Compass</a> | 1 | 2 Row<br> | Heal<br>Haste 1<br>
@@ -307,7 +307,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-1.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-old-fire">Purgatory</a> | 1 |  -  | <img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> PA Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-2.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-holy-dragon">Holy Dragon</a> | 0 | Fast<br> | 
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-3.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-dark-angel">Dark Angel</a> | 2 | Fast<br> | Nuke<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> PA Up<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-4.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-chain">Fools</a> | 3 | 3 Hit<br> | Row Shadow 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-4.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-chain">Fools</a> | 3 | 3 Hit<br> | Row Shadow 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> PA Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-5.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-halloween-2017">Ghost</a> | 4 |  -  | Quick 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-6.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-new-year-2018">Gicchou</a> | 5 |  -  | Dodge 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-7.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-phoenix">Phoenix</a> | 1 | Fast<br> | Shadow 2<br>Assault 2<br>
@@ -327,7 +327,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-1.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-old-water">Dimension</a> | 1 |  -  | AoE<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-2.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-old-water">Ancazas</a> | 0 | Fast<br> | 
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-3.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-evil-eye">Evil Eye</a> | 2 |  -  | Charge<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> PA Up<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-4.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-summer-2017">Watermelon</a> | 3 |  -  | Dodge 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-4.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-summer-2017">Watermelon</a> | 3 |  -  | Dodge 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> PA Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-5.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-animal">Squirrel</a> | 4 | 3 Hit<br> | Shadow 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-6.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-christmas-2017">Bell</a> | 5 | Fast<br> | Assault 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-7.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-compass">Compass</a> | 1 | 3 Hit<br> | Shadow 1<br>Assault 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Quick 1<br>
@@ -385,7 +385,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-1.jpg" width="60" alt="Bow"> | <a href="list-names.md#-old-fire">Schwarzwald</a> | 1 |  -  | 
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-2.jpg" width="60" alt="Bow"> | <a href="list-names.md#-holy-dragon">Holy Dragon</a> | 0 |  -  | Wind Poison<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-3.jpg" width="60" alt="Bow"> | <a href="list-names.md#-dark-angel">Dark Angel</a> | 2 |  -  | Dispel<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-4.jpg" width="60" alt="Bow"> | <a href="list-names.md#-chain">Chain</a> | 3 |  -  | Weakness 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-4.jpg" width="60" alt="Bow"> | <a href="list-names.md#-chain">Chain</a> | 3 |  -  | Weakness 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Poison Up 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-5.jpg" width="60" alt="Bow"> | <a href="list-names.md#-halloween-2017">Spider</a> | 4 |  -  | Mono Poison Up 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-6.jpg" width="60" alt="Bow"> | <a href="list-names.md#-new-year-2018">Knot</a> | 5 | AoE<br> | Heal<br>Poison Up 1<br>SP Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-7.jpg" width="60" alt="Bow"> | <a href="list-names.md#-phoenix">Phoenix</a> | 1 |  -  | Forceless 2<br>Slowcast 1<br>
@@ -405,7 +405,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-1.jpg" width="60" alt="Bow"> | <a href="list-names.md#-old-water">Sea Dragon</a> | 0 |  -  | Fire Poison<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-2.jpg" width="60" alt="Bow"> | <a href="list-names.md#-old-water">Butterfly</a> | 1 |  -  | AoE<br>MA/MD Down<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-3.jpg" width="60" alt="Bow"> | <a href="list-names.md#-evil-eye">Evil Eye</a> | 2 |  -  | Poison Up 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> SP Up<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-4.jpg" width="60" alt="Bow"> | <a href="list-names.md#-summer-2017">Watergun</a> | 3 |  -  | Dispel<br>PD/MD Down<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-4.jpg" width="60" alt="Bow"> | <a href="list-names.md#-summer-2017">Watergun</a> | 3 |  -  | Dispel<br>PD/MD Down<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Debuff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-5.jpg" width="60" alt="Bow"> | <a href="list-names.md#-animal">Squirrel</a> | 4 |  -  | Mono Weakness 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-6.jpg" width="60" alt="Bow"> | <a href="list-names.md#-christmas-2017">Snowman</a> | 5 |  -  | Weakness 1<br>Forceless 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-7.jpg" width="60" alt="Bow"> | <a href="list-names.md#-compass">Compass</a> | 1 |  -  | Slow 2<br>Slowcast 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
@@ -425,7 +425,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-1.jpg" width="60" alt="Bow"> | <a href="list-names.md#-old-earth">Gainatec</a> | 0 |  -  | Water Poison<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-2.jpg" width="60" alt="Bow"> | <a href="list-names.md#-mechanical-soldier">Mechanical</a> | 1 |  -  | 
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-3.jpg" width="60" alt="Bow"> | <a href="list-names.md#-spiritual">Spiritual</a> | 2 |  -  | Debuff Extend<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-4.jpg" width="60" alt="Bow"> | <a href="list-names.md#-euclid">Euclid</a> | 3 | Buff<br> | Forceless 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-4.jpg" width="60" alt="Bow"> | <a href="list-names.md#-euclid">Euclid</a> | 3 | Buff<br> | Forceless 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Poison Up 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-5.jpg" width="60" alt="Bow"> | <a href="list-names.md#-bull">Bull</a> | 4 | AoE<br> | Slowcast 2<br>Debuff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-6.jpg" width="60" alt="Bow"> | <a href="list-names.md#-dragon-slayer">Dragon Slayer</a> | 5 |  -  | AoE<br>Mono Slow 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-7.jpg" width="60" alt="Bow"> | <a href="list-names.md#-royal">Royal</a> | 1 |  -  | Dispel<br>
@@ -443,7 +443,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-1.jpg" width="60" alt="Bow"> | <a href="list-names.md#-old-wind">Rising</a> | 1 |  -  | AoE<br>PA/PD Down<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-2.jpg" width="60" alt="Bow"> | <a href="list-names.md#-condemnation">Condemn</a> | 0 |  -  | Earth Poison<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-3.jpg" width="60" alt="Bow"> | <a href="list-names.md#-quartz">Quartz</a> | 2 |  -  | Slowcast 2<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Slow 2<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-4.jpg" width="60" alt="Bow"> | <a href="list-names.md#-bone">Bone</a> | 3 |  -  | Poison to Heal<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-4.jpg" width="60" alt="Bow"> | <a href="list-names.md#-bone">Bone</a> | 3 |  -  | Poison to Heal<br><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> Poison Up 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-5.jpg" width="60" alt="Bow"> | <a href="list-names.md#-twilight">Twilight</a> | 4 |  -  | PA/PD/MA/MD Down<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-6.jpg" width="60" alt="Bow"> | <a href="list-names.md#-music">Harp</a> | 5 | AoE<br> | Mono Weakness/Forceless 1<br>Debuff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-7.jpg" width="60" alt="Bow"> | <a href="list-names.md#-valentines-2018">Cupid</a> | 1 |  -  | Slow 2<br>
