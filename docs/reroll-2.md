@@ -54,7 +54,7 @@ Name | Description
 ***
 
 # A Tier
-## ![Picture](https://caelum.s-ul.eu/flist/nhSfSe53.png)
+## ![Picture](https://caelum.s-ul.eu/flist/LK5RHW0O.png)
 Since Black Mages are usually fragile while often targeted by enemies without a Knight around, **Magic Barrier** is extremely helpful to help Black Mages survive.
 
 Name | Description
@@ -62,6 +62,7 @@ Name | Description
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Turtle Rod | Magic Barrier + Limit Break 1.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Kitty Rod | -
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Clown Rod | Pure buff rod with Magic Barrier + Fast Cast 2 + (party) Critical 1. Carrying three potent buffs in one makes it a highly effective rod.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Quartz Rod | Levitate + Magic Barrier. Levitate is seldom utilized. Only consider if you do not have Unagi Stick.
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Unagi Stick (Summer 2018) | Magic Barrier + Aspir 2
 
 ***
@@ -118,11 +119,12 @@ Name | Description
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/ZQtitITY.png)
+## ![Picture](https://caelum.s-ul.eu/flist/1UarAkgW.png)
 While not carrying buffs, these **2-hit nukes** with 50% MDef ignore hit really hard. They have slightly faster cast time at 2.0s too.
 
 Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Staff | -
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Rod | This is different from the rest for having 3 hits, longer cast time and much longer reload. It carries Critical 2 buff too.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Rod | -
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Rod | -

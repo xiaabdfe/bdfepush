@@ -95,7 +95,7 @@ Name | Description
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/V3ycVBXk.png)
+## ![Picture](https://caelum.s-ul.eu/flist/xzRMgL9G.png)
 **Debuff Extension** is very helpful to ensure that the debuffs stay on instead of keeping track of expiration time of each buff, especially if there's a knight who uses taunt. 
 
 Name | Description

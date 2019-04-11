@@ -57,7 +57,7 @@ Name | Description
 ***
 
 # S Tier
-## ![Picture](https://caelum.s-ul.eu/flist/4RCMQRez.png)
+## ![Picture](https://caelum.s-ul.eu/flist/EdLRyLPj.png)
 **Phalanx 2** augments party damage incredibly, thus the most sought after buff for Knights.
 
 Name | Description
@@ -71,15 +71,16 @@ Name | Description
 ***
 
 ## ![Picture](https://caelum.s-ul.eu/flist/T5ezuZiJ.png)
+Increasing **Max HP** and **Healing** at the same time boost your survival instantly. In addition, Regen heals more with your Max HP after HP buffs.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | Self Heal + HP+100%. A key to survival, especially how you regen more with more max HP after HP buffs. Not useable in the first 30s in battle though.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | Self Heal + HP+100%. Not useable in the first 30s in battle though.
 
 ***
 
 # A Tier
-## ![Picture](https://caelum.s-ul.eu/flist/BRWtynCu.png)
+## ![Picture](https://caelum.s-ul.eu/flist/ZsClHXbo.png)
 **AoE Taunt** is the most effective way to keep enemies targetting the Knghts. 
 
 Name | Description
@@ -114,14 +115,15 @@ Name | Description
 ***
 
 # B Tier
-## ![Picture](https://caelum.s-ul.eu/flist/at59Fe6k.png)
-**HP Up** swords but without self heal are still good but not as versatile as Keysword. 
+## ![Picture](https://caelum.s-ul.eu/flist/AyJST8aZ.png)
+**HP Up** swords without condition are handy in boosting Knights' survival. 
 
 Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Sword | Dueling 2 + HP+50%
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Sabre | HP+100%. Not useable in the first 30s in battle.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Sabre | HP+100%. Not useable in the first 30s in battle.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | Self Heal + HP+100%. (already listed above for its superiority)
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Illusion Sword | Regen 1 + HP+50%
 
 ***

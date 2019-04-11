@@ -143,7 +143,7 @@ Name | Description
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/rqcY5dTc.png)
+## ![Picture](https://caelum.s-ul.eu/flist/btCN0709.png)
 **Buff extension** is very valuable. With good reload and BP reduction end-game build, it is possible to infinitely extend buffs for the rest of the battle. While white mage buffs are naturally long due to their innate effects, it benefits the DPS in the party the most since DPS buffs are significantly shorter.
 
 Name | Description
