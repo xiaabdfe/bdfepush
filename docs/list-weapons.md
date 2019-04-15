@@ -140,6 +140,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-10.jpg" width="60" alt="Sword"> | <a href="list-names.md#-summer-2018">Tuna</a> | 3 | Heal<br> | Mono Phalanx 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-11.jpg" width="60" alt="Sword"> | <a href="list-names.md#-grimms-notes-repage">Legend</a> | 0 |  -  | Allies Heal<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-12.jpg" width="60" alt="Sword"> | <a href="list-names.md#-valentines-2019">Choco</a> | 4 |  -  | Command 2<br>Aggro<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-13.jpg" width="60" alt="Sword"> | <a href="list-names.md#-dress-up">Dress Up</a> | 5 |  -  | Limit Break 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Phalanx 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo1.jpg" width="60" alt="Sword"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 |  -  | HP Up<br>Regen 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne1.jpg" width="60" alt="Sword"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 |  -  | Dueling 3<br>
 
@@ -218,6 +219,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-10.jpg" width="60" alt="Rod"> | <a href="list-names.md#-summer-2018">Unagi</a> | 3 |  -  | AoE<br>Magic Barrier<br>Aspir 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-11.jpg" width="60" alt="Rod"> | <a href="list-names.md#-grimms-notes-repage">Legend</a> | 0 | Buff<br> | Split<br>Fast Cast 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-12.jpg" width="60" alt="Rod"> | <a href="list-names.md#-valentines-2019">Lollipop</a> | 4 |  -  | Limit Break 3<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-13.jpg" width="60" alt="Rod"> | <a href="list-names.md#-dress-up">Dress Up</a> | 5 | AoE<br> | Empower 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo2.jpg" width="60" alt="Rod"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 | AoE<br> | Concentrate 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne2.jpg" width="60" alt="Rod"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 |  -  | Critical 3<br>
 
@@ -296,6 +298,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-10.jpg" width="60" alt="Book"> | <a href="list-names.md#-summer-2018">Flounder</a> | 3 | Attack<br> | Mono Brave 3<br>BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-11.jpg" width="60" alt="Book"> | <a href="list-names.md#-grimms-notes-repage">Legend</a> | 0 | 2 Row<br> | Heal<br>PA/PD/MA/MD Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-12.jpg" width="60" alt="Book"> | <a href="list-names.md#-valentines-2019">Choco</a> | 4 | Buff<br> | 2 Row<br>HP/BP Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-13.jpg" width="60" alt="Book"> | <a href="list-names.md#-dress-up">Dress Up</a> | 5 | Attack<br> | Attack<br>Mono Brave/Default 1<br>Mono Quick 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 |  -  | Heal<br>Brave 1<br>Default 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 |  -  | Heal<br>Brave 2<br>BP Recovery<br>
 
@@ -374,6 +377,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-10.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-summer-2018">Mackerel</a> | 3 |  -  | AoE<br>Nuke<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-11.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-grimms-notes-repage">Legend</a> | 0 |  -  | Focus 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-12.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-valentines-2019">Fondue</a> | 4 | Fast 2 Hit<br>Aim 100%<br>AWK Boost<br> | Dagger Stance<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Row Quick 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-13.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-dress-up">Dress Up</a> | 5 |  -  | Assault 3<br>Cleanse<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo4.jpg" width="60" alt="Dagger"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 |  -  | Shadow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne4.jpg" width="60" alt="Dagger"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 |  -  | Dodge 3<br>
 
@@ -452,6 +456,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-10.jpg" width="60" alt="Bow"> | <a href="list-names.md#-summer-2018">Hairtail</a> | 3 |  -  | AoE<br>Mono Weakness/Forceless 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-11.jpg" width="60" alt="Bow"> | <a href="list-names.md#-grimms-notes-repage">Legend</a> | 0 | AoE<br> | AoE<br>PA/PD/MA/MD Down<br>Hawkeye 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-12.jpg" width="60" alt="Bow"> | <a href="list-names.md#-valentines-2019">Candy</a> | 4 |  -  | Wind Chaser 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-13.jpg" width="60" alt="Bow"> | <a href="list-names.md#-dress-up">Dress Up</a> | 5 |  -  | Dispel<br>Cage of Curse<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Hawkeye 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo5.jpg" width="60" alt="Bow"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 |  -  | Weakness 1<br>Forceless 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne5.jpg" width="60" alt="Bow"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 | AoE<br> | AoE<br>Mono Weakness 3<br>
 
