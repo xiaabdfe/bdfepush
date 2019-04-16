@@ -158,6 +158,7 @@ Series | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight">
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Valentine's 19 | 1 | 2 | 1
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Retro Modern | 1 | 1 | 2
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Steampunk | 1 | 1 | 2
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Dress Up | 1 | 1 | 2
 
 ***
 
@@ -288,8 +289,10 @@ Series | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight">
 
 ## Parameter 2 Chests
 *All in this section have the same following effects:*
-* <img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> auto power +15
 * Slot Effects: Equipment stats +50%
+
+*All in the table below have the same following effects:*
+* <img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> auto power +15
 
 Series | Effects | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight"> | <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30" alt="Black Mage"><img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30" alt="White Mage"> | <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30" alt="Thief"><img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30" alt="Ranger">
 ---|---|:-:|:-:|:-:
@@ -298,6 +301,12 @@ Series | Effects | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Valentine's 19 | Bleed +50  | 2 | 1 | 1
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Retro Modern | Slow/Stop +35 | 2 | 1 | 1
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Steampunk | Burn/Stat-down +35 | 1 | 2 | 1
+
+*All in the table below have the same following effects:*
+* <img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> BP cost -1
+Series | Effects | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight"> | <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30" alt="Black Mage"><img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30" alt="White Mage"> | <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30" alt="Thief"><img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30" alt="Ranger">
+---|---|:-:|:-:|:-:
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Dress Up | Bind/PoisonV2 +40 | 1 | 2 | 1
 
 ***
 
@@ -375,8 +384,10 @@ Series | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight">
 
 ## Parameter 2 Pants
 *All in this section have the same following effects:*
-* <img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> BP cost -1
 * Slot Effects: Equipment stats +50%
+
+*All in the table below have the same following effects:*
+* <img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> BP cost -1
 
 Series | Effects | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight"> | <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30" alt="Black Mage"><img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30" alt="White Mage"> | <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30" alt="Thief"><img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30" alt="Ranger">
 ---|---|:-:|:-:|:-:
@@ -384,7 +395,17 @@ Series | Effects | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> New Year 19 | Bind +50 | 1 | 2 | 1
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Valentine's 19 | Bleed +50  | 1 | 1 | 2
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Retro Modern | Slow/Stop +35 | 2 | 2 | 1
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Steampunk | Burn/Stat-down | 2 | 1 | 1
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Steampunk | Burn/Stat-down +35 | 2 | 1 | 1
+
+*All in the table below have the same following effects:*
+* <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> auto power +25
+* <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> special power +40
+* <img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> auto power +15
+* <img src="https://caelum.s-ul.eu/LapOBpud.JPG" width="25" alt="Awakening"> <img src="https://caelum.s-ul.eu/Imvkuj6T.png" width="20" alt="[elemental]"> special power +30
+
+Series | <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30" alt="Knight"> | <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30" alt="Black Mage"><img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30" alt="White Mage"> | <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30" alt="Thief"><img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30" alt="Ranger">
+---|:-:|:-:|:-:
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Dress Up | 2 | 1 | 1
 
 ***
 
