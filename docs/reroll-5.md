@@ -58,7 +58,7 @@ Name | Description
 ***
 
 # S Tier
-## ![Picture](https://caelum.s-ul.eu/flist/rIOLT0Rt.png)
+## ![Picture](https://caelum.s-ul.eu/flist/XZ7vXWl5.png)
 The most important job of a ranger is to **Dispel** dangerous buffs on a boss. 
 
 Name | Description
@@ -67,6 +67,7 @@ Name | Description
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Watergun Bow | -
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Royal Joker | -
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Arrow | The only AoE dispel bow, however heavier in BP cost and reload.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Gorgeous Bow | It comes with Cage of Curse that lets you block buffs for a short period of time instead of simply dispelling (It dispels too, though). Heavy in BP cost and reload among single target dispel bows.
 
 ***
 

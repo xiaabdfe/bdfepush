@@ -149,13 +149,14 @@ Name | Description
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/Di2hwpXQ.png)
+## ![Picture](https://caelum.s-ul.eu/flist/M2fJn1vt.png)
 **Phalanx 1** swords are good to pair with Phalanx 2 swords. However 3-star swords with Phalanx 1 as awakening effects are sufficient mostly.
 
 Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Sword | Phalanx 1 + party aggro reduction.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Guillotine Blade (Halloween 2018) | Phalanx 1 + Endure.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Mysterious Sword | The innate effect of Limit Break 3 is useful when using Dueling. 
 
 ***
 
