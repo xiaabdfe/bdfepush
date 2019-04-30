@@ -45,7 +45,7 @@
 [Japan Folklore](#-japan-folklore) | [Sports 2018](#-sports-2018) | [Halloween 2018](#-halloween-2018) | [Grimms Notes Repage](#-grimms-notes-repage)
 [Lotus](#-lotus) | [Sergeant Keroro](#-sergeant-keroro) | [Christmas 2018](#-christmas-2018) | [Valentine's 2019](#-valentines-2019)
 [Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | [Dress Up](#-dress-up)
-[Rose](#-rose) | [Steampunk](#-steampunk) | \- | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
+[Rose](#-rose) | [Steampunk](#-steampunk) | [Golden](#-golden) | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
 [1st Anniversary](#-1st-anniversary) | [Valkyrie Profile](#-valkyrie-profile) | \- | [2nd Anniversary](#-2nd-anniversary)
 
 # Fire Weapons
@@ -525,6 +525,17 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-13.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-earth-books">ヘブンリーレコード</a><br>Heavenly Record
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-13.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">ヘブンリーエッジ</a><br>Heavenly Edge
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-13.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">ヘブンリーアロー</a><br>Heavenly Arrow
+
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Golden
+**Slot: 1**<br>This series is based on Ancient Egypt
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-14.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-earth-swords">黄金の宝剣</a><br>Golden Sword
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-14.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-earth-rods">黄金のカドゥケウス</a><br>Golden Caduceus
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-14.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-earth-books">黄金のパピルス</a><br>Golden Papyrus
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-14.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">黄金のケペシュ</a><br>Golden Khopesh
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-14.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">黄金の光弓</a><br>Golden Bow
 
 
 # Wind Weapons

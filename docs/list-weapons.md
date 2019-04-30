@@ -123,6 +123,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-11.jpg" width="60" alt="Sword"> | <a href="list-names.md#-halloween-2018">Guillotine</a> | 3 |  -  | Phalanx 1<br>Endure<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-12.jpg" width="60" alt="Sword"> | <a href="list-names.md#-christmas-2018">Blessing</a> | 4 |  -  | Water AoE Taunt<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-13.jpg" width="60" alt="Sword"> | <a href="list-names.md#-danmachi">Heavenly</a> | 5 | Buff<br> | Mono Regen 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Dueling 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-14.jpg" width="60" alt="Sword"> | <a href="list-names.md#-golden">Golden</a> | 1 |  -  | Mono Phalanx 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Testudo 1<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Wind Swords
 
@@ -202,6 +203,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-11.jpg" width="60" alt="Rod"> | <a href="list-names.md#-halloween-2018">Broomstick</a> | 3 |  -  | Brave 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-12.jpg" width="60" alt="Rod"> | <a href="list-names.md#-christmas-2018">Blessing</a> | 4 | Buff<br> | Reload minus<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-13.jpg" width="60" alt="Rod"> | <a href="list-names.md#-danmachi">Heavenly</a> | 5 |  -  | Aspir 2<br>Fast Cast 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-14.jpg" width="60" alt="Rod"> | <a href="list-names.md#-golden">Golden</a> | 1 |  -  | 3 Hit<br>MA/MD Up<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Wind Rods
 
@@ -281,6 +283,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-11.jpg" width="60" alt="Book"> | <a href="list-names.md#-halloween-2018">Cat Foot</a> | 3 |  -  | 2 Row<br>Brave 2<br>Proud 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-12.jpg" width="60" alt="Book"> | <a href="list-names.md#-christmas-2018">Blessing</a> | 4 |  -  | 2 Row Heal<br>BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-13.jpg" width="60" alt="Book"> | <a href="list-names.md#-danmachi">Heavenly</a> | 5 | Attack<br> | Heal<br>Cleanse<br>Default 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Mind 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-golden">Golden</a> | 1 | Attack<br> | Heal<br>Enhance Area 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Proud 1<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Wind Books
 
@@ -360,6 +363,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-11.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-halloween-2018">DualBoneMeat</a> | 3 |  -  | Focus 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-12.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-christmas-2018">Blessing</a> | 4 | 3 Hit<br> | AoE<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Party Quick 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-13.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-danmachi">Heavenly</a> | 5 |  -  | Row Assault 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-14.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-golden">Golden</a> | 1 |  -  | Dagger Stance<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Assault 1<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Wind Daggers
 
@@ -439,6 +443,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-11.jpg" width="60" alt="Bow"> | <a href="list-names.md#-halloween-2018">Silver Bullet</a> | 3 |  -  | Heal<br>Hawkeye 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-12.jpg" width="60" alt="Bow"> | <a href="list-names.md#-christmas-2018">Blessing</a> | 4 | AoE<br> | AoE<br>Weakness 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-13.jpg" width="60" alt="Bow"> | <a href="list-names.md#-danmachi">Heavenly</a> | 5 |  -  | Mono Weakness 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Hawkeye 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-14.jpg" width="60" alt="Bow"> | <a href="list-names.md#-golden">Golden</a> | 1 |  -  | Earth Chaser 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Slow 1<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Wind Bows
 

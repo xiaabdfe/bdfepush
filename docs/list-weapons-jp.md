@@ -66,6 +66,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-11.jpg" width="60" alt="大剣"> | ギロチンブレード | III | - | ファランクス I<br>たえる<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-12.jpg" width="60" alt="大剣"> | 祝福の聖剣 | IV | - | 対水全体挑発<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-13.jpg" width="60" alt="大剣"> | ヘブンリーソード | V | バフ<br> | 染めリジェネ III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> デュエリング I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-14.jpg" width="60" alt="大剣"> | 黄金の宝剣 | I | - | 染めファランクス III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> テストゥド I<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="風"> 風大剣
 
@@ -145,6 +146,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-11.jpg" width="60" alt="ロッド"> | 黒猫の魔法使い | III | - | ブレイブ II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-12.jpg" width="60" alt="ロッド"> | ブレッシングホーン | IV | バフ<br> | リロ減少<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-13.jpg" width="60" alt="ロッド"> | ヘブンリーロッド | V | - | アスピル II<br>早口 II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> リミブレ I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-14.jpg" width="60" alt="ロッド"> | 黄金のカドゥケウス | I | - | 三段<br>魔攻魔防アップ<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="風"> 風ロッド
 
@@ -224,6 +226,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-11.jpg" width="60" alt="ブック"> | 黒猫の足音 | III | - | 二列<br>ブレイブ II<br>プラウド II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-12.jpg" width="60" alt="ブック"> | 祝福の聖歌 | IV | - | 二列回復<br>BP回復<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-13.jpg" width="60" alt="ブック"> | ヘブンリーレコード | V | 攻撃<br> | 回復<br>デバフ全解除<br>デフォルト II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> マインド I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-14.jpg" width="60" alt="ブック"> | 黄金のパピルス | I | 攻撃<br> | 回復<br>エンハンスエリア II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> プラウド I<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="風"> 風ブック
 
@@ -303,6 +306,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-11.jpg" width="60" alt="双剣"> | デュアルボーンミート | III | - | フォーカス II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-12.jpg" width="60" alt="双剣"> | 祝福の礼剣 | IV | 三段<br> | 全体<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> 味方全体クイック I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-13.jpg" width="60" alt="双剣"> | ヘブンリーエッジ | V | - | 列アサルト III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> シャドウ I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-14.jpg" width="60" alt="双剣"> | 黄金のケペシュ | I | - | 双剣の構え<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> アサルト I<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="風"> 風双剣
 
@@ -382,6 +386,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-11.jpg" width="60" alt="弓"> | シルバーブレッド | III | - | 回復<br>ホークアイ II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-12.jpg" width="60" alt="弓"> | スターオブキャロル | IV | 全体<br> | 全体<br>ウィークネス II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> デバフ延長<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-13.jpg" width="60" alt="弓"> | ヘブンリーアロー | V | - | 染めウィークネス III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> ホークアイ I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-14.jpg" width="60" alt="弓"> | 黄金の光弓 | I | - | 土チェイサー II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> スロウ I<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="風"> 風弓
 
