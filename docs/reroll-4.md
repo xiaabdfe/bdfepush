@@ -57,6 +57,7 @@ Name | Description
 
 Name | Description
 ---|---
+<img src="https://caelum.s-ul.eu/flist/KihfCICL.png" width="20" alt="Earth"> Golden Khorpesh | Dagger Stance + Assault 1
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Argent Choco Fondue (Valentine's 2019) | Dagger Stance + Row Quick 1
 
 ***
