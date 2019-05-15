@@ -46,7 +46,8 @@
 [Lotus](#-lotus) | [Sergeant Keroro](#-sergeant-keroro) | [Christmas 2018](#-christmas-2018) | [Valentine's 2019](#-valentines-2019)
 [Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | [Dress Up](#-dress-up)
 [Rose](#-rose) | [Steampunk](#-steampunk) | [Golden](#-golden) | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
-[1st Anniversary](#-1st-anniversary) | [Valkyrie Profile](#-valkyrie-profile) | \- | [2nd Anniversary](#-2nd-anniversary)
+[1st Anniversary](#-1st-anniversary) | [Detective](#-detective) | \- | [2nd Anniversary](#-2nd-anniversary)
+\- | [Valkyrie Profile](#-valkyrie-profile) | \- | \-
 
 # Fire Weapons
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Old Fire
@@ -369,6 +370,17 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-14.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-water-books">イニシエの設計図</a><br>Antique Design Chart
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-14.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">古ノ騒剣</a><br>Antique Dagger
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-14.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">古ノ歯轟弓</a><br>Antique Gear Bow
+
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Detective
+**Slot: 1**
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-15.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-water-swords">正義の大剣</a><br>Justice Sword
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-15.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-water-rods">真相解明のパイプ</a><br>Truth-solving Pipe
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-15.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-water-books">名探偵の秘密道具</a><br>Famous Detective's Secret Tool
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-15.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">真実追及のダブル―ぺ</a><br>Truth-pursuing Magnifying Glass
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-15.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">弓状手錠</a><br>Bow-shaped Handcuffs
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Valkyrie Profile
 **[LIMITED]**<br>**Slot: 1**
