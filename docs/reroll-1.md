@@ -106,11 +106,13 @@ Name | Description
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/YJFKxMXV.png)
+## ![Picture](https://caelum.s-ul.eu/flist/LhcBpyO4.png)
+Swords that **extend own buffs** and **cleansing own debuffs** are a great combination. They are especially good to extend Phalanx 3 that comes with 30% Max BP penalty each use.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Sabre | Cleanses self debuffs while extend own buffs by 30s. Good to maintain Phalanxes, especially Phalanx 3 that comes with 30% Max BP penalty each use.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Crimson Katana | Shorter reload and self healing make it very powerful. 
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Sabre | Mono wind Phalanx 3 is more common.
 
 ***
 
@@ -128,11 +130,13 @@ Name | Description
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/W3Czwd49.png)
+## ![Picture](https://caelum.s-ul.eu/flist/Y1LF03FD.png)
+**Command 2** seems pretty strong on paper to help out with party reload and buff extension since the presence of Knigh usually eliminates chance of two White Mages. Does not work on Knight itself, however. Might need more time for real usage examples tho.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Cutting Choco (Valentine's 2019) | Command 2. Seems pretty strong on paper to help out with party reload and buff extension since the presence of Knigh usually eliminates chance of two White Mages. Does not work on Knight itself, however. Might need more time for real usage examples tho.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Sword | -
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Cutting Choco (Valentine's 2019) | -
 
 ***
 

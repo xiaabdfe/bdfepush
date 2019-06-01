@@ -194,7 +194,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-13.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">弓椿の仕込み鞄</a><br>Briefcase Camellia Bow
 
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Eastern Mystery
-**Slot: 1**
+**Slot: 1**<br>This series is based on Samurai, Onmyouji and Ninja respectively, the traditional/mythical warriors in the past Japan.
 
 EQ | Names
 :-:|---

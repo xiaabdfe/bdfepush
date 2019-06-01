@@ -96,12 +96,13 @@ Name | Description
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/7jW4Q2pz.png)
+## ![Picture](https://caelum.s-ul.eu/flist/aHuw3Cyd.png)
 **BP Recovery** Books are very excellent party supports that allow party to use more specials. Since they give BP back to you too, they are easy to use.
 
 Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Daybreak Book (New Year 2018) | Whole field BP with very fast cast time. The most versatile and easy-to-use BP book.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Book | Heal + BP. Slightly less BP recovery (15% compared to 20%) than other books but it comes with Haste 1 and Proud 1 (slot effect) which can turn out to be handy.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Book | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Heal + BP. Having slightly long cast time and very long reload make it the a little hard to use.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Blessing Hymn (Christmas 2018) | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> 2-row Heal + BP. Lowest BP cost while maintaining reasonable reload/cast time make it highly valuable.
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Choco Assort (Valentines 2019) | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Max HP/BP Buff with BP recovery at slot 4. While it recovers less BP, its combination with Max BP buff makes it stronger as you spam it more.

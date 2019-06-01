@@ -72,12 +72,13 @@ Name | Description
 ***
 
 # A Tier
-## ![Picture](https://caelum.s-ul.eu/flist/6qEzf3NC.png)
+## ![Picture](https://caelum.s-ul.eu/flist/Y6kASbgr.png)
 The current game usually requires or is advantageous for dealing a lot of damage in a short time. This is why **Weakness 2** is highly coveted. 
 
 Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Bow | Low BP cost but short duration.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Gambling of the Demon | Comes with Forceles 2 and an additional random debuff. The random debuff is not reliable but it is a fine bow without it regardlessly.
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Bow | -
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sakura Bow | Does no damage and short duration but comes with Forceless 2.
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Star of Carol (Christmas 2018) | Short duration but being AoE and coming with AoE debuff extension make it excellent.

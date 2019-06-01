@@ -52,13 +52,21 @@ Name | Description
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/BZnQSwcd.png)
-**Dagger Stance** is insanely powerful that makes each auto attack stronger with each hit as long as the Thief does not get hit, up to 200% bonus line of the original damage. Pairs well with Dodge 2 buff and smart red tile dodging.
+## ![Picture](https://caelum.s-ul.eu/flist/brpo1R23.png)
+**Dagger Stance** is insanely powerful that makes each auto attack stronger with each hit as long as the Thief does not get hit, up to 200% bonus line of the original damage. Pairs well with Dodge 2 buff and smart red tile dodging. Make sure to pair with Quick buffs to speed up the bonus accumulation, however.
 
 Name | Description
 ---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Crimson-Knot Kunai | Dagger Stance + Assault 1
 <img src="https://caelum.s-ul.eu/flist/KihfCICL.png" width="20" alt="Earth"> Golden Khorpesh | Dagger Stance + Assault 1
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Argent Choco Fondue (Valentine's 2019) | Dagger Stance + Row Quick 1
+
+## ![Picture](https://caelum.s-ul.eu/flist/eSIiPWj8.png)
+**Shadow 3** is a powerful buff that directly increases your damage output reliably. Best to combine with other more common buffs.
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Dagger | Shadow 3 + Assault 1
 
 ***
 
@@ -110,7 +118,7 @@ Name | Description
 
 # B Tier
 
-## ![Picture](https://caelum.s-ul.eu/flist/Ej5SZUMe.png)
+## ![Picture](https://caelum.s-ul.eu/flist/WLyQBc50.png)
 Thieves do not have built-in limit break. Single line autos end up with insufficient damage output eventually. While most **multi-line autos** are usually slower, these are the better ones with exceptional speed, reliability and power. 100% aim is a good bonus because auto attacks tend to miss more often and allows Thieves to ignore blind.
 
 Name | Speed | Description
