@@ -45,9 +45,9 @@
 [Japan Folklore](#-japan-folklore) | [Sports 2018](#-sports-2018) | [Halloween 2018](#-halloween-2018) | [Grimms Notes Repage](#-grimms-notes-repage)
 [Lotus](#-lotus) | [Sergeant Keroro](#-sergeant-keroro) | [Christmas 2018](#-christmas-2018) | [Valentine's 2019](#-valentines-2019)
 [Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | [Dress Up](#-dress-up)
-[Rose](#-rose) | [Steampunk](#-steampunk) | [Golden](#-golden) | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
-[1st Anniversary](#-1st-anniversary) | [Detective](#-detective) | \- | [2nd Anniversary](#-2nd-anniversary)
-\- | [Valkyrie Profile](#-valkyrie-profile) | \- | \-
+[Eastern Mystery](#-eastern-mystery) | [Steampunk](#-steampunk) | [Golden](#-golden) | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
+[Rose](#-rose) | [Detective](#-detective) | \- | [2nd Anniversary](#-2nd-anniversary)
+[1st Anniversary](#-1st-anniversary) | [Valkyrie Profile](#-valkyrie-profile) | \- | \-
 
 # Fire Weapons
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Old Fire
@@ -192,6 +192,17 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-13.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-fire-books">本日の御品書</a><br>Today's Menu<br>Alias: Coffee Book (for the iconic floating coffee
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-13.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">和傘の仕込み刀</a><br>Concealed Blade in Japanese Umbrella
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-13.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">弓椿の仕込み鞄</a><br>Briefcase Camellia Bow
+
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Eastern Mystery
+**Slot: 1**
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-14.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-fire-swords">紅蓮の太刀</a><br>Crimson Katana
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-14.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-fire-rods">陰祓いの金錫杖</a><br>Exorcism Rod
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-14.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-fire-books">封魔の絵巻</a><br>Sealing Scroll
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-14.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">紅結びの苦無</a><br>Crimson-Knot Kunai
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-14.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">鬼の手慰み</a><br>Gambling of the Demon
 
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Rose
 **[LIMITED]**<br>**Slot: 0**<br>Weapon Names: "Passion" *something*<br>More commonly referred as "Rose" due to its iconic appearance and animation.<br>JP Community: 薔薇 *Rose*
