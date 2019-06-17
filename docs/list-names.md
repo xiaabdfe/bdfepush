@@ -45,9 +45,9 @@
 [Japan Folklore](#-japan-folklore) | [Sports 2018](#-sports-2018) | [Halloween 2018](#-halloween-2018) | [Grimms Notes Repage](#-grimms-notes-repage)
 [Lotus](#-lotus) | [Sergeant Keroro](#-sergeant-keroro) | [Christmas 2018](#-christmas-2018) | [Valentine's 2019](#-valentines-2019)
 [Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | [Dress Up](#-dress-up)
-[Eastern Mystery](#-eastern-mystery) | [Steampunk](#-steampunk) | [Golden](#-golden) | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
-[Rose](#-rose) | [Detective](#-detective) | \- | [2nd Anniversary](#-2nd-anniversary)
-[1st Anniversary](#-1st-anniversary) | [Valkyrie Profile](#-valkyrie-profile) | \- | \-
+[Eastern Mystery](#-eastern-mystery) | [Steampunk](#-steampunk) | [Golden](#-golden) | [Wonderland](#-wonderland)
+[Rose](#-rose) | [Detective](#-detective) | \- | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
+[1st Anniversary](#-1st-anniversary) | [Valkyrie Profile](#-valkyrie-profile) | \- | [2nd Anniversary](#-2nd-anniversary)
 
 # Fire Weapons
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Old Fire
@@ -704,6 +704,17 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-13.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-wind-books">創造の写本</a><br>Manuscript of Creation
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-13.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">絢爛の双剣</a><br>Gorgeous Dagger
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-13.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">鮮麗の弓</a><br>Gorgeous Bow
+
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Wonderland
+**Slot: 1**
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-14.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-wind-swords">ダイナの剣</a><br>Dinah's Sword
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-14.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-wind-rods">不思議のカギ</a><br>Key of Wonder
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-14.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-wind-books">インワンダーランド</a><br>In Wonderland
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-14.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">案内人の手袋</a><br>Guide's Gloves
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-14.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">懐中弓時計</a><br>Pocket-watch Bow
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Final Fantasy Brave Exvius
 **[LIMITED]**<br>**Slot: 1**
