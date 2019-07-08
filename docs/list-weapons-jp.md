@@ -69,6 +69,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-12.jpg" width="60" alt="大剣"> | 祝福の聖剣 | IV | - | 対水全体挑発<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-13.jpg" width="60" alt="大剣"> | ヘブンリーソード | V | バフ<br> | 染めリジェネ III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> デュエリング I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-14.jpg" width="60" alt="大剣"> | 黄金の宝剣 | I | - | 染めファランクス III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> テストゥド I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-15.jpg" width="60" alt="大剣"> | 軍神の斬馬剣 | II | - | デュエリング III<br>ファランクス II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> セービング I<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="風"> 風大剣
 
@@ -151,7 +152,8 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-11.jpg" width="60" alt="ロッド"> | 黒猫の魔法使い | III | - | ブレイブ II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-12.jpg" width="60" alt="ロッド"> | ブレッシングホーン | IV | バフ<br> | リロ減少<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-13.jpg" width="60" alt="ロッド"> | ヘブンリーロッド | V | - | アスピル II<br>早口 II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> リミブレ I<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-14.jpg" width="60" alt="ロッド"> | 黄金のカドゥケウス | I | - | 三段<br>魔攻魔防アップ<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-14.jpg" width="60" alt="ロッド"> | 黄金のカドゥケウス | I | - | 三段<br>魔攻魔防アップ<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> 会心 I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-15.jpg" width="60" alt="ロッド"> | 黄龍の龍玉 | II | - | エンパワー II<br>染めエンパワー III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> ブレイブ I<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="風"> 風ロッド
 
@@ -192,7 +194,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-11.jpg" width="60" alt="ブック"> | 竜宮の玉手箱 | III | バフ<br> | ヘイスト II<br>デバフ全解除<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-12.jpg" width="60" alt="ブック"> | 蓮の烈火重 | IV | - | 二列回復<br>染め蘇生<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> BP回復<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-13.jpg" width="60" alt="ブック"> | 本日の御品書 | V | - | 回復<br>物攻物防魔攻魔防アップ<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> マインド I<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-14.jpg" width="60" alt="ブック"> | 封魔の絵巻 | I | - | 染めブレイブ II<br>クイック II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> プラウド I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-14.jpg" width="60" alt="ブック"> | 封魔の絵巻 | I | - | 染めブレイブ II<br>クイック II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> 自身プラウド I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose3.jpg" width="60" alt="ブック"> | **[期間限定]** 情熱の愛書 | 無 | 攻撃<br> | ヒールエリア<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy3.jpg" width="60" alt="ブック"> | **[期間限定]** フェアリーズ・グリモア | I | - | 回復<br>デバフ全解除<br>BP +<br>
 
@@ -214,7 +216,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-12.jpg" width="60" alt="ブック"> | スペースデッドストック | 無 | - | 回復<br>染めデフォルト III<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-13.jpg" width="60" alt="ブック"> | ルインブック | IV | 全体<br>攻撃<br> | 全体攻撃<br>染めブレイブデフォルト I<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> BP回復<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-14.jpg" width="60" alt="ブック"> | イニシエの設計図 | V | - | 二列回復<br>染めブレイブ III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> マインド I<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-15.jpg" width="60" alt="ブック"> | 名探偵の秘密道具 | I | 攻撃<br> | BP回復<br>ヘイスト I<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> プラウド I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-15.jpg" width="60" alt="ブック"> | 名探偵の秘密道具 | I | 攻撃<br> | BP回復<br>ヘイスト I<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> 自身プラウド I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie3.jpg" width="60" alt="ブック"> | **[期間限定]** 禁呪の書 | I | - | 回復<br>蘇生<br>ヒールエリア<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="土"> 土ブック
@@ -234,7 +236,8 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-11.jpg" width="60" alt="ブック"> | 黒猫の足音 | III | - | 二列<br>ブレイブ II<br>プラウド II<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-12.jpg" width="60" alt="ブック"> | 祝福の聖歌 | IV | - | 二列回復<br>BP回復<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-13.jpg" width="60" alt="ブック"> | ヘブンリーレコード | V | 攻撃<br> | 回復<br>デバフ全解除<br>デフォルト II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> マインド I<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-14.jpg" width="60" alt="ブック"> | 黄金のパピルス | I | 攻撃<br> | 回復<br>エンハンスエリア II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> プラウド I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-14.jpg" width="60" alt="ブック"> | 黄金のパピルス | I | 攻撃<br> | 回復<br>エンハンスエリア II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> 自身プラウド I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-15.jpg" width="60" alt="ブック"> | 軍師の兵法書 | II | - | 染めデフォルト III<br>クイック II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> 自身デフォルト I<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="風"> 風ブック
 
@@ -253,7 +256,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-11.jpg" width="60" alt="ブック"> | レジェンドグリモア | 無 | 二列<br> | 回復<br>物攻物防魔攻魔防アップ<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-12.jpg" width="60" alt="ブック"> | チョコアソート | IV | バフ<br> | 二列<br>最大HP/BPアップ<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> BP回復<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-13.jpg" width="60" alt="ブック"> | 創造の写本 | V | 攻撃<br> | 攻撃<br>染めブレイブデフォルト I<br>染めクイック II<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-14.jpg" width="60" alt="ブック"> | インワンダーランド | I | - | 二列回復<br>染め蘇生<br>染め物攻物防精神アップ<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> プラウド I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-14.jpg" width="60" alt="ブック"> | インワンダーランド | I | - | 二列回復<br>染め蘇生<br>染め物攻物防精神アップ<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> 自身プラウド I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo3.jpg" width="60" alt="ブック"> | **[期間限定]** チョコボメモリア | I | - | 回復<br>ブレイブ I<br>デフォルト I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne3.jpg" width="60" alt="ブック"> | **[期間限定]** リンネのキセキ | 無 | - | 回復<br>ブレイブ II<br>BP回復<br>
 
@@ -318,6 +321,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-12.jpg" width="60" alt="双剣"> | 祝福の礼剣 | IV | 三段<br> | 全体<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> 味方全体クイック I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-13.jpg" width="60" alt="双剣"> | ヘブンリーエッジ | V | - | 列アサルト III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> シャドウ I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-14.jpg" width="60" alt="双剣"> | 黄金のケペシュ | I | - | 双剣の構え<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> アサルト I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-15.jpg" width="60" alt="双剣"> | 智将の羽扇刀 | II | - | シャドウ III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> チャージ<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="風"> 風双剣
 
@@ -401,6 +405,7 @@
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-12.jpg" width="60" alt="弓"> | スターオブキャロル | IV | 全体<br> | 全体<br>ウィークネス II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> デバフ延長<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-13.jpg" width="60" alt="弓"> | ヘブンリーアロー | V | - | 染めウィークネス III<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> ホークアイ I<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-14.jpg" width="60" alt="弓"> | 黄金の光弓 | I | - | 土チェイサー II<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> スロウ I<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-15.jpg" width="60" alt="弓"> | 勾龍の強弓 | II | - | バフ全解除<br>呪いの檻<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="枠適正"> フォースレス I<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="風"> 風弓
 

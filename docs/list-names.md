@@ -46,7 +46,7 @@
 [Lotus](#-lotus) | [Sergeant Keroro](#-sergeant-keroro) | [Christmas 2018](#-christmas-2018) | [Valentine's 2019](#-valentines-2019)
 [Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | [Dress Up](#-dress-up)
 [Eastern Mystery](#-eastern-mystery) | [Steampunk](#-steampunk) | [Golden](#-golden) | [Wonderland](#-wonderland)
-[Rose](#-rose) | [Detective](#-detective) | \- | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
+[Rose](#-rose) | [Detective](#-detective) | [Sangoku](#-sangoku) | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
 [1st Anniversary](#-1st-anniversary) | [Valkyrie Profile](#-valkyrie-profile) | \- | [2nd Anniversary](#-2nd-anniversary)
 
 # Fire Weapons
@@ -559,6 +559,17 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-14.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-earth-books">黄金のパピルス</a><br>Golden Papyrus
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-14.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">黄金のケペシュ</a><br>Golden Khopesh
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-14.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">黄金の光弓</a><br>Golden Bow
+
+## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Sangoku
+**Slot: 2**<br>This series is based on Romance of the Three Kingdoms
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-15.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-earth-swords">軍神の斬馬剣</a><br>War God's Horse-slaying Sword
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-15.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-earth-rods">黄龍の龍玉</a><br>Yellow Dragon's Jade
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-15.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-earth-books">軍師の兵法書</a><br>War Strategy Book
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-15.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-earth-daggers">智将の羽扇刀</a><br>Strategist's Fan Blade
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-15.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-earth-bows">勾龍の強弓</a><br>Dragon Hook Bow
 
 
 # Wind Weapons
