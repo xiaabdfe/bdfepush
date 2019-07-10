@@ -126,6 +126,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-12.jpg" width="60" alt="Sword"> | <a href="list-names.md#-christmas-2018">Blessing</a> | 4 |  -  | Water AoE Taunt<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-13.jpg" width="60" alt="Sword"> | <a href="list-names.md#-danmachi">Heavenly</a> | 5 | Buff<br> | Mono Regen 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Dueling 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-14.jpg" width="60" alt="Sword"> | <a href="list-names.md#-golden">Golden</a> | 1 |  -  | Mono Phalanx 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Testudo 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG3-15.jpg" width="60" alt="Sword"> | <a href="list-names.md#-sangoku">Sangoku</a> | 2 |  -  | Dueling 3<br>Phalanx 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Saving 1<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Wind Swords
 
@@ -208,7 +209,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-11.jpg" width="60" alt="Rod"> | <a href="list-names.md#-halloween-2018">Broomstick</a> | 3 |  -  | Brave 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-12.jpg" width="60" alt="Rod"> | <a href="list-names.md#-christmas-2018">Blessing</a> | 4 | Buff<br> | Reload Minus<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-13.jpg" width="60" alt="Rod"> | <a href="list-names.md#-danmachi">Heavenly</a> | 5 |  -  | Aspir 2<br>Fast Cast 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-14.jpg" width="60" alt="Rod"> | <a href="list-names.md#-golden">Golden</a> | 1 |  -  | 3 Hit<br>MA/MD Up<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-14.jpg" width="60" alt="Rod"> | <a href="list-names.md#-golden">Golden</a> | 1 |  -  | 3 Hit<br>MA/MD Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Critical 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM3-15.jpg" width="60" alt="Rod"> | <a href="list-names.md#-sangoku">Sangoku</a> | 2 |  -  | Empower 2<br>Mono Empower 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Brave 1<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Wind Rods
 
@@ -249,7 +251,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-11.jpg" width="60" alt="Book"> | <a href="list-names.md#-japan-folklore">Tamatebako</a> | 3 | Buff<br> | Haste 2<br>Cleanse<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-12.jpg" width="60" alt="Book"> | <a href="list-names.md#-lotus">Lotus</a> | 4 |  -  | 2 Row Heal<br>Mono Revive<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-13.jpg" width="60" alt="Book"> | <a href="list-names.md#-retro-modern">Coffee</a> | 5 |  -  | Heal<br>PA/PD/MA/MD Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Mind 1<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-eastern-mystery">Onmyouji</a> | 1 |  -  | Mono Brave 2<br>Quick 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Proud 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-eastern-mystery">Onmyouji</a> | 1 |  -  | Mono Brave 2<br>Quick 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Self Proud 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-rose">Rose</a> | 0 | Attack<br> | Heal Area<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-1st-anniversary">Fairy</a> | 1 |  -  | Heal<br>Cleanse<br>BP +<br>
 
@@ -271,7 +273,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-12.jpg" width="60" alt="Book"> | <a href="list-names.md#-sergeant-keroro">Space Army</a> | 0 |  -  | Heal<br>Mono Default 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-13.jpg" width="60" alt="Book"> | <a href="list-names.md#-bravely-default-praying-brage">Ruin</a> | 4 | AoE<br>Attack<br> | AoE Attack<br>Mono Brave/Default 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-steampunk">Antique</a> | 5 |  -  | 2 Row Heal<br>Mono Brave 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Mind 1<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-15.jpg" width="60" alt="Book"> | <a href="list-names.md#-detective">Detective</a> | 1 | Attack<br> | BP Recovery<br>Haste 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Proud 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-15.jpg" width="60" alt="Book"> | <a href="list-names.md#-detective">Detective</a> | 1 | Attack<br> | BP Recovery<br>Haste 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Self Proud 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 |  -  | Heal<br>Revive<br>Heal Area<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Books
@@ -291,7 +293,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-11.jpg" width="60" alt="Book"> | <a href="list-names.md#-halloween-2018">Cat Foot</a> | 3 |  -  | 2 Row<br>Brave 2<br>Proud 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-12.jpg" width="60" alt="Book"> | <a href="list-names.md#-christmas-2018">Blessing</a> | 4 |  -  | 2 Row Heal<br>BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-13.jpg" width="60" alt="Book"> | <a href="list-names.md#-danmachi">Heavenly</a> | 5 | Attack<br> | Heal<br>Cleanse<br>Default 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Mind 1<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-golden">Golden</a> | 1 | Attack<br> | Heal<br>Enhance Area 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Proud 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-golden">Golden</a> | 1 | Attack<br> | Heal<br>Enhance Area 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Self Proud 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM3-15.jpg" width="60" alt="Book"> | <a href="list-names.md#-sangoku">Sangoku</a> | 2 |  -  | Mono Default 3<br>Quick 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Self Default 1<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Wind Books
 
@@ -310,7 +313,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-11.jpg" width="60" alt="Book"> | <a href="list-names.md#-grimms-notes-repage">Legend</a> | 0 | 2 Row<br> | Heal<br>PA/PD/MA/MD Up<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-12.jpg" width="60" alt="Book"> | <a href="list-names.md#-valentines-2019">Choco</a> | 4 | Buff<br> | 2 Row<br>HP/BP Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-13.jpg" width="60" alt="Book"> | <a href="list-names.md#-dress-up">Dress Up</a> | 5 | Attack<br> | Attack<br>Mono Brave/Default 1<br>Mono Quick 2<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-wonderland">Wonderland</a> | 1 |  -  | 2 Row Heal<br>Mono Revive<br>Mono PA/PD/SP Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Proud 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-wonderland">Wonderland</a> | 1 |  -  | 2 Row Heal<br>Mono Revive<br>Mono PA/PD/SP Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Self Proud 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 |  -  | Heal<br>Brave 1<br>Default 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 |  -  | Heal<br>Brave 2<br>BP Recovery<br>
 
@@ -375,6 +378,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-12.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-christmas-2018">Blessing</a> | 4 | 3 Hit<br> | AoE<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Party Quick 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-13.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-danmachi">Heavenly</a> | 5 |  -  | Row Assault 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-14.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-golden">Golden</a> | 1 |  -  | Dagger Stance<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Assault 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF3-15.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-sangoku">Sangoku</a> | 2 |  -  | Shadow 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Charge<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Wind Daggers
 
@@ -458,6 +462,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-12.jpg" width="60" alt="Bow"> | <a href="list-names.md#-christmas-2018">Blessing</a> | 4 | AoE<br> | AoE<br>Weakness 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-13.jpg" width="60" alt="Bow"> | <a href="list-names.md#-danmachi">Heavenly</a> | 5 |  -  | Mono Weakness 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Hawkeye 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-14.jpg" width="60" alt="Bow"> | <a href="list-names.md#-golden">Golden</a> | 1 |  -  | Earth Chaser 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Slow 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG3-15.jpg" width="60" alt="Bow"> | <a href="list-names.md#-sangoku">Sangoku</a> | 2 |  -  | Dispel<br>Cage of Curse<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Forceless 1<br>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Wind Bows
 
