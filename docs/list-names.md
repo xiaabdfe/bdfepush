@@ -47,7 +47,8 @@
 [Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | [Dress Up](#-dress-up)
 [Eastern Mystery](#-eastern-mystery) | [Steampunk](#-steampunk) | [Golden](#-golden) | [Wonderland](#-wonderland)
 [Rose](#-rose) | [Detective](#-detective) | [Sangoku](#-sangoku) | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
-[1st Anniversary](#-1st-anniversary) | [Valkyrie Profile](#-valkyrie-profile) | \- | [2nd Anniversary](#-2nd-anniversary)
+[1st Anniversary](#-1st-anniversary) | [One Thousand and One Nights](#-one-thousand-and-one-nights) | \- | [2nd Anniversary](#-2nd-anniversary)
+\- | [Valkyrie Profile](#-valkyrie-profile) | \- | \-
 
 # Fire Weapons
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Old Fire
@@ -392,6 +393,17 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-15.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-water-books">名探偵の秘密道具</a><br>Famous Detective's Secret Tool
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-15.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">真実追及のダブル―ぺ</a><br>Truth-pursuing Magnifying Glass
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-15.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">弓状手錠</a><br>Bow-shaped Handcuffs
+
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> One Thousand and One Nights
+**Slot: 2**<br>The series are derived from Middle Eastern folk tales, particularly Aladdin.<br>Weapon Names: "Three Wishes" *something*
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-16.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-water-swords">三願の大剣</a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-16.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-water-rods">三願の杖</a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-16.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-water-books">三願の物語</a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-16.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">三願の双剣</a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-16.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">三願の弓</a>
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Valkyrie Profile
 **[LIMITED]**<br>**Slot: 1**
