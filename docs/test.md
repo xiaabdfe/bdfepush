@@ -15,22 +15,25 @@ The tiering is based on early game value while endgame value is rated separately
 * Endgame Value: S
 * Type: Party Support
 * Augments party damage incredibly. Since Phalanx 3 requires mono sets, Phalanx 2 is the one to go.
+* Warning: Same Phalanx buffs on other Knights will disappear if you use it.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Sword | Phalanx 2 + Cover. (-) Needs 5 legend coins to remove the max BP reduction penalty.
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ritual Sword | Phalanx 2 + aggro generation. (-) Short duration.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Sword | Phalanx 2 + Cover. (-) Needs 5 legend coins to remove the max BP reduction penalty
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ritual Sword | Phalanx 2 + aggro generation. (-) Short duration
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Sword | Phalanx 2 + Endure. (+) Long duration; (-) Weakness 2 penalty (needs to be cleansed)
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Sword | Phalanx 2 + aggro generation. (+) Auto-heal with powerful aggro generation; (-) Short duration.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Sword | Phalanx 2 + self heal. (+) Mono wind set is the most versatile and the easiest to achieve; (-) Needs 5 legend coins to remove the Weakness 2 penalty.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Sword | Phalanx 2 + aggro generation. (+) Auto-heal with powerful aggro generation; (-) Short duration
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Sword | Phalanx 2 + self heal. (+) Mono wind set is the most versatile and the easiest to achieve; (-) Needs 5 legend coins to remove the Weakness 2 penalty
 
 ***
 
-## Max HP Up + Healing**
+## Max HP Up + Healing
 
 ![Picture](https://caelum.s-ul.eu/flist/DZ9I9zQQ.png)
 * Endgame Value: A
 * Type: Self Survival
+* Improves self survival greatly in one single motion. Cannot be used in first 30s however.
+* Although it is only available in one regular weapon, similar effects can be found in EX Weapon Grande.
 
 Name | Description
 ---|---
@@ -38,67 +41,85 @@ Name | Description
 
 ***
 
-![Picture](https://caelum.s-ul.eu/flist/I6PGbKZL.png)
-**AoE Taunt** is the most effective way to keep enemies targetting the Knghts.
+## AoE Taunt
 
-Endgame Value: S
+![Picture](https://caelum.s-ul.eu/flist/I6PGbKZL.png)
+* Endgame Value: S
+* Type: Party Support
+* Makes sure that enemies only target you so that the party can perform their own roles safely.
+* Warning: Some of them come with strong demerits. You cannot use those swords repetitively so you have to depend on Rangers to extend for you.
+* Warning: There are contents that Taunt is ineffective.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Sword | Works on all elements. Penalties: Reload +30s, BP Cost +1
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Halberd | Only works on wind.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Sword | Only works on fire. Shorter duration but comes with 30s debuff extension.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Euclid Sword | <img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> AoE universal taunt without penalty makes it very powerful.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sakura Sword | Its faster animation makes it easier to use. Works on all elements. Penalties: Reload +30s, BP Cost +1
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Blessing Sword (Christmas 2018) | Only works on water.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Twilight Sword | Only works on earth. It comes with 30% Max BP penalty but it is very useful in [Abyss 80](https://github.com/caelumff/bdfeguides/wiki/Abyss-Floor-80), one of the few places you really want to taunt.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Sword | (-) Penalties: Reload +30s, BP Cost +1
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Halberd | (+) No penalty; (-) Only works on wind
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Sword | (+) No penalty; (+) The only debuff extension sword in the game; (-) Only works on fire; (-) Short duration; (-) Super long animation that makes the debuff extension difficult to use.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Euclid Sword |(+) No penalty; (-) Needs 5 legend coins to unlock the effect
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sakura Sword | (+) Instant animation; (-) Penalties: Reload +30s, BP Cost +1
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Blessing Sword (Christmas 2018) | (+) No penalty; (-) Only works on water
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Twilight Sword | (-) Only works on earth; (-) Penalty: 30% Max BP reduction; Despite the penalties, it is the only taunt among wind weapons.
 
 ***
 
 # A Tier
 
-![Picture](https://caelum.s-ul.eu/flist/AMQqFSnI.png)
-**Regen 2** is good in maintaining health.
+## Regen 2
 
-Endgame Value: A
+![Picture](https://caelum.s-ul.eu/flist/8Pj8TyUZ.png)
+* Endgame Value: A
+* Type: Self survival
+* HP recovery proportional to max HP (after HP Up buffs). Since Regen 3 requires mono sets, Regen 2 is the one to go.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Paradise Bird Sword | Long duration.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Paradise Bird Sword | (+) Long duration; (+) Comes with PDef/MDef buffs after legend coins
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Anchemical Sword | -
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Royal Sword | :o: Regen 2 + self heal makes it easiest to use. 
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Royal Sword | Regen 2 + self heal
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Wonderland Sword | (-) Only works when you are the only one surviving (for solo purpose)
+
 
 ***
 
-![Picture](https://caelum.s-ul.eu/flist/e2G2YtsM.png)
-**HP Up** swords without condition are handy in boosting Knights' survival.
+## Hp Up
 
-Endgame Value: B
+![Picture](https://caelum.s-ul.eu/flist/e2G2YtsM.png)
+* Endgame Value: B
+* Type: Self survival
+* Good to combine with Regen, but not as important in endgame partying because White Mages tend to bring party-wide HP Up buffs.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Sword | Dueling 2 + HP+50%
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Sabre | HP+100%. Not useable in the first 30s in battle.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Sabre | HP+100%. Not useable in the first 30s in battle.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | Self Heal + HP+100%. (already listed above for its superiority)
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Illusion Sword | Regen 1 + HP+50%
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Sword | HP+50% + Dueling 2.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Grace Sword | HP+50%. (-) Needs 5 legend coins to remove full HP condition yet still mediocre
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Xmas Tree Sword | HP+50% + Regen 1. (-) Needs full HP condition to activate HP+50%
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Sabre | HP+100%. (-) Not useable in the first 30s in battle
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Sword | HP+50% + Cleanse + Buff Extend.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Sabre | HP+100%. (-) Not useable in the first 30s in battle
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | HP+100% + self heal. (-) Not useable in the first 30s in battle
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Illusion Sword | HP+50% + Regen 1.
 
 ***
 
 # B Tier
 
-![Picture](https://caelum.s-ul.eu/flist/sssbbpc9.png)
-![Picture](https://caelum.s-ul.eu/flist/GkRU3iFx.png)
-**Dueling** is good when doing dailies where you are not sure if you should be confident in your party's DPS roles.
+## Dueling
 
-Endgame Value: (Only used when solo-ing)
+![Picture](https://caelum.s-ul.eu/flist/sssbbpc9.png)
+* Endgame Value: (Only used when solo-ing)
+* Type: DPS
+* Mainly used in dailies with random people as you are not sure whether proper DPS would join.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Sword | Dueling 2 + HP+50%
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary Double Megaphone (Sports 2018) | Dueling 2 + self heal. Regen 1 to party except self.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Sword | Dueling 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Ishtar Sword (Valentine's 2018) | Dueling 2
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Sword | Dueling 2 + HP+50%.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary Double Megaphone (Sports 2018) | Dueling 2 + self heal + (allies only) Regen 1.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Sword | Dueling 2.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Ishtar Sword (Valentine's 2018) | Dueling 2.
+
+The following weapons have Dueling 1 on slot effects that stacks with Dueling 2.
+
+![Picture](https://caelum.s-ul.eu/flist/GkRU3iFx.png)
 
 ***
 
