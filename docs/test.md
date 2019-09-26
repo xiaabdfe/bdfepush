@@ -22,7 +22,8 @@ Name | Description
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Tamatebako | Cleanse + Haste 2; (+) Fast cast time
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Tropical Drink (Boat / Summer 2017) | Cleanse + Haste 2 + Buff Extension; (+) Low BP cost
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Book | 2-row Cleanse + HP/BP Up + Default 1; (+) High BP cost
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Book | Party-wide Cleanse + Heal Area; (+) Instant cast time; (-) Heal Area is very disappointing
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Book | Party-wide Cleanse + Heal Area; (+) Instant cast time; (+) Its auto-buff is one of the two only sources of Matk Up buff for earth; (-) Heal Area is very disappointing
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Record | Cleanse + Heal + Default 2 + Mind 1; (+) Fast cast time
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Grimoire | 2-row Cleanse + Haste 2; (+) Low BP cost; (-) Long cast time
 
 ***
@@ -147,22 +148,22 @@ Name | Description
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ghosthouse Book (Halloween 2017) | 2-row Heal + Revive; (-) Quite underwhelming for a mono book, no reason to use this if you have Lotus Book<br>Tier: B
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Key of Goetia | Heal + Brave 3
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Book (New Year 2019) | 2-row Heal + Revive + BP Recovery;
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Onmyouji Book | Brave 2 + self Quick 2 + self Proud 1; (~) Attacking book
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Sea Book | Heal + Default 3 + Brave 2
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Kitty Book | Heal + Brave/Default 2
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Book | Party-wide Heal + Revive + Heal Area
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Deadstock | Heal + Default 3
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Book | Brave/Default 1 + BP Recovery; (~) Attacking book
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Book | 2-row Heal + Brave 3 + Mind 1
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Book | Heal + Brave 3
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sangoku Book | Default 3 + self Quick 2; (~) Attacking book
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Organ Book | Heal + Default 3
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Flounder Book (Summer 2018) | Brave 3 + BP Recovery
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Dress-Up Book | Brave/Default 1 + Quick 2 + Mind 1; (~) Attacking book
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Wonderland Book | 2-row Heal + Revive + Patk/Pdef/Spirit Up
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ghosthouse Book (Halloween 2017) | *Tier: C*<br>2-row Heal + Revive; (-) No reason to use this if you have Lotus Book
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Key of Goetia | *Tier: S*<br>Heal + Brave 3
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Book (New Year 2019) | *Tier: A*<br>2-row Heal + Revive + BP Recovery;
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Onmyouji Book | *Tier: B*<br>Brave 2 + self Quick 2 + self Proud 1; (~) Attacking book
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Sea Book | *Tier: A*<br>Heal + Default 3 + Brave 2
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Kitty Book | *Tier: A*<br>Heal + Brave/Default 2
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Book | *Tier: B*<br>Party-wide Heal + Revive + Heal Area
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Deadstock | *Tier: A*<br>Heal + Default 3
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Book | *Tier: B*<br>Brave/Default 1 + BP Recovery; (~) Attacking book
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Book | *Tier: S*<br>2-row Heal + Brave 3 + Mind 1
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Book | *Tier: S*<br>Heal + Brave 3; (+) Its auto-buff is the only source of Patk Up and Spirit Up buffs for earth
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sangoku Book | *Tier: B*<br>Default 3 + self Quick 2; (~) Attacking book
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Organ Book | *Tier: A*<br>Heal + Default 3
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Flounder Book (Summer 2018) | *Tier: S*<br>Brave 3 + BP Recovery
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Dress-Up Book | *Tier: B*<br>Brave/Default 1 + self Quick 2 + Mind 1; (~) Attacking book
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Wonderland Book | *Tier: S*<br>2-row Heal + Revive + Patk/Pdef/Spirit Up
 
 ***
 
@@ -170,10 +171,10 @@ Name | Description
 
 ![Picture](https://caelum.s-ul.eu/flist/05QHmG1V.png)
 
-![Picture](https://caelum.s-ul.eu/flist/MAYt1QXn.png)
+![Picture](https://caelum.s-ul.eu/flist/caEjziHf.png)
 
-![Picture](https://caelum.s-ul.eu/flist/zxXKF3Tk.png)
-* Brave buffs increase DPS output of the party, especially Brave 3.
+![Picture](https://caelum.s-ul.eu/flist/5kGUWYjB.png)
+* Brave buffs directly increase DPS output of the party, especially Brave 3.
 * During endgame partying, Brave 3 is usually expected from you, especially if the party has 2 White Mages.
 * Different levels of Braves stack, so it is customary to include another Brave if you still have space
 
@@ -181,29 +182,53 @@ Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Key of Goetia | Brave 3 + Heal with mono fire set
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Book | 2-row Brave 3 + Heal with mono water set
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Book | Brave 3 + Heal with mono earth set
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Book | Brave 3 + Heal with mono earth set; (+) Its auto-buff is the only source of Patk Up and Spirit Up buffs for earth
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Flounder Book (Summer 2018) | Brave 3 + BP Recovery with mono wind set
-
-
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Reflame Grimoire | Brave 2; (-) No added value
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Book | Brave 2 + Heal + Buff Extension
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Onmyouji Book | Brave 2 + self Quick 2; (~) Attacking book; (-) Needs mono set for mediocre effect
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Sea Book | Brave 2 + Default 3 + Heal; (+) Still a good book without mono fire, only Default 3 -> 2
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Kitty Book | Brave/Default 2 + Heal; (-) Needs mono set to work
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Black Cat Footsteps | 2-row Brave 2 + Proud 2
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Bento Book (Sports 2018) | 2-row Brave/Default 1 + Heal + BP Recovery
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Book | 2-row Brave/Default 1 + BP Recovery; (~) Attacking book; (-) Needs mono set for mediocre effect
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Aladdin Book | Brave 1 + Heal + Enhance Area
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Grimoire | 2-row Brave 1 + Heal + Haste 2
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Illusion Book | 2-row Brave/Default 1 + Heal
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Dress-Up Book | Brave/Default 1 + self Quick 2 + Mind 1 | (~) Attacking book; (-) Needs mono set for mediocre effect
 
 ***
 
 ## Default
 
 ![Picture](https://caelum.s-ul.eu/flist/20kiLBDH.png)
-![Picture](https://caelum.s-ul.eu/flist/20kiLBDH.png)
-**Default**
+
+![Picture](https://caelum.s-ul.eu/flist/V0bP4f4A.png)
+* Default buffs directly reduce damage the party receives.
+* It is typical to prioritize offensive buffs before resorting to defensive buffs. Typically used to facetank enemy attacks without moving.
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Sea Book | Default 3 + Heal + Brave 2 with mono fire set
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Deadstock | Default 3 + Heal with mono water set
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sangoku Book | Default 3 + self Quick 2 with mono earth set; (~) Attacking book
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Organ Book | Default 3 + Heal with mono wind set
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Book | Default 2 + Proud 2
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Kitty Book | Brave/Default 2 + Heal; (-) Needs mono set to work
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dark Moon Grimoire | Default 2; (+) One of the two only sources of Matk Up buff for earth; (-) No added value
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Record | Default 2 + Heal + Cleanse
 
 ***
 
 ## Buff Extension
 
 ![Picture](https://caelum.s-ul.eu/flist/fEysw3QG.png)
-**Buff extension** is very valuable. With good reload and BP reduction endgame build, it is possible to infinitely extend buffs for the rest of the battle. While white mage buffs are naturally long due to their innate effects, it benefits the DPS in the party the most since DPS buffs are significantly shorter.
+* With good reload and BP reduction endgame build, it is possible to infinitely extend buffs for the rest of the battle. While white mage buffs are naturally long due to their innate effects, it benefits the DPS in the party the most since DPS buffs are significantly shorter.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Dark Angel Grimoire | Heal + Cleanse + extend buffs 15s. It requires legend coins. Situationally useful in some high difficulty content.
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Book | :o: Heal + Brave 2 + extend buffs 15s. Brave 2 being a important buff makes it the best of all extension books.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Tropical Drink (Summer 2017) | Cleanse + Haste 2 + extend buffs 15s. Very handy combination.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Book | Heal + Proud 2 + extend buffs 15s. Proud 2 is also a handy buff but water set is less useful in general. 
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dark Angel Grimoire | Buff Extension + Heal + Cleanse; (-) High BP cost
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Book | Buff Extension + Heal + Brave 2
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Tropical Drink (Summer 2017) | Buff Extension + Cleanse + Haste 2
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Book | Buff Extension + Heal + Proud 2; (-) Long reload
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Seafood Book | Buff Extension + Heal + Matk/Mdef/Spirit Up Buff; (-) Long reload; (-) Stacking buffs lag the game badly if you over-spam it
