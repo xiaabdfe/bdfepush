@@ -6,182 +6,138 @@ While I list them by effects, take note of the followings:
 
 The tiering is based on early game value while endgame value is rated separately for each gear. Endgame Tier lists the gears you will want eventually as you hit the endgame but not beginner-friendly.
 
+# Beginner
+
 # S Tier
 
-## Aspir
+![Picture](https://caelum.s-ul.eu/flist/Ld3KP7Mg.png)
+The most important jobs of white mages as healers are to heal and cleanse debuffs. Since most books heal, so you need to have **Cleanse** books. 
 
-![Picture](https://caelum.s-ul.eu/flist/0MC0hVZO.png)
-* Endgame Value: S
-* Since Black Mages main in dealing damage with flashy and explosive special attacks. So using Aspir to maintain healthy BP supply is mandatory to deal consistent damage.
+Endgame Value: S
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Rod | Aspir 2 + Fast Cast 2
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary 1st Prize Flag | Aspir 2 + Limit Break 2
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Rod | Aspir 2 + Fast Cast 2 + Limit Break 1
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Unagi Stick (Summer 2018) | Aspir 2 + Magic Barrier
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Tamatebako | :o: Cleanse + Haste 2. Fastest cast time of the four.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Tropical Drink (Boat / Summer 2017) | :o: Cleanse + Haste 2. Low BP cost. With 5 legend coins it comes with the much valuable buff extension.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Grimoire | 2-row Heal + Haste 2 + Brave 1. Significantly different from the rest since it heals instead of cleanses.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Grimoire | 2-row Cleanse + Haste 2. While having low BP cost, the cast time is painfully slow. 
+
+![Picture](https://caelum.s-ul.eu/flist/A70wkCqd.png)
+**Haste** is very strong especially in the beginning where you do not have enough reload reduction.
+
+Endgame Value: A
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Tamatebako | :o: Cleanse + Haste 2. Fastest cast time of the four.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Tropical Drink (Boat / Summer 2017) | :o: Cleanse + Haste 2. Low BP cost. With 5 legend coins it comes with the much valuable buff extension.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Grimoire | 2-row Heal + Haste 2 + Brave 1. Significantly different from the rest since it heals instead of cleanses.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Grimoire | 2-row Cleanse + Haste 2. While having low BP cost, the cast time is painfully slow. 
 
 ***
 
 # A Tier
 
-## Row Elemental Buff
+![Picture](https://caelum.s-ul.eu/flist/LZ29Q6Is.png)
+**Standard heal and buff books with Spirit buff**. They are easy to use because of their high healing power and Spirit buff which makes following heals more powerful. 
 
-![Picture](https://caelum.s-ul.eu/flist/11AiwgY3.png)
-* Endgame Value: A
-* Immensely improves party survival while significantly increases party damage at the same time.
+Endgame Value: S
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Rod | (+) Buffing auto
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Compass Rod | (+) Buffing auto
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sakura Rod | -
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Wand | - 
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Holy Dragon Grimoire | Heal + Patk/Pdef/Spirit buffs. Good for physical bosses / thief DPS party. 
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Condemnation Book | Heal + Matk/Mdef/Spirit buffs. Good for magical bosses / blm DPS party. 
 
 ***
 
-## Magic Barrier
+![Picture](https://caelum.s-ul.eu/flist/tLGe7k4D.png)
+**BP Recovery** books are very excellent party supports that allow party to use more specials. Since they give BP back to you too, they are easy to use.
 
-![Picture](https://caelum.s-ul.eu/flist/aRbl5QSX.png)
-* Endgame Value: B
-* Without a Knight, Black Mages tend to be targeted by enemies. Black Mages' low PDef doesn't help.
-* Warning: All magic barrier rods have long reload.
+Endgame Value: S
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Turtle Rod | Magic Barrier + Limit Break 1
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Kitty Rod | -
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Clown Rod | Magic Barrier + Fast Cast 2 + (party) Critical 1
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Quartz Rod | Magic Barrier + Limit Break; (-) Levitate is seldom utilized, so only consider using legend coins if you do not have Unagi Stick
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Unagi Stick (Summer 2018) | Magic Barrier + Aspir 2
-
-***
-
-## Dualcast
-
-![Picture](https://caelum.s-ul.eu/flist/BqyiO2Y4.png)
-* Endgame Value: B
-* Useful for beginners without enough reload reduction or in content that extends reload.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Branch Tip Rod (New Year 2018) | -
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Saint Wreath (Christmas 2017) | (+) 2 Hits; (-) Very long reload
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Rod | -
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Mic Rod | -
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Daybreak Book (New Year 2018) | Whole field BP with very fast cast time. The most versatile and easy-to-use BP book.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Book | Heal + BP. Slightly less BP recovery (15% compared to 20%) than other books but it comes with Haste 1 and Proud 1 (slot effect) which can turn out to be handy.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Book | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Heal + BP. Having slightly long cast time and very long reload make it the a little hard to use.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Blessing Hymn (Christmas 2018) | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> 2-row Heal + BP. Lowest BP cost while maintaining reasonable reload/cast time make it highly valuable.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Choco Assort (Valentines 2019) | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Max HP/BP Buff with BP recovery at slot 4. While it recovers less BP, its combination with Max BP buff makes it stronger as you spam it more.
 
 ***
 
 # B Tier
 
-## Fast Cast
+![Picture](https://caelum.s-ul.eu/flist/wNWeau0x.png)
+2-row **Max HP/BP Buff**. Very good for survival as well as to make BP book restore more. Be careful that if you use them without Spirit buffs, your heal may not keep up with the HP.
 
-![Picture](https://caelum.s-ul.eu/flist/QyeWGXO8.png)
-* Endgame Value: S
-* Allows Black Mages to bombard specials quickly for DPS maximization, requires significant BP supply and reload reduction however.
-* Shorter cast time means less prone to dying to red tiles.
+Endgame Value: S
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Rod | Fast Cast 2 + Aspir 2
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Anchemical Staff | Fast Cast 2; (+) 50% Mdef ignore, short cast time and fast animation make it a decent attacking rod too
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Rod | Fast Cast 1 + Water elemental power; (+) The only 5-star rod with Fast Cast 1; (+) The highest power rod in the game but only 1 line; (-) 50% HP consumption and the longest cast time (4s) in the game make it very difficult to use
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Clown Rod | Fast Cast 2 + Magic Barrier + (party) Critical 1
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Rod | Fast Cast 2 + Aspir 2 + Limit Break 1.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Rod | Fast Cast 2 + Limit Break 2; (+) 50% Mdef ignore but long cast time and slow animation
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Staff | Fast Cast 2 + Split; (+) Buffing auto
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Hyakki Rod | Fast Cast 1 + Critical 2 + Matk/Mdef Up; (+) 3-Hit
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Grimoire | Being as the same element as New Year 2018 book has its advantage.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Choco Assort (Valentines 2019) | Comes with 10% BP recovery at slot 4.
 
 ***
 
-## Split and Concentrate
+![Picture](https://caelum.s-ul.eu/flist/O6ceoio1.png)
+Heal + **Patk/Pdef/Matk/Mdef** buffs. Potent buff books but with weak healing power. Especially great for hybrid bosses / party. However difficult to rely on for heals.
 
-![Picture](https://caelum.s-ul.eu/flist/JDJ1BcNn.png)
-* Endgame Value: A
-* AoE is the bread and butter of Black Mages, pointless in contents with only single bosses however.
+Endgame Value: S
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ritual Rod | Split + Concenrate 2; (-) Long reload
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Triple Ice Cream (Summer 2017) | Split + Concenrate 2; (+) Long duration
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Euclid Rod | Split + Concenrate 2; (+) Buffing auto
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Illusion Rod | Concentrate 2; (+) Not coming with split makes it useful in damage adjustment specifically for Abyss 80.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Staff | Split + Fast Cast 2; (+) Buffing auto 
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Today's Menu | -
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Anchemical Roots | -
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Grimoire | -
+
+***
+
+![Picture](https://caelum.s-ul.eu/flist/JRau8drH.png)
+**Revive** books. They should not be too useful in the beginning since you will probably die before others until you have proper armours.
+
+Endgame Value: A
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Book (New Year 2019) | :o: Useful 2-row revive book with BP recovery. More powerful with more fire books.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Book | Needing at least 3 water books to work and long cast time make it difficult to use. The only advantage is it works on the whole field.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Euclid Book | While it works on 2 rows, having the longest cast time (4.5s) in the whole game makes it a pain to use. Becomes standard 2.5s with 5 legend coins, however.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Royal Book | :o: One of the best, easiest to use revive books.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Eril Grimoire | :o: One of the best, easiest to use revive books.
 
 ***
 
 # Endgame Tier
 
-## 2-Hit Nukes
-
-![Picture](https://caelum.s-ul.eu/flist/pDKt2wvR.png)
-* While not carrying buffs, these **2-hit nukes** with 50% Mdef ignore are the standard attacking rods with high base damage, reasonable reload and short cast time.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Staff | -
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Rod | (-) Slightly long reload
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Rod | (+) Fast animation
+![Picture](https://caelum.s-ul.eu/flist/zGZ1Wmqd.png)
+**mono**
 
 ***
 
-## Limit Break
-
-![Picture](https://caelum.s-ul.eu/flist/ioieeVQO.png)
-
-![Picture](https://caelum.s-ul.eu/flist/EQ5vtTT8.png)
-
-![Picture](https://caelum.s-ul.eu/flist/NsSxIwu5.png)
-* When you start to hit damage cap, you will want to have **Limit Break** eventually.
-* Depending on your attacking rod, they can greatly improve your damage potential.
-* Different levels of Limit Break stack, so you may want to slot in multiple levels if you can. Warning: Be careful of the reload if it comes with Empower, however.
+![Picture](https://caelum.s-ul.eu/flist/05QHmG1V.png)
+![Picture](https://caelum.s-ul.eu/flist/MAYt1QXn.png)
+![Picture](https://caelum.s-ul.eu/flist/zxXKF3Tk.png)
+**Brave 3** with mono elements. Very strong end game but difficult to make use for beginners.  
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Onmyouji Rod | Limit Break 3; (+) Buffing auto
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Rod | Limit Break 3
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Lolipop Rod (Valentine's 2019) | Limit Break 3
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Rod | Limit Break 2
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water">  Legendary 1st Prize Flag | Limit Break 2 + Aspir 2
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Sceptre | Limit Break 2 + Critical 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Rod | Limit Break 2 + Fast Cast 2; (+) 50% Mdef ignore but long cast time and slow animation
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Twilight Rod | Limit Break 2
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Turtle Rod | Limit Break 1 + Magic Barrier
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Soda Rod | Limit Break 1 + Empower 2
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Sea Rod | Limit Break 1 + Trance + Brave 2
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Rod | Limit Break 1 + Empower 2; (+) 3 Hit; (+) Buffing auto
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Aladdin Rod | Limit Break 1 + Matk/Mdef Up; (+) 3 Hit
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Rod | Limit Break + Aspir 2 + Fast Cast 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Flight Rod | Limit Break 1 + Empower 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Sea Rod | Limit Break 1 + Haste 2
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Key of Goetia | Brave 3 with mono fire set.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Book | Brave 3 with mono water set.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Book | Brave 3 with mono earth set.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Flounder Book (Summer 2018) |  Brave 3 with mono wind set.
 
 ***
 
-## Multi-Hit
+![Picture](https://caelum.s-ul.eu/flist/20kiLBDH.png)
+![Picture](https://caelum.s-ul.eu/flist/20kiLBDH.png)
+**Default**
 
-![Picture](https://caelum.s-ul.eu/flist/yP4bbIsZ.png)
-* They are very strong but they usually need strong party support to utilize, except the versatile 2-Hit Nuke rods listed above.
-* It is much more difficult to draw out damage from rods without Mdef ignore.
+![Picture](https://caelum.s-ul.eu/flist/fEysw3QG.png)
+**Buff extension** is very valuable. With good reload and BP reduction endgame build, it is possible to infinitely extend buffs for the rest of the battle. While white mage buffs are naturally long due to their innate effects, it benefits the DPS in the party the most since DPS buffs are significantly shorter.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Halloween 2017 Rod | Low Power 2-Hit; Critical 2
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Rod | 2-Hit + 50% Mdef Ignore + Fast cast time
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Rod (New Year 2019) | 3-Hit + 50% Mdef Ignore + Bonus damage from Mdef stat as slot effect; Critical 2; (-) Very long reload
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Wreath Rod (Christmas 2017) | 2-Hit; Dualcast; (-) Very long reload
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Rod | 3-Hit; Limit Break 1 + Empower 2; (+) Buffing auto; (-) Long reload + Empower making it worse
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Aladdin Rod | 3-Hit; Limit Break 1 + Matk/Mdef Up; (-) Long reload
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Rod | 2-Hit + 50% Mdef Ignore
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Golden Rod | 3-Hit; Matk/Mdef Up; (-) Long reload
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Frigg Rod (Valentine's 2018) | Low Power 2-Hit; Critical 2; (+) No cast time with slot effect and Fast Cast 2; (-) Slightly long reload
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Hyakki Rod | 3-Hit; Critical 2 + Matk/Mdef Up + Fast Cast 1
-
-***
-
-## Buffing Auto
-
-![Picture](https://caelum.s-ul.eu/flist/3lo3G5hC.png)
-* Since Black Mages usually do not gear for auto power, they are better off buffing their own Matk for higher special damage.
-* It is especially important when doing dailies with random people as you probably will not hit the damage cap.
-* Less important when partying, but still depends on the White Mages.
-* Buffing autos are quite common so just use whichever convenient to you.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Dark Angel Grimoire | Heal + Cleanse + extend buffs 15s. It requires legend coins. Situationally useful in some high difficulty content.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Book | :o: Heal + Brave 2 + extend buffs 15s. Brave 2 being a important buff makes it the best of all extension books.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Tropical Drink (Summer 2017) | Cleanse + Haste 2 + extend buffs 15s. Very handy combination.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Book | Heal + Proud 2 + extend buffs 15s. Proud 2 is also a handy buff but water set is less useful in general. 
