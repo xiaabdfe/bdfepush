@@ -8,203 +8,125 @@ The tiering is based on early game value while endgame value is rated separately
 
 # S Tier
 
-## Phalanx 2
+## Aspir
 
-![Picture](https://caelum.s-ul.eu/flist/IijgGH6V.png)
+![Picture](https://caelum.s-ul.eu/flist/0MC0hVZO.png)
 * Endgame Value: S
-* Type: Party Support
-* Augments party damage incredibly. Since Phalanx 3 requires mono sets, Phalanx 2 is the one to go.
-* Warning: Same Phalanx buffs on other Knights will disappear if you use it.
+* Since Black Mages main in dealing damage with flashy and explosive special attacks. So using Aspir to maintain healthy BP supply is mandatory to deal consistent damage.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Sword | Phalanx 2 + Cover; (-) Needs 5 legend coins to remove the max BP reduction penalty
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ritual Sword | Phalanx 2 + aggro generation; (-) Short duration
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Sword | Phalanx 2 + Endure; (+) Long duration; (-) Weakness 2 penalty (needs to be cleansed)
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Sword | Phalanx 2 + aggro generation; (+) Auto-heal with powerful aggro generation; (-) Short duration
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Sword | Phalanx 2 + self heal; (+) Mono wind set is the most versatile and the easiest to achieve; (-) Needs 5 legend coins to remove the Weakness 2 penalty
-
-***
-
-## Max HP Up + Healing
-
-![Picture](https://caelum.s-ul.eu/flist/DZ9I9zQQ.png)
-* Endgame Value: A
-* Type: Self Survival
-* Improves self survival greatly in one single motion. Cannot be used in first 30s however.
-* Although it is only available in one regular weapon, similar effects can be found in EX Weapon Grande.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | -
-
-***
-
-## AoE Taunt
-
-![Picture](https://caelum.s-ul.eu/flist/I6PGbKZL.png)
-* Endgame Value: S
-* Type: Party Support
-* Makes sure that enemies only target you so that the party can perform their own roles safely.
-* Warning: Some of them come with strong demerits. You cannot use those swords repetitively so you have to depend on Rangers to extend for you.
-* Warning: There are contents that Taunt is ineffective.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Sword | (-) Penalties: Reload +30s, BP Cost +1
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Halberd | (+) No penalty; (-) Only works on wind
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Sword | (+) No penalty; (+) The only debuff extension sword in the game; (-) Only works on fire; (-) Short duration; (-) Super long animation that makes the debuff extension difficult to use.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Euclid Sword |(+) No penalty; (-) Needs 5 legend coins to unlock the effect
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sakura Sword | (+) Instant animation; (-) Penalties: Reload +30s, BP Cost +1
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Blessing Sword (Christmas 2018) | (+) No penalty; (-) Only works on water
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Twilight Sword | (-) Only works on earth; (-) Penalty: 30% Max BP reduction; Despite the penalties, it is the only taunt among wind weapons.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Rod | Aspir 2 + Fast Cast 2
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary 1st Prize Flag | Aspir 2 + Limit Break 2
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Rod | Aspir 2 + Fast Cast 2 + Limit Break 1
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Unagi Stick (Summer 2018) | Aspir 2 + Magic Barrier
 
 ***
 
 # A Tier
 
-## Regen 2
+## Row Elemental Buff
 
-![Picture](https://caelum.s-ul.eu/flist/8Pj8TyUZ.png)
+![Picture](https://caelum.s-ul.eu/flist/11AiwgY3.png)
 * Endgame Value: A
-* Type: Self Survival
-* HP recovery proportional to max HP (after HP Up buffs). Since Regen 3 requires mono sets, Regen 2 is the one to go.
+* Immensely improves party survival while significantly increases party damage at the same time.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Paradise Bird Sword | (+) Long duration; (+) Comes with PDef/MDef buffs after legend coins
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Anchemical Sword | -
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Royal Sword | Regen 2 + self heal
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Wonderland Sword | (-) Only works when you are the only one surviving (for solo purpose)
-
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Rod | (+) Buffing auto
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Compass Rod | (+) Buffing auto
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sakura Rod | -
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Wand | - 
 
 ***
 
-## Hp Up
+## Magic Barrier
 
-![Picture](https://caelum.s-ul.eu/flist/e2G2YtsM.png)
+![Picture](https://caelum.s-ul.eu/flist/aRbl5QSX.png)
 * Endgame Value: B
-* Type: Self Survival
-* Good to combine with Regen, but not as important in endgame partying because White Mages tend to bring party-wide HP Up buffs.
+* Without a Knight, Black Mages tend to be targeted by enemies. Black Mages' low PDef doesn't help.
+* Warning: All magic barrier rods have long reload.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Sword | HP+50% + Dueling 2
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Grace Sword | HP+50%; (-) Needs 5 legend coins to remove full HP condition yet still mediocre
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Xmas Tree Sword | HP+50% + Regen 1; (-) Needs full HP condition to activate HP+50%
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Sabre | HP+100%; (-) Not useable in the first 30s in battle
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Sword | HP+50% + Cleanse + Buff Extend
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Sabre | HP+100%; (-) Not useable in the first 30s in battle
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | HP+100% + self heal; (-) Not useable in the first 30s in battle
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Illusion Sword | HP+50% + Regen 1
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Turtle Rod | Magic Barrier + Limit Break 1
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Kitty Rod | -
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Clown Rod | Magic Barrier + Fast Cast 2 + (party) Critical 1
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Quartz Rod | Magic Barrier + Limit Break; (-) Levitate is seldom utilized, so only consider using legend coins if you do not have Unagi Stick
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Unagi Stick (Summer 2018) | Magic Barrier + Aspir 2
+
+***
+
+![Picture](https://caelum.s-ul.eu/flist/BqyiO2Y4.png)
+* Endgame Value: B
+* Useful for beginners without enough reload reduction or in content that extends reload.
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Branch Tip Rod (New Year 2018) | -
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Saint Wreath (Christmas 2017) | (+) 2 Hits; (-) Very long reload
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Rod | -
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Mic Rod | -
 
 ***
 
 # B Tier
 
-## Dueling
-
-![Picture](https://caelum.s-ul.eu/flist/sssbbpc9.png)
-* Endgame Value: (Only used when solo-ing)
-* Type: DPS
-* Mainly used in dailies with random people as you are not sure whether proper DPS would join.
+![Picture](https://caelum.s-ul.eu/flist/5wTQct1G.png)
+* Endgame Value: S
+* Allows Black Mages to bombard specials quickly for DPS maximization.
+* Shorter cast time means less prone to dying to red tiles.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Sword | Dueling 2 + HP+50%
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary Double Megaphone (Sports 2018) | Dueling 2 + self heal + (allies only) Regen 1
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Sword | Dueling 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Ishtar Sword (Valentine's 2018) | Dueling 2
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Rod | Aspir 2 + Fast Cast 2.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Anchemical Staff | It comes with 50% Mdef Ignore and short cast time, so it is a decent attack rod too
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Clown Rod | Magic Barrier + Fast Cast 2 + (party) Critical 1.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Rod | Aspir 2 + Fast Cast 2 + Limit Break 1.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Rod | Fast Cast 2 + (Legend Coin) Limit Break 2
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Staff | Fast Cast 2 + Split, auto-buffing
 
-The following weapons have Dueling 1 on slot effects that stacks with Dueling 2.
+***
 
-![Picture](https://caelum.s-ul.eu/flist/GkRU3iFx.png)
+![Picture](https://caelum.s-ul.eu/flist/JDJ1BcNn.png)
+**Split** and **Concentrate** allow Black Mages to have unparalleled AoE DPS. Most rods carry these two buffs in one except wind.
+
+Endgame Value: A
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ritual Rod | Take note of long reload.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Triple Ice Cream (Summer 2017) | Pure buff with no attack, but long duration.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Euclid Rod | -
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Illusion Rod | Concentrate 2 only without split. Since a lot of wind rods happen to be AoE, Illusion Rod alone is sufficient in most cases for wind. 
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Staff | Split without concentrate but comes with Fast Cast 2. 
 
 ***
 
 # Endgame Tier
 
-## Mono Sets
-
-![Picture](https://caelum.s-ul.eu/flist/GKu6DAru.png)
-* Although support roles do not have to gear elemental to deal damage unlike DPS roles, there are several reasons that they do need to gear mono elemental sets.
-	* Easy on BP and reload.
-	* There are many support weapons that carry very strong effects that only activate when you gear mono elemental sets.
+![Picture](https://caelum.s-ul.eu/flist/pDKt2wvR.png)
+While not carrying buffs, these **2-hit nukes** with 50% MDef ignore are the standard attacking rods with high base damage, reasonable reload and short cast time.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dango Sword | Phalanx 3 with mono fire set
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Tsubaki Sword | Regen 3 with mono fire set
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Sword | Phalanx 3 with mono water set
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Aladdin Sword | Regen 3 with mono water set
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Sabre | Regen 3 with mono earth set
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Golden Sword | Phalanx 3 with mono earth set
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Tuna Sword (Summer 2018) | Phalanx 3 with mono wind set
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Hyakki Sword | Regen 3 with mono wind set
-
-## Phalanx 3
-
-![Picture](https://caelum.s-ul.eu/flist/EBclJWKi.png)
-* Type: Party Support
-* As mentioned above, they are immensely strong and expected of you when you join any party as an endgame Knight (except a few specific contents)
-* Warning: They all only activate with mono elemental sets.
-* Warning: They all come with 30% Max BP penalty each use.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dango Sword | -
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Sword | -
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Golden Sword | -
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Tuna Sword (Summer 2018) | -
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Staff | -
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Rod | This is different from the rest for having 3 hits, longer cast time and much longer reload. It carries Critical 2 buff too.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Rod | -
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Rod | -
 
 ***
 
-## Buff Extension
-
-![Picture](https://caelum.s-ul.eu/flist/54QZpbYv.png)
-* Type: Self Maintenance
-* Since Knight's strongest buff, Phalanx 3, comes with 30% Max BP penalty each use, it makes your life much easier by extending it instead of trying to reapply throughout the battle.
-* When you have multiple buffs, it is just more convenient to keep extending instead of keeping track of each expiry time.
-* They all
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Crimson Katana | (+) Short reload; (+) Self heal
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Sword | (+) HP+50%
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Sabre | (+) Mono wind set is the most common
+![Picture](https://caelum.s-ul.eu/flist/yP4bbIsZ.png)
+These **multi-hit** rods are also great attacking rods with their own advantage.
 
 ***
 
-## Healing Auto
-
-![Picture](https://caelum.s-ul.eu/flist/gO2xLZ1Y.png)
-* Type: Party Support + Self Survival
-* Healing auto usually comes with extra aggro generation proportional to healing amount. It is the key in maintaining aggro especially in content where Taunt is not advisable.
-* The healing amount helps own survival to a certain extent.
-* While choices are limited in regular weapons, similar effects can be found in EX Weapon Limited.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Sword | WARNING: Its description does not include the aggro generation mentioned above, so it probably does not work like other healing autos.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Sword | -
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Tuna Sword (Summer 2018) | -
+![Picture](https://caelum.s-ul.eu/flist/ioieeVQO.png)
+![Picture](https://caelum.s-ul.eu/flist/EQ5vtTT8.png)
+![Picture](https://caelum.s-ul.eu/flist/NsSxIwu5.png)
+When you start to hit damage cap even with multi-hitting rods, you will want to have **Limit Break**. They increase your damage potential tremendously.
 
 ***
 
-## Non-Phalanx Party Support
-
-![Picture](https://caelum.s-ul.eu/flist/3oGlUlgb.png)
-* Command: Usually used in content that extends reload such as Abyss 95 and 100. Warning: It offers nothing to the caster so your buffs may expire faster than your allies without bringing buff extension yourself.
-* Testudo: Unclear how effective it is but protection is protection (probably).
-* Others: They are not usually used but might help when you have extra slots when partying, especially when your party keeps dying before you.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary Double Megaphone (Sports 2018) | [Allies-only] Regen 1 + Dueling 2 + self heal 
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Sword | Testudo 1 + Phalanx 3; (+) The only row buffing sword in the game
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Sword | Command 2
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Spiritual Sword | [Allies-only] Flat 3000 HP Recovery + [Allies-only] Flat 3000 HP Up; (-) Needs 5 legend coins to make it useable
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Golden Sword | Testudo 1
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Sword | [Allies-only] HP recovery proportional to your max HP (after HP Up buffs)
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Cutting Choco (Valentine's 2019) | Command 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Shrimp Sword | Testudo 2 + [Allies-only] Regen 2 + Phalanx 1 + self-heal
+![Picture](https://caelum.s-ul.eu/flist/3lo3G5hC.png)
