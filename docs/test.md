@@ -144,6 +144,8 @@ Name | Description
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Rod | Limit Break 2
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water">  Legendary 1st Prize Flag | Limit Break 2 + Aspir 2
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Sceptre | Limit Break 2 + Critical 2
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Rod | Limit Break 2 + Fast Cast 2; (+) 50% Mdef ignore but long cast time and slow animation
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Twilight Rod | Limit Break 2
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Turtle Rod | Limit Break 1 + Magic Barrier
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Soda Rod | Limit Break 1 + Empower 2
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Sea Rod | Limit Break 1 + Trance + Brave 2
@@ -161,6 +163,8 @@ Name | Description
 * They are very strong but they usually need strong party support to utilize, except the versatile 2-Hit Nuke rods listed above.
 * It is much more difficult to draw out damage from rods without Mdef ignore.
 
+Name | Description
+---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Halloween 2017 Rod | Low Power 2-Hit; Critical 2
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Rod | 2-Hit + 50% Mdef Ignore + Fast cast time
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Rod (New Year 2019) | 3-Hit + 50% Mdef Ignore + Bonus damage from Mdef stat as slot effect; Critical 2; (-) Very long reload
