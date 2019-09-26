@@ -12,7 +12,6 @@ The tiering is based on early game value while endgame value is rated separately
 ## Phalanx 2
 
 ![Picture](https://caelum.s-ul.eu/flist/IijgGH6V.png)
-
 * Endgame Value: S
 * Type: Party Support
 * Augments party damage incredibly. Since Phalanx 3 requires mono sets, Phalanx 2 is the one to go.
@@ -27,15 +26,15 @@ Name | Description
 
 ***
 
+## Max HP Up + Healing**
+
 ![Picture](https://caelum.s-ul.eu/flist/DZ9I9zQQ.png)
-
-Increasing **Max HP** and **Healing** at the same time boost your survival instantly. In addition, Regen heals more with your Max HP after HP buffs.
-
-Endgame Value: A
+* Endgame Value: A
+* Type: Self Survival
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | Self Heal + HP+100%. Not useable in the first 30s in battle though.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | -
 
 ***
 
