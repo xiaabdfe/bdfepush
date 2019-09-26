@@ -8,221 +8,140 @@ The tiering is based on early game value while endgame value is rated separately
 
 # S Tier
 
-## Shadow 3
+## Dispel
 
-![Picture](https://caelum.s-ul.eu/flist/dAIwr70z.png)
+![Picture](https://caelum.s-ul.eu/flist/SCvxpcNR.png)
 * Endgame Value: S
-* As Thieves are usually auto attack specialists, very direct DPS increase.
+* The most important job of a ranger is to Dispel dangerous buffs on a boss.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Popsicle Dagger | Shadow 3 + Shadow 1; (+) Long duration
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Dagger | Shadow 3 + Assault 1
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Earth"> Sangoku Dagger | Shadow 3 + Charge
-
-***
-
-## Shadow/Quick 2
-
-![Picture](https://caelum.s-ul.eu/flist/j0T2Li85.png)
-* Endgame Value: S
-* As Thieves are usually auto attack specialists, very direct Damage (Shadow) per Second (Quick) increase.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Anchemical Cross | Shadow 2 + Quick 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Violin Dagger | Shadow 2 + Quick 2; (+) Long duration
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dark Angel Bow | -
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Watergun Bow | -
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Royal Joker | -
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Arrow | The only AoE dispel bow, however heavier in BP cost and reload.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Gorgeous Bow | It comes with Cage of Curse that lets you block buffs for a short period of time instead of simply dispelling (It dispels too, though). Heavy in BP cost and reload among single target dispel bows.
 
 ***
 
 # A Tier
 
-## Dodge 2
+## Weakness 2
 
-![Picture](https://caelum.s-ul.eu/flist/qbQqk0Vv.png)
-* Endgame Value: A
-* Thieves have typically low defenses. Dodge 2 buff allows Thieves to shrug off a large portion of attacks in combination with their innately high evasion stat.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Gicchou Dagger (New Year 2018) | -
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Watermelon Dagger | Dodge 2 + Patk Up; (+) Short reload; (-) Needs 5 legend coins to make Dodge 2 unconditional
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Dagger | Dodge 2 + Assault 2
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sakura Dagger | Dodge 2; (-) High BP cost; (-) Long reload; (-) Short duration
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Quartz Dagger | Dodge 2 + Patk Up; (+) Long duration with 5 legend coins
-
-***
-
-## Shadow 2
-
-![Picture](https://caelum.s-ul.eu/flist/ZnSypbL6.png)
-* Endgame Value: A
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Fool's Knife | Row Shadow 2 + self Patk Up; (-) 3s cast time
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Dagger | Shadow 2 + Assault 2; (+) Long duration
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Squirrel Dagger | Shadow 2
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Anchemical Cross | Shadow 2 + Quick 2
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Dagger | Shadow 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Violin Dagger | Shadow 2 + Quick 2; (+) Long duration
-
-***
-
-## Quick 2
-
-![Picture](https://caelum.s-ul.eu/flist/AzD7H7WD.png)
+![Picture](https://caelum.s-ul.eu/flist/R25mf0Um.png)
 * Endgame Value: S
+* The current game usually requires or is advantageous for dealing a lot of damage in a short time. This is why **Weakness 2** is highly coveted.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Twin Ghost (Halloween 2017) | Quick 2
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Kintarou Axe | Quick 2 + Shadow 1 + Assault 1
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Anchemical Cross | Quick 2 + Shadow 2
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Euclid Dagger | Quick 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Violin Dagger | Quick 2 + Shadow 2; (+) Long duration
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Bow | Low BP cost but short duration.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Gambling of the Demon | Comes with Forceles 2 and an additional random debuff. The random debuff is not reliable but it is a fine bow without it regardlessly.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Bow | -
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sakura Bow | Does no damage and short duration but comes with Forceless 2.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Star of Carol (Christmas 2018) | Short duration but being AoE and coming with AoE debuff extension make it excellent.
+
+***
+
+## Patk/Pdef/Matk/Mdef Down
+
+![Picture](https://caelum.s-ul.eu/flist/jzs8ydEG.png)
+* Endgame Value: S
+* Despite Forceless being counterpart of Weakness, **Stat-reduction** actually works better than Forceless in reducing incoming damage, while letting party to deal more damage as a bonus (generally stronger than Weakness 1 in that aspect).
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Bow | Short duration.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Shot | -
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Twilight Bow | Single target but lighter on BP and reload.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Bow | Comes with self Hawkeye 2 buff.
+
+***
+
+## Debuff Extension
+
+![Picture](https://caelum.s-ul.eu/flist/WvGpYUT3.png)
+* Endgame Value: S
+* Debuff Extension is very helpful to ensure that the debuffs stay on instead of keeping track of expiration time of each buff, especially if there's a knight who uses taunt. It takes some BP and reload reduction to have infinite extension, howerver.
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Lotus Bow | Debuff extension 15s + (fire) chaser 2. The only fire extension bow but element-locked chaser lacks versatility for beginners.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Watergun Bow | Dispel + debuff extension 15s. The slow animation and short extension make it difficult to use as main extension bow.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Compass Shooter |:o: Debuff extension 15s + slow/slowcast 2. While short extension, having 2 slows in one plus extension is very slot-efficient. Its fast animation makes it easy to handle. BP and reload heavy, however.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Stardust Bow | AoE debuff extension 30s. Since it does nothing but extension, it is seldom used unless you need to extend multiple enemies at once.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Ruin Bow | Debuff extension 15s + (water) chaser 2. Element-locked chaser lacks versatility for beginners.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Bow | :o: Debuff extension 30s + slowcast 2.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Star of Carol (Christmas 2018) | AoE debuff extension 15s + weakness 2. Slightly more BP and reload heavy than other 15s extension bows.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Harp Bow | Debuff extension 15s. With mono wind, debuff extension 30s + weakness/forceless 1. Only used with mono wind. Not really recommended for beginners.
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Arrow Arrow Candy (Valentine's 2019) | Debuff extension 15s + (wind) chaser 2. Element-locked chaser lacks versatility for beginners.
 
 ***
 
 # B Tier
 
-## Fast Single-Line Autos
+## Slow
 
-![Picture](https://caelum.s-ul.eu/flist/ildGq6iB.png)
-* Endgame Value: B
-* Single-line autos are usually stronger and faster than multi-line autos. They are useful when you are not hitting the damage cap yet or not enough buffs. (i.e. useful while solo or beginner)
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Holy Dragon Dagger | 4.0s, 50% -0.5s when opponent is wind; (-) Low stats
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dark Angel Edge | 4.0s, -0.5s under Patk buff
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Dagger | 4.0s, 30% -0.5s
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ancazas Dagger | 4.0s, 50% -0.5s when opponent is fire; (-) Low stats
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Bells of Saint (Christmas 2017) | 4.0s, 30% -0.5s
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary Pompom (Sports 2018) | 4.0s, 30% -0.5s
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Blue Sky Dagger | 4.0s, 50% -0.5s when opponent is water; (-) Low stats
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Dagger | 4.0s, -0.5s under Pdef buff; (+) High stats
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Condemnation Dagger | 4.0s, 50% -0.5s when opponent is earth; (-) Low stats
-
-***
-
-## Good Multi-Line Autos
-
-![Picture](https://caelum.s-ul.eu/flist/lN9wOSfM.png)
-* Thieves do not have built-in limit break. Single line autos end up with insufficient damage output eventually, that is when multi-line autos come into the picture. 
-* They are usually slower, these are the better ones with exceptional speed, reliability and power. 
-* 100% aim is a good bonus because auto attacks tend to miss more often and allows Thieves to ignore blind resistance.
-
-Endgame Value: S
-
-Name | Speed | Description
----|---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Dagger (New Year 2019) | 4.0s 2-line | 50% -0.5s when opponent is wind; (+) Very high base power
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Crimson-Knot Kunai | 4.0s 2-line | -0.5s under Patk buff
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Popsicle Dagger | 4.0s 2-line | 50% -0.5s when opponent is wind
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Dagger | 4.0s 2-line | 100% aim
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Dagger | 4.0s 2-line | 100% aim; (+) Innate auto　BP generation +1
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Blade | 4.5s 3-line | (+) Very high base power
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Aladdin Dagger | 4.0s 2-line
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Spiritual Edge | 4.0s 2-line | 100% aim
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Twilight Dagger | 4.0s 2-line | 100% aim
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Cross | 3.5s 2-line | 100% aim; (+) The fastest unconditional auto in the game
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Argent Choco Fondue (Valentine's 2019) | 4.0s 2-line | (+) 100% aim; (+) High base power
-
-***
-
-## Row Assault
-
-![Picture](https://caelum.s-ul.eu/flist/BexDcert.png)
-* Endgame Value: A
-* While Assault does not usually help Thieves themselves very much, Row Assault buffs are very welcomed for Black Mages when you happen to party.
-* They all come with 3s cast time.
+![Picture](https://caelum.s-ul.eu/flist/pXNevqYV.png)
+![Picture](https://caelum.s-ul.eu/flist/gMQJ39Jb.png)
+![Picture](https://caelum.s-ul.eu/flist/OZ546Nl3.png)
+* Endgame Value: S
+* Slow decreases the frequency of attacks. It is mostly used to give the party more room to cast specials or to nuke down the boss. It is more important in fast bosses or fast mechanics. 
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Dagger | Row Assault/Shadow/Quick 1
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Dagger | Row Assault 3
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Dagger | Row Assault 2
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Edge | Row Assault 3
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Bow | Slow/slowcast 2. The fire AoE auto is good in farming pq.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Briefcase Bow | Slow 3. 
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Compass Shooter | :o: Debuff extension 15s + slow/slowcast 2. Mentioned above.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Bow | Debuff extension 30s + slowcast 2.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Bow | AoE Slow 1. With mono earth, AoE Slow 3. 
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Quartz Bow | Slowcast 2. With legend coins, it comes with Slow 2 that makes Cupid bow obsolete (longer duration than Cupid too).
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Cupid Bow (Valentine's 2018) | Slow 2. Typically only used for mono wind.
+
+***
+
+## Slowcast
+
+![Picture](https://caelum.s-ul.eu/flist/IHZ3EeAo.png)
+* Endgame Value: S
+* Slowcast gives more room to dodge red tiles or brace for upcoming attacks. It also slightly decreases the frequency of attacks like Slow but not its main purpose. It is very important in bosses with many fast and/or lethal red tiles.
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Bow | Slow/slowcast 2. The fire AoE auto is good in farming pq.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Briefcase Bow | Slow 3. 
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Compass Shooter | :o: Debuff extension 15s + slow/slowcast 2. Mentioned above.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Bow | Debuff extension 30s + slowcast 2.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Bow | AoE Slow 1. With mono earth, AoE Slow 3. 
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Quartz Bow | Slowcast 2. With legend coins, it comes with Slow 2 that makes Cupid bow obsolete (longer duration than Cupid too).
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Cupid Bow (Valentine's 2018) | Slow 2. Typically only used for mono wind.
 
 ***
 
 # Endgame Tier
 
-## Dagger Stance
+## Mono Elemental Sets
 
-![Picture](https://caelum.s-ul.eu/flist/dr6zO6b1.png)
-* When you hit the conditions, it is insanely powerful.
-* Needs a Knight and/or Dodge 2 buff to make it reliable enough to use.
-* Takes a while to ramp up without good auto reload reduction.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Crimson-Knot Kunai | Dagger Stance + Assault 1
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Aladdin Dagger | Dagger Stance + Shadow 1
-<img src="https://caelum.s-ul.eu/flist/KihfCICL.png" width="20" alt="Earth"> Golden Khorpesh | Dagger Stance + Assault 1
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Argent Choco Fondue (Valentine's 2019) | Dagger Stance + Row Quick 1
-
-## Focus
-
-![Picture](https://caelum.s-ul.eu/flist/49iSizgw.png)
-* When you have enough BP to execute it, it is highly destructive.
-* Needs significant BP supply, especially with fast auto attacks.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ritual Dagger | (-) Painfully long animation
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Cutter | (+) Fast animation
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dual Bone Meat (Halloween 2018) | -
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Knife | (+) Long duration
+![Picture](https://caelum.s-ul.eu/flist/D8j6mcgQ.png)
+* Although support roles do not have to gear elemental to deal damage unlike DPS roles, there are several reasons that they do need to gear mono elemental sets.
+	* Easy on BP and reload.
+	* There are many support weapons that carry very strong effects that only activate when you gear mono elemental sets.
 
 ***
 
-## Quick 1
+## Weakness 3
 
-![Picture](https://caelum.s-ul.eu/flist/DX4cV5hK.png)
-* Eventually, thieves will need all forms of auto reload reduction they can get, especially when using Dagger Stance.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Dagger | Party-wide Quick 1
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Dagger | Row Quick 1
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Aqua Hook Sword | Quick/Shadow/Assault 1
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Blade | Row Quick/Shadow/Assault 1
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Dagger | Party-wide Quick 1
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Edge | Quick/Shadow/Assault 1; (-) High BP cost; (-) Long reload; (-) Short duration; (-) Painfully long animation
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Blessing Dagger | Party-wide Quick 1
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Argent Choco Fondue (Valentine's 2019) | Row Quick 1 + Dagger Stance
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Hyakki Dagger | Quick 1 + Kijinka 2
-
-## Special Builds
-
-![Picture](https://caelum.s-ul.eu/flist/eq6plj73.png)
-
-![Picture](https://caelum.s-ul.eu/flist/lXc8wxRN.png)
-
-![Picture](https://caelum.s-ul.eu/flist/PKH9tgLu.png)
-* Thieves do not usually go special as it requires even more BP supply yet does less damage than auto builds.
-* However for quick bursts in very short battles, special build might be faster.
-* Ranbu: As Thieves do not have innate damage limit break, increasing the hit counts is very effective in increasing damage potencial.
-* Assault: Direct damage increase.
-* For attacking daggers, many are viable but there are several criteria to take note of
-	* Pdef ignore (can be without if enough power)
-	* Multi-hit (especially if without Ranbu)
-	* Damage limit (old daggers have higher damage limit with legend coins)
-	* Fast animation
-	* 0-Reload achievable
+![Picture](https://caelum.s-ul.eu/flist/fOk3170G.png)
+* Weakness 3*with mono elements. Very strong end game but difficult to make use for beginners. 
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Dagger | Ranbu 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Seashell Dagger | Ranbu/Assault 2
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Umbrela Dagger | Assault 3
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Dagger | Row Assault 3
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Edge | Row Assault 3
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Blue Rose Dagger | Assault 3
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Dagger | Assault/Shadow 2
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Dagger | Assault/Dodge 2
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Dagger | Row Assault 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Cross | Assault 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Seashell Dagger | Assault/Ranbu 2
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Bear Bow | Weakness 3 with mono fire set.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Squirrel Bow | Weakness 3 with mono water set.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Arrow | Weakness 3 with mono earth set.
+
+***
+
+## Chaser
+
+![Picture](https://caelum.s-ul.eu/flist/BofBhDlF.png)
+* Chaser is eventually wanted to maximize damage output of DPS especially when they are already hitting the damae cap.
