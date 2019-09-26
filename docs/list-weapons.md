@@ -17,6 +17,7 @@
 	* <a href="abyss-85.md">Floor 85</a>
 	* <a href="abyss-90.md">Floor 90</a>
 	* <a href="abyss-95.md">Floor 95</a>
+	* <a href="abyss-100.md">Floor 100</a>
 * Equipment Data
 	* **List of Weapons**
 	* <a href="list-armours.md">List of Armours</a>
@@ -84,6 +85,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-12.jpg" width="60" alt="Sword"> | <a href="list-names.md#-lotus">Lotus</a> | 4 |  -  | Wind AoE Taunt<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-13.jpg" width="60" alt="Sword"> | <a href="list-names.md#-retro-modern">Camellia</a> | 5 | Buff<br> | Mono Regen 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Saving 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-14.jpg" width="60" alt="Sword"> | <a href="list-names.md#-eastern-mystery">Samurai</a> | 1 |  -  | Heal<br>Buff Extend<br>Cleanse<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Dueling 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-15.jpg" width="60" alt="Sword"> | <a href="list-names.md#-watertop-banquet">Seafood</a> | 2 |  -  | Limit Break 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Phalanx 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose1.jpg" width="60" alt="Sword"> | **[LIMITED]** <a href="list-names.md#-rose">Rose</a> | 0 | Heal<br> | 
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy1.jpg" width="60" alt="Sword"> | **[LIMITED]** <a href="list-names.md#-1st-anniversary">Fairy</a> | 1 |  -  | Allies Aggro<br>HP Absorb<br>
 
@@ -107,6 +109,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-14.jpg" width="60" alt="Sword"> | <a href="list-names.md#-steampunk">Antique</a> | 5 | Row Buff<br> | Mono Phalanx 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Testudo 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-15.jpg" width="60" alt="Sword"> | <a href="list-names.md#-detective">Detective</a> | 1 |  -  | Command 2<br>Aggro<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Saving 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-16.jpg" width="60" alt="Sword"> | <a href="list-names.md#-one-thousand-and-one-nights">Aladdin</a> | 2 |  -  | Mono Regen 3<br>Water Reload<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Phalanx 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-17.jpg" width="60" alt="Sword"> | <a href="list-names.md#-scimeow">Scimeow</a> | 3 | Heal<br> | HP Up<br>Buff Extend<br>Cleanse<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Dueling 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie1.jpg" width="60" alt="Sword"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 |  -  | Phalanx 1<br>Allies Aggro<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Swords
@@ -148,6 +151,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-13.jpg" width="60" alt="Sword"> | <a href="list-names.md#-dress-up">Dress Up</a> | 5 |  -  | Limit Break 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Phalanx 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-14.jpg" width="60" alt="Sword"> | <a href="list-names.md#-wonderland">Wonderland</a> | 1 |  -  | Uplift 2<br>Limit Break 2<br>Regen 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Dueling 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-15.jpg" width="60" alt="Sword"> | <a href="list-names.md#-seven-seas">Sea</a> | 2 |  -  | Testudo 2<br>Allies Regen 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Phalanx 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-16.jpg" width="60" alt="Sword"> | <a href="list-names.md#-hyakki-yakou">Hyakki</a> | 3 |  -  | Mono Regen 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Dueling 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo1.jpg" width="60" alt="Sword"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 |  -  | HP Up<br>Regen 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne1.jpg" width="60" alt="Sword"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 |  -  | Dueling 3<br>
 
@@ -170,6 +174,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-12.jpg" width="60" alt="Rod"> | <a href="list-names.md#-lotus">Lotus</a> | 4 | AoE<br> | 3 Hit<br>Nuke<br>Critical 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-13.jpg" width="60" alt="Rod"> | <a href="list-names.md#-retro-modern">Soda</a> | 5 |  -  | Empower 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-14.jpg" width="60" alt="Rod"> | <a href="list-names.md#-eastern-mystery">Onmyouji</a> | 1 | Buff<br> | Limit Break 3<br>Reload Minus<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Critical 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-15.jpg" width="60" alt="Rod"> | <a href="list-names.md#-watertop-banquet">Seafood</a> | 2 |  -  | Trance<br>Brave 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose2.jpg" width="60" alt="Rod"> | **[LIMITED]** <a href="list-names.md#-rose">Rose</a> | 0 |  -  | Magic Barrier<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy2.jpg" width="60" alt="Rod"> | **[LIMITED]** <a href="list-names.md#-1st-anniversary">Fairy</a> | 1 | Buff<br> | Critical 2<br>Magic Barrier<br>
 
@@ -193,6 +198,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-14.jpg" width="60" alt="Rod"> | <a href="list-names.md#-steampunk">Antique</a> | 5 | Buff<br> | AoE<br>Empower 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-15.jpg" width="60" alt="Rod"> | <a href="list-names.md#-detective">Detective</a> | 1 |  -  | 3 Hit<br>Critical 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Critical 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-16.jpg" width="60" alt="Rod"> | <a href="list-names.md#-one-thousand-and-one-nights">Aladdin</a> | 2 |  -  | 3 Hit<br>MA/MD<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-17.jpg" width="60" alt="Rod"> | <a href="list-names.md#-scimeow">Scimeow</a> | 3 | AoE<br> | Nuke<br>HP Consumption<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Fast Cast 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie2.jpg" width="60" alt="Rod"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 | AoE<br> | Rapid DPS<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Rods
@@ -234,6 +240,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-13.jpg" width="60" alt="Rod"> | <a href="list-names.md#-dress-up">Dress Up</a> | 5 | AoE<br> | Empower 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-14.jpg" width="60" alt="Rod"> | <a href="list-names.md#-wonderland">Wonderland</a> | 1 |  -  | Trance<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Critical 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-15.jpg" width="60" alt="Rod"> | <a href="list-names.md#-seven-seas">Sea</a> | 2 |  -  | Haste 2<br>Reload Minus<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Limit Break 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-16.jpg" width="60" alt="Rod"> | <a href="list-names.md#-hyakki-yakou">Hyakki</a> | 3 | AoE<br> | 3 Hit<br>Critical 2<br>MA/MD Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Fast Cast 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo2.jpg" width="60" alt="Rod"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 | AoE<br> | Concentrate 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne2.jpg" width="60" alt="Rod"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 |  -  | Critical 3<br>
 
@@ -255,7 +262,8 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-11.jpg" width="60" alt="Book"> | <a href="list-names.md#-japan-folklore">Tamatebako</a> | 3 | Buff<br> | Haste 2<br>Cleanse<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-12.jpg" width="60" alt="Book"> | <a href="list-names.md#-lotus">Lotus</a> | 4 |  -  | 2 Row Heal<br>Mono Revive<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> BP Recovery<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-13.jpg" width="60" alt="Book"> | <a href="list-names.md#-retro-modern">Coffee</a> | 5 |  -  | Heal<br>PA/PD/MA/MD Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Mind 1<br>
-<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-eastern-mystery">Onmyouji</a> | 1 | 2 Row<br> | Mono Brave 2<br>Quick 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Self Proud 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-eastern-mystery">Onmyouji</a> | 1 | 2 Row<br> | Attack<br>Mono Brave 2<br>Quick 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Self Proud 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-15.jpg" width="60" alt="Book"> | <a href="list-names.md#-watertop-banquet">Seafood</a> | 2 | Buff<br> | Heal<br>Mono Default 3<br>Brave 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Self Brave 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-rose">Rose</a> | 0 | Attack<br> | Heal Area<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-1st-anniversary">Fairy</a> | 1 |  -  | Heal<br>Cleanse<br>BP +<br>
 
@@ -279,6 +287,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-steampunk">Antique</a> | 5 |  -  | 2 Row Heal<br>Mono Brave 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Mind 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-15.jpg" width="60" alt="Book"> | <a href="list-names.md#-detective">Detective</a> | 1 | Attack<br> | Heal<br>BP Recovery<br>Haste 1<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Self Proud 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-16.jpg" width="60" alt="Book"> | <a href="list-names.md#-one-thousand-and-one-nights">Aladdin</a> | 2 | Buff<br> | Heal<br>Enhance Area 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Brave 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-17.jpg" width="60" alt="Book"> | <a href="list-names.md#-scimeow">Scimeow</a> | 3 | 2 Row<br> | HP/BP Up<br>Cleanse<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Default 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 |  -  | Heal<br>Revive<br>Heal Area<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Books
@@ -320,6 +329,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-13.jpg" width="60" alt="Book"> | <a href="list-names.md#-dress-up">Dress Up</a> | 5 | Attack<br> | Attack<br>Mono Brave/Default 1<br>Mono Quick 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-14.jpg" width="60" alt="Book"> | <a href="list-names.md#-wonderland">Wonderland</a> | 1 | 2 Row<br> | 2 Row Heal<br>Mono Revive<br>Mono PA/PD/SP Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Self Proud 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-15.jpg" width="60" alt="Book"> | <a href="list-names.md#-seven-seas">Sea</a> | 2 |  -  | Heal<br>MA/MD/SP Up<br>Buff Extend<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Self Brave 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-16.jpg" width="60" alt="Book"> | <a href="list-names.md#-hyakki-yakou">Hyakki</a> | 3 | AoE<br> | Heal<br>Mind 2<br>Heal Area<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Default 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 |  -  | Heal<br>Brave 1<br>Default 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne3.jpg" width="60" alt="Book"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 |  -  | Heal<br>Brave 2<br>BP Recovery<br>
 
@@ -342,6 +352,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-12.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-lotus">Lotus</a> | 4 | Fast 2 Hit<br>AWK Boost<br> | 5 Hit<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Party Quick 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-13.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-retro-modern">Umbrella</a> | 5 |  -  | Assault 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-14.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-eastern-mystery">Ninja</a> | 1 | Fast 2 Hit<br> | Dagger Stance<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Assault 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-15.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-watertop-banquet">Seafood</a> | 2 | Fast 2 Hit<br> | Shadow 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose4.jpg" width="60" alt="Dagger"> | **[LIMITED]** <a href="list-names.md#-rose">Rose</a> | 0 | Fast<br> | Boost 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy4.jpg" width="60" alt="Dagger"> | **[LIMITED]** <a href="list-names.md#-1st-anniversary">Fairy</a> | 1 | Fast 2 Hit<br> | Boost 1<br>Quick 2<br>
 
@@ -365,6 +376,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-14.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-steampunk">Antique</a> | 5 |  -  | Row Assault 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-15.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-detective">Detective</a> | 1 |  -  | Shadow 3<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Assault 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-16.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-one-thousand-and-one-nights">Aladdin</a> | 2 | Fast 2 Hit<br> | Dagger Stance<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-17.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-scimeow">Scimeow</a> | 3 | Buff<br> | Nuke<br>Ranbu 2<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie4.jpg" width="60" alt="Dagger"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 |  -  | Nuke<br>Quick 1<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Daggers
@@ -406,6 +418,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-13.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-dress-up">Dress Up</a> | 5 |  -  | Assault 3<br>Cleanse<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-14.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-wonderland">Wonderland</a> | 1 | 3 Hit<br> | 5 Hit Nuke<br>PA/PD Up<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Assault 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-15.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-seven-seas">Sea</a> | 2 |  -  | Assault 2<br>Ranbu 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Shadow 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-16.jpg" width="60" alt="Dagger"> | <a href="list-names.md#-hyakki-yakou">Hyakki</a> | 3 |  -  | Wind Kijinka 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Quick 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo4.jpg" width="60" alt="Dagger"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 |  -  | Shadow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne4.jpg" width="60" alt="Dagger"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 |  -  | Dodge 3<br>
 
@@ -428,6 +441,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-12.jpg" width="60" alt="Bow"> | <a href="list-names.md#-lotus">Lotus</a> | 4 |  -  | Fire Chaser 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Debuff Extend<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-13.jpg" width="60" alt="Bow"> | <a href="list-names.md#-retro-modern">Briefcase</a> | 5 |  -  | Slow 3<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-14.jpg" width="60" alt="Bow"> | <a href="list-names.md#-eastern-mystery">Ninja</a> | 1 |  -  | Weakness 2<br>Forceless 2<br>Random PA/PD/MA/MD Down<br>Random Slow 2<br>Random Slowcast 2<br>Random Fire Chaser 2<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-15.jpg" width="60" alt="Bow"> | <a href="list-names.md#-watertop-banquet">Seafood</a> | 2 | Heal<br> | <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Slow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rose5.jpg" width="60" alt="Bow"> | **[LIMITED]** <a href="list-names.md#-rose">Rose</a> | 0 |  -  | Poison to Damage<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Fairy5.jpg" width="60" alt="Bow"> | **[LIMITED]** <a href="list-names.md#-1st-anniversary">Fairy</a> | 1 |  -  | Dispel<br>Poison to Damage<br>
 
@@ -451,6 +465,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-14.jpg" width="60" alt="Bow"> | <a href="list-names.md#-steampunk">Antique</a> | 5 | AoE<br> | AoE<br>Bleed2<br>Poison to Damage<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Hawkeye 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-15.jpg" width="60" alt="Bow"> | <a href="list-names.md#-detective">Detective</a> | 1 | Buff<br> | AoE<br>PD/MD Down<br>Poison<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Slow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-16.jpg" width="60" alt="Bow"> | <a href="list-names.md#-one-thousand-and-one-nights">Aladdin</a> | 2 |  -  | AoE<br>Aim/Avo/CR/CP/SP Down<br>Hawkeye 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Slow 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-17.jpg" width="60" alt="Bow"> | <a href="list-names.md#-scimeow">Scimeow</a> | 3 |  -  | Heal Reject<br>HP Absorb<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Weakness 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Valkyrie5.jpg" width="60" alt="Bow"> | **[LIMITED]** <a href="list-names.md#-valkyrie-profile">Valkyrie</a> | 1 |  -  | Slowcast 1<br>Poison Up 1<br>
 
 ## <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="25" alt="Earth"> Earth Bows
@@ -492,6 +507,7 @@ EQ | Name | Slot | Auto | Special
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-13.jpg" width="60" alt="Bow"> | <a href="list-names.md#-dress-up">Dress Up</a> | 5 |  -  | Dispel<br>Cage of Curse<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Hawkeye 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-14.jpg" width="60" alt="Bow"> | <a href="list-names.md#-wonderland">Wonderland</a> | 1 |  -  | Bleed2<br>Poison to Damage<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Slow 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-15.jpg" width="60" alt="Bow"> | <a href="list-names.md#-seven-seas">Sea</a> | 2 |  -  | Weakness 2<br>HP AbsorbRandom PA/PD/MA/MD Down<br>Random Slow 2<br>Random Slowcast 2<br>Random Wind Chaser 2<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Slow 1<br>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-16.jpg" width="60" alt="Bow"> | <a href="list-names.md#-hyakki-yakou">Hyakki</a> | 3 |  -  | Slow 3<br>Poison<br><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="25" alt="Slot Effect"> Weakness 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Chocobo5.jpg" width="60" alt="Bow"> | **[LIMITED]** <a href="list-names.md#-final-fantasy-brave-exvius">Chocobo</a> | 1 |  -  | Weakness 1<br>Forceless 1<br>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/Rinne5.jpg" width="60" alt="Bow"> | **[LIMITED]** <a href="list-names.md#-2nd-anniversary">Rinne</a> | 0 | AoE<br> | AoE<br>Mono Weakness 3<br>
 

@@ -17,6 +17,7 @@
 	* <a href="abyss-85.md">Floor 85</a>
 	* **Floor 90**
 	* <a href="abyss-95.md">Floor 95</a>
+	* <a href="abyss-100.md">Floor 100</a>
 * Equipment Data
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
@@ -56,6 +57,7 @@
 * Boss power-up over time, dragging the fight is detrimental.
 
 # Pattern/Threshold
+
 ## Phase 1 (Cycle)
 * For every "count"
 	* The boss will buff itself with invincibility
@@ -92,31 +94,42 @@
 	* As you step in a light puddle, the other light puddle disappears
 	* Stepping on the correct light puddle dispels invincibility
 	* Stepping on the wrong light puddle cuts own HP by half of Max HP and invincibility stays
-	* Knights usually avoid light puddles
+	* Knights usually avoid light puddles unless they are confident that they will not die
 
 # Tips
+* Job Difficulty: Black Mage < White Mage < Thief < Knight < Ranger
+* It is generally aimed to cross threshold at the first count 4
+	* Standard DPS are usually most comfortable with that timing
+	* There is a large window for nuking between count 4 -> Gigant Press -> Rampage and idle time after Rampage is longer
+	* It is best to cross Rampage as soon as possible because it can be difficult for the Knight to survive after too many power-ups
+* The time between battle start and first Gigant Press + Rampage is about 90s. So Knights and DPS roles need to be mindful of their buff durations (depends on extension).
+
 ## Knight
 * Bind and waste immunity
 * Bleed and poison only without sacrificing endurance
 * Nier / Tuna auto to maintain aggro
-* Try to maintain Phalanx
+* Try to maintain Phalanx, especially during the Gigant Press + Rampage window
+* Generally recommended to use Phalanxes from the start, and then extend 1 time to last until the end of Gigant Press + Rampage
 
 ## Black Mage
 * Pure DPS
 * Resist helps to relieve Knights and White Mages burden
 * Auto-buff helps to build up Matk during invincibility
-* Special timing is important
+* Need a bit of practice to get used to your cast time
+* Be careful when using Dualcast after Rampage as the attack window gets smaller
 
 ## White Mage
-* Best for one of the white mages to have Sakura
+* Sakura helps during phase transition and quick heal
+* Holy Dragon works wonder if mono-fire
 * Otherwise must time the phase change at count 4 so Knight can be healed in time
 * Maximize DPS to end the fight as fast as possible because of Power-Up
+* If DPS cannot keep their buffs up, bring buff extension and extend 2 times before Rampage
 
 ## Thief
 * Pure DPS
 * Bring Assault if paired with Black Mage
 * Since you will not get hit, Dagger Stance is very useful
-* Auto-buff (Road of Edge or Grande) helps too if you switch well.
+* Auto-buff (Road of Edge or Grande) helps too if you switch well, especially not to cross Rampage at wrong timing
 
 ## Ranger
 * Time Weakness during the first normal attack of every single count

@@ -17,6 +17,7 @@
 	* <a href="abyss-85.md">Floor 85</a>
 	* <a href="abyss-90.md">Floor 90</a>
 	* <a href="abyss-95.md">Floor 95</a>
+	* <a href="abyss-100.md">Floor 100</a>
 * Equipment Data
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
@@ -29,126 +30,200 @@
 	* **Ranger**
 
 ### Table of Contents
-* [Special S Tier](#special-s-tier)
 * [S Tier](#s-tier)
 * [A Tier](#a-tier)
 * [B Tier](#b-tier)
-* [C Tier](#c-tier)
-* [Special Mention](#special-mention)
+* [Endgame Tier](#endgame-tier)
 
 ### Notes
 While I list them by effects, take note of the followings:
-* <img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> indicates the particular effect is unlocked at skill level 15, i.e. consume 5 legend coins. There will also be a legend coin in the equipment picture.
-* <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> indicates the particular effect is a slot effect. The slot number in the equipment picture will appear black.
 * The horizontal order of the equipment pictures is the same as the vertical order of the tables.
-* :o: indicates that among the weapons with the same effect, that weapon is exceptionally recommended compared to the rest.
+* When the particular effect is unlocked at skill level 15, i.e. consume 5 legend coins, there will be a legend coin in the equipment picture.
+* When the particular effect is a slot effect, the slot number in the equipment picture will appear black.
 
-# Special S Tier
-## ![Picture](https://caelum.s-ul.eu/flist/ewdsWpMl.png)
-**Weakness 3** is highly coveted by parties to deal a lot of damage in a short time. **Mono water** set is usually easier to use due to versatility. There are other water bows that help in a mono water set but these are the more important ones.
-
-Name | Description
----|---
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Watergun Bow | Buff dispel.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Squirrel Bow | Weakness 3 with mono water set.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Compass Shooter | Slow/Slowcast2 + debuff extension 15s. Having three effects in one bow makes it a very slot efficient and handy bow.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Bow | Weakness 2.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Shot | Stat-reduction.
-
-***
+The tiering is based on early game value while endgame value is rated separately for each gear. Endgame Tier lists the gears you will want eventually as you hit the endgame but not beginner-friendly.
 
 # S Tier
-## ![Picture](https://caelum.s-ul.eu/flist/XZ7vXWl5.png)
-The most important job of a ranger is to **Dispel** dangerous buffs on a boss. 
+
+## Dispel
+
+![Picture](https://caelum.s-ul.eu/flist/SCvxpcNR.png)
+* Endgame Value: S
+* The most important job of a ranger is to Dispel dangerous buffs on a boss.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dark Angel Bow | -
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Watergun Bow | -
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Royal Joker | -
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Arrow | The only AoE dispel bow, however heavier in BP cost and reload.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Gorgeous Bow | It comes with Cage of Curse that lets you block buffs for a short period of time instead of simply dispelling (It dispels too, though). Heavy in BP cost and reload among single target dispel bows.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dark Angel Bow | Dispel
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Watergun Bow | Dispel + Debuff Extension; (-) Slow animation; (-) Weak Pdef/Mdef debuffs that overwrite stronger debuffs when used
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Royal Joker | Dispel; (+) Debuff Extension when there are buffs on the target
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sangoku Bow | Dispel + Cage of Curse
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Arrow | AoE Dispel; (-) High BP cost
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Gorgeous Bow | Dispel + Cage of Curse
 
 ***
 
 # A Tier
-## ![Picture](https://caelum.s-ul.eu/flist/Y6kASbgr.png)
-The current game usually requires or is advantageous for dealing a lot of damage in a short time. This is why **Weakness 2** is highly coveted. 
+
+## Weakness 2
+
+![Picture](https://caelum.s-ul.eu/flist/R25mf0Um.png)
+* Endgame Value: S
+* Augments party damage significantly. Since Weakness 3 requires mono sets, Weakness 2 is the one to go.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Bow | Low BP cost but short duration.
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Gambling of the Demon | Comes with Forceles 2 and an additional random debuff. The random debuff is not reliable but it is a fine bow without it regardlessly.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Bow | -
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sakura Bow | Does no damage and short duration but comes with Forceless 2.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Star of Carol (Christmas 2018) | Short duration but being AoE and coming with AoE debuff extension make it excellent.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Bow | Weakness 2; (+) Low BP cost; (-) Short duration
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Gambling of the Demon | Weakness/Forceless 2 + random effect; (-) Non-attack
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> King's Bow | Weakness 2
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Sakura Bow | Weakness/Forceless 2; (-) Non-attack; (-) Short duration
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Star of Carol (Christmas 2018) | AoE Weakness 2 + Debuff Extension
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Sea Bow | Weakness 2 + Slow 1 + random effect
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/U83iACWp.png)
-Despite Forceless being counterpart of Weakness, **Stat-reduction** actually works better than Forceless in reducing incoming damage, while letting party to deal more damage as a bonus. For some reason all of them are AoE except Twilight Bow.
+## Patk/Pdef/Matk/Mdef Down
+
+![Picture](https://caelum.s-ul.eu/flist/jzs8ydEG.png)
+* Endgame Value: S
+* Despite Forceless being counterpart of Weakness, stat-reduction actually works better than Forceless in terms of damage reduction
+* It also lets party deal more damage as a bonus (generally stronger than Weakness 1 in that aspect).
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Bow | Short duration.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Shot | -
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Twilight Bow | Single target but lighter on BP and reload.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Bow | Comes with self Hawkeye 2 buff.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Demon Bow | (+) AoE; (-) Short duration
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Gambling of the Demon | WARNING: The effect is random.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Shot | (+) AoE
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Twilight Bow | -
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Bow | (+) AoE; (+) Free Hawkeye buff
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Sea Bow | WARNING: The effect is random.
 
 ***
 
-## ![Picture](https://caelum.s-ul.eu/flist/xzRMgL9G.png)
-**Debuff Extension** is very helpful to ensure that the debuffs stay on instead of keeping track of expiration time of each buff, especially if there's a knight who uses taunt. 
+## Debuff Extension
+
+![Picture](https://caelum.s-ul.eu/flist/WvGpYUT3.png)
+* Endgame Value: S
+* Debuff Extension is very helpful to ensure that the debuffs stay on instead of keeping track of expiration time of each buff.
+* It takes some BP and reload reduction to have infinite extension, but required if there is a taunting Knight.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Lotus Bow | Debuff extension 15s + (fire) chaser 2. The only fire extension bow but element-locked chaser lacks versatility for beginners.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> Watergun Bow | Dispel + debuff extension 15s. The slow animation and short extension make it difficult to use as main extension bow.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Compass Shooter |:o: Debuff extension 15s + slow/slowcast 2. While short extension, having 2 slows in one plus extension is very slot-efficient. Its fast animation makes it easy to handle. BP and reload heavy, however.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Stardust Bow | AoE debuff extension 30s. Since it does nothing but extension, it is seldom used unless you need to extend multiple enemies at once.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Ruin Bow | Debuff extension 15s + (water) chaser 2. Element-locked chaser lacks versatility for beginners.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Bow | :o: Debuff extension 30s + slowcast 2.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Star of Carol (Christmas 2018) | AoE debuff extension 15s + weakness 2. Slightly more BP and reload heavy than other 15s extension bows.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Harp Bow | Debuff extension 15s. With mono wind, debuff extension 30s + weakness/forceless 1. Only used with mono wind. Not really recommended for beginners.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"><img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> Arrow Arrow Candy (Valentine's 2019) | Debuff extension 15s + (wind) chaser 2. Element-locked chaser lacks versatility for beginners.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Bow | 15s Debuff Extension + Fire Chaser 2
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Watergun Bow | 15s Debuff Extension + Dispel; (-) Slow animation; (-) High BP cost
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Compass Shooter | 15s Debuff Extension + Slow/Slowcast 2; (-) High BP cost
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Bow | 30s AoE Debuff Extension; (-) No added value
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Bow | 15s Debuff Extension + Water Chaser 2
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Spiritual Bow | 15s Debuff Extension; (+) High damage with legend coins; (-) Animation is slow for 15s extension; (-) No added value besides damage
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Bow | 30s Debuff Extension + Slowcast 2
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Star of Carol (Christmas 2018) | AoE 15s Debuff Extension + Weakness 2; (-) High BP cost
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Harp Bow | 0~30s Debuff Extension Debuff extension 15s + Weakness/Forceless 1; (-) Only works properly in mono wind set; (-) Very long animation
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Arrow Arrow Candy (Valentine's 2019) | 15s Debuff Extension + Wind Chaser 2
 
 ***
 
 # B Tier
-## ![Picture](https://caelum.s-ul.eu/flist/7xweGlq2.png)
-**Slow** decreases the frequency of attacks while **Slowcast** gives more room to dodge red tiles or brace for upcoming attacks. Both are good to deal with aggresive bosses or bosses with a lot of lethal red tiles. Slow 2 and 3 do not differ that much, usually used in conjunction to stack both effects.
+
+## Slow
+
+![Picture](https://caelum.s-ul.eu/flist/pXNevqYV.png)
+
+![Picture](https://caelum.s-ul.eu/flist/gMQJ39Jb.png)
+
+![Picture](https://caelum.s-ul.eu/flist/OZ546Nl3.png)
+* Endgame Value: S
+* Decreases the frequency of attacks.
+* Mostly used to give the party more room to cast specials or to nuke down the boss. It is more important in fast bosses or fast mechanics. 
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Bow | Slow/slowcast 2. The fire AoE auto is good in farming pq.
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Briefcase Bow | Slow 3. 
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Compass Shooter | :o: Debuff extension 15s + slow/slowcast 2. Mentioned above.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Bow | Debuff extension 30s + slowcast 2.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Bow | AoE Slow 1. With mono earth, AoE Slow 3. 
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Quartz Bow | Slowcast 2. With legend coins, it comes with Slow 2 that makes Cupid bow obsolete (longer duration than Cupid too).
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Cupid Bow (Valentine's 2018) | Slow 2. Typically only used for mono wind.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Briefcase Bow | Slow 3
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Earth"> Dragon Slayer Bow | AoE Slow 3; (-) Degrades to Slow 2/1 without mono earth set
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Hyakki Bow | Slow 3 + Weakness 1 + Poison x5
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Bow | Slow/Slowcast 2; (-) Short duration
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Gambling of the Demon | WARNING: The effect is random.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Compass Shooter | Slow/Slowcast 2 + Debuff Extension; (-) Short duration
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Quartz Bow | Slow/Slowcast 2
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Cupid Bow (Valentine's 2018) | Slow 2; (-) No point to use this if you have Quartz Bow
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Sea Bow | WARNING: The effect is random.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dolphin Bow | Slow 1
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Bow | Slow 1 + Bleed x5
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Aladdin Bow | Slow 1 + Aim/Avo/Crate/Cdmg/Spr Down
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Earth"> Golden Bow | Slow 1 + Earth Chaser 2
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Wonderland Bow | Slow 1 + Bleed x5
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Sea Bow | Slow 1 + Weakness 2 + random effect
 
 ***
 
-# C Tier
-## ![Picture](https://caelum.s-ul.eu/flist/vaLaJIw3.png)
-These come with **Weakness 1** plus additional effect. However 3-star bows with Weakness 1 as awakening effects are sufficient mostly.
+## Slowcast
+
+![Picture](https://caelum.s-ul.eu/flist/IHZ3EeAo.png)
+* Endgame Value: S
+* Gives more room to dodge red tiles or brace for upcoming attacks.
+* Very important in bosses with many fast and/or lethal red tiles.
+* It also slightly decreases the frequency of attacks like Slow but not its main purpose.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Crystal of Snow (Christmas 2017) | Weakness/Forceless 1.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Bowgun | AoE Weakness/Slowcast 1.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Illusion Bow | Weakness/Forceless 1. Long duration.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Hairtail Wargun (Summer 2018) | AoE Weakness/Forceless 1 if <4 wind bows. Becomes Weakness 2 and Forceless 2 at 4 and 5 wind bows respectively.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Bow | Slowcast 1 + Forceless 2; (-) Short duration
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ancient Bow | Slow/Slowcast 2; (-) Short duration
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Gambling of the Demon | WARNING: The effect is random.
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Compass Shooter | Slowcast/Slow 2 + Debuff Extension; (-) Short duration
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Bull Bow | Slowcast 2 + Debuff Extension; (-) Short duration
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Bowgun | AoE Slowcast 1 + Weakness 1
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Quartz Bow | Slowcast/Slow 2
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Sea Bow | WARNING: The effect is random.
 
 ***
 
-# Special Mention
-## ![Picture](https://caelum.s-ul.eu/flist/IsR4xNBQ.png)
-**Weakness 3** with mono elements. Very strong end game but difficult to make use for beginners. 
+# Endgame Tier
+
+## Mono Elemental Sets
+
+![Picture](https://caelum.s-ul.eu/flist/D8j6mcgQ.png)
+* Although support roles do not have to gear elemental to deal damage unlike DPS roles, there are several reasons that they do need to gear mono elemental sets.
+	* Easy on BP and reload.
+	* There are many support weapons that carry very strong effects that only activate when you gear mono elemental sets.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Bear Bow | Weakness 3 with mono fire set.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Squirrel Bow | Weakness 3 with mono water set.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Arrow | Weakness 3 with mono earth set.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Spider Bow (Halloween 2017) | *Tier: D*<br>Poison Up 3
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Bear Bow | *Tier: S*<br>AoE Weakness 3
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Squirrel Bow | *Tier: S*<br>Weakness 3
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Bow | *Tier: B*<br>AoE Slow 3
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Arrow | *Tier: S*<br>Weakness 3
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Harp Bow | *Tier: A*<br>Debuff Extend + Weakness/Forceless 1
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Cutlassfish Bow | *Tier: S*<br>AoE Weakness/Forceless 2
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> **[LIMITED]** Rinne Bow | AoE Weakness 3<br>This is just here to tell you Wind Weakness 3 exists but you cannot get it anymore.
+
+***
+
+## Weakness 3
+
+![Picture](https://caelum.s-ul.eu/flist/fOk3170G.png)
+* As mentioned above, they are strong and expected of you when you join any party as an endgame Ranger (except a few specific contents)
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Bear Bow | Weakness 3 with mono fire set
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Squirrel Bow | Weakness 3 with mono water set
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Arrow | Weakness 3 with mono earth set
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> **[LIMITED]** Rinne Bow | AoE Weakness 3 with mono wind set<br>This is just here to tell you Wind Weakness 3 exists but you cannot get it anymore.
+
+***
+
+## Chaser
+
+![Picture](https://caelum.s-ul.eu/flist/BofBhDlF.png)
+* Chaser is eventually wanted to maximize damage output of DPS especially when they are already hitting the damae cap.
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Bow | Fire Chaser 2 + Debuff Extension
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Ruin Bow | Water Chaser 2 + Debuff Extension
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Earth"> Golden Bow | Earth Chaser 2 + Slow 1
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Arrow Arrow Candy (Valentine's 2019) | Wind Chaser 2 + Debuff Extension
+
+### End Notes
+
+* Yes, every single section has S tier of endgame values.
+* Rangers usually need a lot of different bows to suit different situations and strong rangers will need a large variety of debuffs for different elements while maintaining them.

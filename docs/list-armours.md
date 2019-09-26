@@ -17,6 +17,7 @@
 	* <a href="abyss-85.md">Floor 85</a>
 	* <a href="abyss-90.md">Floor 90</a>
 	* <a href="abyss-95.md">Floor 95</a>
+	* <a href="abyss-100.md">Floor 100</a>
 * Equipment Data
 	* <a href="list-weapons.md">List of Weapons</a>
 	* **List of Armours**

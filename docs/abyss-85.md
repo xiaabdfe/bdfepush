@@ -17,6 +17,7 @@
 	* **Floor 85**
 	* <a href="abyss-90.md">Floor 90</a>
 	* <a href="abyss-95.md">Floor 95</a>
+	* <a href="abyss-100.md">Floor 100</a>
 * Equipment Data
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
@@ -33,6 +34,7 @@
 * [Overview](#overview)
 * [Pattern/Threshold](#patternthreshold)
 	* [Phase 1](#phase-1)
+	* [Phase 2](#phase-2)
 	* [Phase 3](#phase-3)
 * [Tips](#tips)
 	* [Knight](#knight)
@@ -56,6 +58,7 @@
 * Plays with tiles a lot with doom tiles, reverse tiles, slow tiles.
 
 # Pattern/Threshold
+
 ## Phase 1
 * Starts with forceless / weakness
 * 目覚めの兆し
@@ -80,7 +83,7 @@
 	* Clear other tile effects after gone (until the field effect is recasted)
 * Party attack
 
-Phase 2
+## Phase 2
 * ~770k HP
 * 360s timer
 * Boss cleanses debuffs and dispels party buffs
@@ -139,7 +142,7 @@ Phase 2
 * Blind resistance helps
 
 ## White Mage
-* Seal immunity
+* Seal immunity is good but not necessary if you can time cleanse well
 * If there are two white mages, can discuss beforehand who cleanses and who heals during 不浄の言葉.
 * Otherwise Dark Angel / Fairy books are helpful.
 * Phase 1

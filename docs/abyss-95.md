@@ -17,6 +17,7 @@
 	* <a href="abyss-85.md">Floor 85</a>
 	* <a href="abyss-90.md">Floor 90</a>
 	* **Floor 95**
+	* <a href="abyss-100.md">Floor 100</a>
 * Equipment Data
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
@@ -53,7 +54,6 @@
 * Debuffs: Bind, Waste, Bleed, Blind, Poison, Seal
 
 # Overview
-* (For now it is just a brief summary to let people know what it is like)
 * Battle penalties that get more severe as phase progresses
 * Auto reload increase, special reload increase, Max HP decrease, Max BP decrease
 * Attacks randomly dispels some buffs and cleanses some debuffs
@@ -123,23 +123,30 @@
 	* Same can be applied in other phase transitions. However, for Ranger Phase 3, it is not recommended as you have to be ready to dispel.
 
 # Tips
+* Job Difficulty: Ranger < White Mage < Black Mage < Knight ~ Thief
+
 ## Knight
 * Poison and Waste immunity
 * Bind, Bleed if possible
 * Phalanx 2, 3
+* Auto-buff sword to dilute the buffs from being dispelled and auto-heal for aggro
+* While gear-wise Knight isn't particularly difficult, solo White Mage is not easy
 
 ## Black Mage
 * Blind, Waste, Bleed immunity
-* Demon, New Year 17 and Ancient/Lotus Rods are required
-* High DPS requirement to defeat the boss
+* Aspir and Fastcast are absolutely required
+* Dualcast helps a lot because of reload increase
+* Mdef-ignore multi-hit nukes are highly recommended
 
 ## White Mage
 * Poison, Waste, Bleed immunity
 * Bind if possible
-* Due to reload increase, powerful auto heal is needed for one of the White Mages
-* Typical for one of the White Mages to go mono wind or mono fire (with Coffee Book)
-* Build in a way to maximize Black Mage DPS in quick succession
-* More hastes help
+* Due to reload increase, decent auto heal is recommended for one of the White Mages
+* Auto buff is recommended for one of the White Mages so that important buffs are less likely to be dispelled
+* Reload reduction helps a lot
+* Typical for one of the White Mages to go mono wind or mono fire
+* Try to have as many offensive buffs as you can (depending on DPS)
+* Timing your buffs between phases smoothens the transitions tremendously
 
 ## Thief
 * Blind, Waste, Bleed immunity
@@ -152,11 +159,10 @@
 ## Ranger
 * Bleed, Waste immunity
 * Bind, Poison if possible
-* Weakness 3 build is highly recommended
-* At least Weakness 3, 1, Dispel and Mdef down
+* At least Weakness 3, Dispel and another DPS debuff (depends on the Black Mage)
 * BP cost cut to allow more specials possible during Phase 5
-* For mono water, 3-star Weakness 1 bow is better than 5-star Snowman bow due to low BP cost
 * No need extension since the boss randomly cleanses debuffs now and then
+* Use auto poison (AoE if possible) so that important debuffs are less likely to be cleansed
 
 # Clear videos
 * <img src="https://caelum.s-ul.eu/6ep5gyBy.jpg" width="25" alt="Priest"><img src="https://caelum.s-ul.eu/fNKzRReH.jpg" width="25" alt="Arcanist"><img src="https://caelum.s-ul.eu/KHPaHS9n.jpg" width="25" alt="Sniper"><img src="https://caelum.s-ul.eu/6ep5gyBy.jpg" width="25" alt="Priest"> https://youtu.be/69YzseOSpc4

@@ -17,6 +17,7 @@
 	* <a href="abyss-85.md">Floor 85</a>
 	* <a href="abyss-90.md">Floor 90</a>
 	* <a href="abyss-95.md">Floor 95</a>
+	* <a href="abyss-100.md">Floor 100</a>
 * Equipment Data
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
@@ -63,11 +64,12 @@
 	* The dead sister will be revived with slightly lower HP
 
 # Threshold/Pattern
+
 ## Moves
 * Permanent blind field.
 * Regular attacks
-	* Light: Waste, knockback 1 tile, dispel 1 buff
-	* Shadow: Bind, knockfront 1 tile, dispel 1 buff
+	* Light: Waste, knockback 1 tile, dispel 1(+) buff
+	* Shadow: Bind, knockfront 1 tile, dispel 1(+) buff
 * Whole party attacks
 * Row red tiles (lethal from 130k onwards)
 * 2-row red tiles
@@ -100,23 +102,25 @@ HP | Self | The Other
 * Bind immunity is required for all.
 
 ## Knight
+* Try to have bind and waste immunity.
 * AoE Taunt is required.
 * Self healing specials help for emergency.
 * Job is to stay alive while Rangers extend taunt.
 * Be mindful of their debuff clear timings.
-* Typical to auto buff Pdef/Mdef with Keysword.
-* If enough auto power, auto heal helps.
-* Try to have waste / bleed resistance.
+* Try to see which sister is targetting you when baiting
+	* Between 520,000 and 390,000: bait right below and bait left above to prevent 2-row red tiles from appearing in middle row
+	* After 390,000: bait right above and bait left below to prevent knockback + red tile combo from killing your team-mates
 
 ## Black Mage
+* Bleed immunity, bind too if Knightless.
 * Fastcast and resist buffs help.
 * Either blind immunity or levitate.
 * One of them has lower Mdef
 	* Concentrate 2 without Split like Chocobo/Bleach makes job easier
 	* Alternate ST and AoE to adjust HP
-* Try to have waste / bleed resistance.
 
 ## White Mage
+* Bind immunity, waste/bleed too if knightless.
 * Multi-row special/auto help when you are baiting or others are. 
 * Be mindful of HP timing to reapply buffs. 
 * Be aware of red markers when casting specials. 
@@ -127,41 +131,25 @@ HP | Self | The Other
 * Try to be aware of Ranger's dispel bow reload.
 
 ## Thief
+* Bind immunity if knightless.
 * Blind immunity or 100% aim dagger.
 	* i.e. Twilight or Glitzy
-* Try to have waste / bleed resistance.
 
 ## Ranger
+* Bleed and bind immunity
 * Prioritize Slow and Slowcast.
-* For double rangers, try to have slow 3.
-	* Try to have earth BP/reload for Nether Bull.
-	* Typical mono earth build: 
-		* Nether Bull, Dragon Slayer
-		* Royal (may not be required if partner has Glitzy)
-		* Forceless 2 (Sakura/Euclid/Greed)
-		* 3* Slowcast 1 / Spiritual / Nier / Octopath
-	* Typical non-slow 3 build:
-		* Glitzy (or other dispels)
-		* Nether Bull/Tanabata
-		* Slow 2 (Compass/Quartz/Dragon Slayer)
-		* Twilight (or equivalent)
-		* 3* Slowcast 1 / Forceless 1 / whatever
-* Solo ranger is much more challenging.
- 	* Typical build: 
-		* Glitzy (may need 2 dispels if otherwise)
-		* Slow 2 (Compass/Quartz/Dragon Slayer)
-		* Nether Bull/Tanabata
-		* Twilight (or equivalent)
-		* Phoenix / 3* Slowcast 1 / Forceless 2
- 	* Depends on the set up, need good BP reductions.
-* Briefcase Bow allows single ranger to have both Slow 2 and Slow 3 at once, but probably will not have enough slots without EX bows.
+* Compulsory: Slow 2, Slowcast 2, Dispel (AoE if solo Ranger)
+* Recommended: Stat-down, Debuff Extension, Slow 3
+* Good-to-have: Weakness/Forceless, Slowcast 1
+* Solo ranger needs good reload and BP reductions.
 * Be mindful of HP timing to dispel / reapply debuffs.
 	* Dispel Brave as soon as possible.
-* If there is no DPS, having Mono Wind Set helps immensely to clear faster as well as to easier finish both sisters at the same time
+	* Reapply stat-down first if your team is fragile, otherwise reapply slowcast first
+* If there is no DPS, having Mono Wind Set helps immensely to clear faster as well as to finish both sisters at the same time more easily
 	* Typical mono wind build:
 		* Glitzy, Legend / Twilight, Quartz
 		* Harp / Candy / Limited for extension
-		* Cutlassfish Bow if slot still available
+		* Cutlassfish / Hyakki Bow if slot still available
 
 # Clear videos
 * <img src="https://caelum.s-ul.eu/6ep5gyBy.jpg" width="25" alt="Priest"><img src="https://caelum.s-ul.eu/KHPaHS9n.jpg" width="25" alt="Sniper"><img src="https://caelum.s-ul.eu/KHPaHS9n.jpg" width="25" alt="Sniper"><img src="https://caelum.s-ul.eu/6ep5gyBy.jpg" width="25" alt="Priest"> https://youtu.be/23Zyk5sG494

@@ -17,6 +17,7 @@
 	* <a href="abyss-85.md">Floor 85</a>
 	* <a href="abyss-90.md">Floor 90</a>
 	* <a href="abyss-95.md">Floor 95</a>
+	* <a href="abyss-100.md">Floor 100</a>
 * Equipment Data
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
@@ -113,13 +114,14 @@ Position | Sequence
 ---
 
 # Tips
+
 ## Knight
 * Bait when single red marker is on you.
 * Phalanx when prepared to nuke.
 * Waste and poison resistances help.
 
 ## Black Mage
-* Difficult to stay alive without barrier or resist.
+* Difficult to stay alive without barrier or resist without Knight.
 * Be aware of buff dispels.
 * Waste and poison resistances help.
 * Auto-buff helps to adjust HP in skipping thresholds.

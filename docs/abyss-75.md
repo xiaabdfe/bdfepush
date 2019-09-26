@@ -17,6 +17,7 @@
 	* <a href="abyss-85.md">Floor 85</a>
 	* <a href="abyss-90.md">Floor 90</a>
 	* <a href="abyss-95.md">Floor 95</a>
+	* <a href="abyss-100.md">Floor 100</a>
 * Equipment Data
 	* <a href="list-weapons.md">List of Weapons</a>
 	* <a href="list-armours.md">List of Armours</a>
@@ -114,7 +115,7 @@ It is generally recommended to mix and match elements to prevent heavy damage fr
 	* Attacking specials if possible
 * New Method
 	* Mono wind set for Phalanx 3
-* Prioritize waste and bleed resistance
+* Waste and seal resistance maybe, but not needed
 
 ## Black Mage
 * Fastcast is a must
@@ -123,7 +124,7 @@ It is generally recommended to mix and match elements to prevent heavy damage fr
 * Try to use rods with short reload
 * Best scenario to have all elements on 0 reload after haste
 * Ice Golem Medals
-* Prioritize waste and bleed resistance
+* Bleed immunity and some seal resistance if available
 
 ## White Mage
 * Holy Dragon/FMA, Revive, Boat/Glitzy, Brave 2, BP Book/Brave 1
@@ -152,7 +153,7 @@ It is generally recommended to mix and match elements to prevent heavy damage fr
 	* Dispel (best to be the missing element)
 	* 1 attacking auto for each element
 * New Method
-	* Mono water set for Weakness 3
+	* Mono set for Weakness 3
 * BP cost reduction and reload reduction for extension
 * Don't worry about healing the boss, just keep debuffs up
 * Prioritize waste and seal resistance
