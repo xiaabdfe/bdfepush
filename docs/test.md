@@ -147,7 +147,7 @@ Name | Description
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ghosthouse Book (Halloween 2017) | 2-row Heal + Revive; (-) Quite underwhelming for a mono book, no reason to use this if you have Lotus Book\nTier: B
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ghosthouse Book (Halloween 2017) | 2-row Heal + Revive; (-) Quite underwhelming for a mono book, no reason to use this if you have Lotus Book<br>Tier: B
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Key of Goetia | Heal + Brave 3
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Lotus Book (New Year 2019) | 2-row Heal + Revive + BP Recovery;
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Onmyouji Book | Brave 2 + self Quick 2 + self Proud 1; (~) Attacking book
