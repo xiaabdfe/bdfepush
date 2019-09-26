@@ -19,11 +19,11 @@ The tiering is based on early game value while endgame value is rated separately
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Sword | Phalanx 2 + Cover. (-) Needs 5 legend coins to remove the max BP reduction penalty
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ritual Sword | Phalanx 2 + aggro generation. (-) Short duration
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Sword | Phalanx 2 + Endure. (+) Long duration; (-) Weakness 2 penalty (needs to be cleansed)
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Sword | Phalanx 2 + aggro generation. (+) Auto-heal with powerful aggro generation; (-) Short duration
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Sword | Phalanx 2 + self heal. (+) Mono wind set is the most versatile and the easiest to achieve; (-) Needs 5 legend coins to remove the Weakness 2 penalty
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Chain Sword | Phalanx 2 + Cover; (-) Needs 5 legend coins to remove the max BP reduction penalty
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Ritual Sword | Phalanx 2 + aggro generation; (-) Short duration
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Stardust Sword | Phalanx 2 + Endure; (+) Long duration; (-) Weakness 2 penalty (needs to be cleansed)
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Sword | Phalanx 2 + aggro generation; (+) Auto-heal with powerful aggro generation; (-) Short duration
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Bone Sword | Phalanx 2 + self heal; (+) Mono wind set is the most versatile and the easiest to achieve; (-) Needs 5 legend coins to remove the Weakness 2 penalty
 
 ***
 
@@ -68,7 +68,7 @@ Name | Description
 
 ![Picture](https://caelum.s-ul.eu/flist/8Pj8TyUZ.png)
 * Endgame Value: A
-* Type: Self survival
+* Type: Self Survival
 * HP recovery proportional to max HP (after HP Up buffs). Since Regen 3 requires mono sets, Regen 2 is the one to go.
 
 Name | Description
@@ -85,19 +85,19 @@ Name | Description
 
 ![Picture](https://caelum.s-ul.eu/flist/e2G2YtsM.png)
 * Endgame Value: B
-* Type: Self survival
+* Type: Self Survival
 * Good to combine with Regen, but not as important in endgame partying because White Mages tend to bring party-wide HP Up buffs.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Sword | HP+50% + Dueling 2.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Grace Sword | HP+50%. (-) Needs 5 legend coins to remove full HP condition yet still mediocre
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Xmas Tree Sword | HP+50% + Regen 1. (-) Needs full HP condition to activate HP+50%
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Sabre | HP+100%. (-) Not useable in the first 30s in battle
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Sword | HP+50% + Cleanse + Buff Extend.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Sabre | HP+100%. (-) Not useable in the first 30s in battle
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | HP+100% + self heal. (-) Not useable in the first 30s in battle
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Illusion Sword | HP+50% + Regen 1.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Sword | HP+50% + Dueling 2
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Grace Sword | HP+50%; (-) Needs 5 legend coins to remove full HP condition yet still mediocre
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Xmas Tree Sword | HP+50% + Regen 1; (-) Needs full HP condition to activate HP+50%
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Space Military Sabre | HP+100%; (-) Not useable in the first 30s in battle
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Sword | HP+50% + Cleanse + Buff Extend
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Road of Sabre | HP+100%; (-) Not useable in the first 30s in battle
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Keysword | HP+100% + self heal; (-) Not useable in the first 30s in battle
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Illusion Sword | HP+50% + Regen 1
 
 ***
 
@@ -112,10 +112,10 @@ Name | Description
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Sword | Dueling 2 + HP+50%.
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary Double Megaphone (Sports 2018) | Dueling 2 + self heal + (allies only) Regen 1.
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Sword | Dueling 2.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Ishtar Sword (Valentine's 2018) | Dueling 2.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Phoenix Sword | Dueling 2 + HP+50%
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary Double Megaphone (Sports 2018) | Dueling 2 + self heal + (allies only) Regen 1
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Dragon Slayer Sword | Dueling 2
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Ishtar Sword (Valentine's 2018) | Dueling 2
 
 The following weapons have Dueling 1 on slot effects that stacks with Dueling 2.
 
@@ -125,40 +125,87 @@ The following weapons have Dueling 1 on slot effects that stacks with Dueling 2.
 
 # Endgame Tier
 
+## Mono Sets
+
 ![Picture](https://caelum.s-ul.eu/flist/GKu6DAru.png)
-**mono** 
+* Although support roles do not have to gear elemental to deal damage unlike DPS roles, there are several reasons that they do need to gear mono elemental sets.
+	* Easy on BP and reload.
+	* There are many support weapons that carry very strong effects that only activate when you gear mono elemental sets.
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dango Sword | Phalanx 3 with mono fire set
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Tsubaki Sword | Regen 3 with mono fire set
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Sword | Phalanx 3 with mono water set
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Aladdin Sword | Regen 3 with mono water set
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Heavenly Sabre | Regen 3 with mono earth set
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Golden Sword | Phalanx 3 with mono earth set
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Tuna Sword (Summer 2018) | Phalanx 3 with mono wind set
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Hyakki Sword | Regen 3 with mono wind set
+
+## Phalanx 3
 
 ![Picture](https://caelum.s-ul.eu/flist/EBclJWKi.png)
-**Phalanx 3** with mono elements. Mandatory endgame but difficult to make use for beginners. 
+* Type: Party Support
+* As mentioned above, they are immensely strong and expected of you when you join any party as an endgame Knight (except a few specific contents)
+* Warning: They all only activate with mono elemental sets.
+* Warning: They all come with 30% Max BP penalty each use.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dango Sword | Phalanx 3 with mono fire set. 
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Sword | Phalanx 3 with mono water set. 
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Golden Sword | Phalanx 3 with mono earth set.
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Tuna Sword (Summer 2018) | Phalanx 3 with mono wind set. Auto healing that has amazing aggro generation if built right.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Dango Sword | -
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Sword | -
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Golden Sword | -
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Tuna Sword (Summer 2018) | -
 
 ***
+
+## Buff Extension
 
 ![Picture](https://caelum.s-ul.eu/flist/54QZpbYv.png)
-Swords that **extend own buffs** and **cleansing own debuffs** are a great combination. They are especially good to extend Phalanx 3 that comes with 30% Max BP penalty each use.
+* Type: Self Maintenance
+* Since Knight's strongest buff, Phalanx 3, comes with 30% Max BP penalty each use, it makes your life much easier by extending it instead of trying to reapply throughout the battle.
+* When you have multiple buffs, it is just more convenient to keep extending instead of keeping track of each expiry time.
+* They all
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Crimson Katana | Shorter reload and self healing make it very powerful. 
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Sabre | Mono wind Phalanx 3 is more common.
+<img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Crimson Katana | (+) Short reload; (+) Self heal
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Sword | (+) HP+50%
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Sabre | Mono wind set is the most common
 
 ***
 
-![Picture](https://caelum.s-ul.eu/flist/Wr3C0EJz.png)
-Swords with **healing auto** is extremely important to maintain aggro, especially in content where taunts do not work so well, e.g. Abyss 90 and 95.
+## Healing Auto
+
+![Picture](https://caelum.s-ul.eu/flist/gO2xLZ1Y.png)
+* Type: Party Support + Self Survival
+* Healing auto usually comes with extra aggro generation proportional to healing amount. It is the key in maintaining aggro especially in content where Taunt is not advisable.
+* The healing amount helps own survival to a certain extent.
+* While choices are limited in regular weapons, similar effects can be found in EX Weapon Limited.
+
+Name | Description
+---|---
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Sword | WARNING: Its description does not include the aggro generation mentioned above, so it probably does not work like other healing autos.
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Zeroth Type Sword | -
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Tuna Sword (Summer 2018) | -
 
 ***
+
+## Non-Phalanx Party Support
 
 ![Picture](https://caelum.s-ul.eu/flist/3oGlUlgb.png)
-**Command 2** is very helpful in content that extends reload such as Abyss 95 and 100. Does not work on the caster, however.
+* Command: Usually used in content that extends reload such as Abyss 95 and 100. Warning: It offers nothing to the caster so your buffs may expire faster than your allies without bringing buff extension yourself.
+* Testudo: Unclear how effective it is but protection is protection (probably).
+* Others: They are not usually used but might help when you have extra slots when partying, especially when your party keeps dying before you.
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Sword | -
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Cutting Choco (Valentine's 2019) | -
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary Double Megaphone (Sports 2018) | (Allies only) Regen 1 + Dueling 2 + self heal 
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Sword | Testudo 1 + Phalanx 3; (+) The only row buffing sword in the game
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Sword | Command 2
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Spiritual Sword | (Allies only) Flat 3000 HP Recovery + (Allies only) Flat 3000 HP Up; (-) Needs 5 legend coins to make it useable
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Golden Sword | Testudo 1
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Sword | (Allies only) HP recovery proportional to your max HP (after HP Up buffs)
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Cutting Choco (Valentine's 2019) | Command 2
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Shrimp Sword | Testudo 2 + (Allies only) Regen 2 + Phalanx 1 + self-heal
