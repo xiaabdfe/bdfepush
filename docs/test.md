@@ -1,9 +1,8 @@
 ### Notes
 While I list them by effects, take note of the followings:
-* <img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="20" alt="Legend Coin"> indicates the particular effect is unlocked at skill level 15, i.e. consume 5 legend coins. There will also be a legend coin in the equipment picture.
-* <img src="https://caelum.s-ul.eu/7tZLFGPP.png" width="20" alt="Slot Effect"> indicates the particular effect is a slot effect. The slot number in the equipment picture will appear black.
 * The horizontal order of the equipment pictures is the same as the vertical order of the tables.
-* :o: indicates that among the weapons with the same effect, that weapon is exceptionally recommended compared to the rest.
+* When the particular effect is unlocked at skill level 15, i.e. consume 5 legend coins, there will be a legend coin in the equipment picture.
+* When the particular effect is a slot effect, the slot number in the equipment picture will appear black.
 
 The tiering is based on early game value while endgame value is rated separately for each gear. Endgame Tier lists the gears you will want eventually as you hit the endgame but not beginner-friendly.
 
@@ -172,7 +171,7 @@ Name | Description
 ---|---
 <img src="https://caelum.s-ul.eu/2p740des.png" width="20" alt="Fire"> Crimson Katana | (+) Short reload; (+) Self heal
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Scimeow Sword | (+) HP+50%
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Sabre | Mono wind set is the most common
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Glitzy Sabre | (+) Mono wind set is the most common
 
 ***
 
@@ -201,11 +200,11 @@ Name | Description
 
 Name | Description
 ---|---
-<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary Double Megaphone (Sports 2018) | (Allies only) Regen 1 + Dueling 2 + self heal 
+<img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Legendary Double Megaphone (Sports 2018) | [Allies-only] Regen 1 + Dueling 2 + self heal 
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Antique Sword | Testudo 1 + Phalanx 3; (+) The only row buffing sword in the game
 <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="20" alt="Water"> Detective Sword | Command 2
-<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Spiritual Sword | (Allies only) Flat 3000 HP Recovery + (Allies only) Flat 3000 HP Up; (-) Needs 5 legend coins to make it useable
+<img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Spiritual Sword | [Allies-only] Flat 3000 HP Recovery + [Allies-only] Flat 3000 HP Up; (-) Needs 5 legend coins to make it useable
 <img src="https://caelum.s-ul.eu/hLKNs6KH.png" width="20" alt="Earth"> Golden Sword | Testudo 1
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Sword | (Allies only) HP recovery proportional to your max HP (after HP Up buffs)
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Legend Sword | [Allies-only] HP recovery proportional to your max HP (after HP Up buffs)
 <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Cutting Choco (Valentine's 2019) | Command 2
-<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Shrimp Sword | Testudo 2 + (Allies only) Regen 2 + Phalanx 1 + self-heal
+<img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="20" alt="Wind"> Shrimp Sword | Testudo 2 + [Allies-only] Regen 2 + Phalanx 1 + self-heal
