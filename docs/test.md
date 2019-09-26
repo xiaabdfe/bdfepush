@@ -10,6 +10,7 @@ The tiering is based on early game value while endgame value is rated separately
 # S Tier
 
 ![Picture](https://caelum.s-ul.eu/flist/IijgGH6V.png)
+
 **Phalanx 2** 
 
 * Endgame Value: S
@@ -27,6 +28,7 @@ Name | Description
 ***
 
 ![Picture](https://caelum.s-ul.eu/flist/DZ9I9zQQ.png)
+
 Increasing **Max HP** and **Healing** at the same time boost your survival instantly. In addition, Regen heals more with your Max HP after HP buffs.
 
 Endgame Value: A
