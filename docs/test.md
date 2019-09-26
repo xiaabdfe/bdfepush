@@ -9,9 +9,9 @@ The tiering is based on early game value while endgame value is rated separately
 
 # S Tier
 
-![Picture](https://caelum.s-ul.eu/flist/IijgGH6V.png)
+## Phalanx 2
 
-**Phalanx 2** 
+![Picture](https://caelum.s-ul.eu/flist/IijgGH6V.png)
 
 * Endgame Value: S
 * Type: Party Support
