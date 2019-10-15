@@ -47,9 +47,11 @@
 [Lotus](#-lotus) | [Sergeant Keroro](#-sergeant-keroro) | [Christmas 2018](#-christmas-2018) | [Valentine's 2019](#-valentines-2019)
 [Retro Modern](#-retro-modern) | [Bravely Default Praying Brage](#-bravely-default-praying-brage) | [Danmachi](#-danmachi) | [Dress Up](#-dress-up)
 [Eastern Mystery](#-eastern-mystery) | [Steampunk](#-steampunk) | [Golden](#-golden) | [Wonderland](#-wonderland)
-[Rose](#-rose) | [Detective](#-detective) | [Sangoku](#-sangoku) | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
-[1st Anniversary](#-1st-anniversary) | [One Thousand and One Nights](#-one-thousand-and-one-nights) | \- | [2nd Anniversary](#-2nd-anniversary)
-\- | [Valkyrie Profile](#-valkyrie-profile) | \- | \-
+[Watertop Banquet](#-watertop-banquet) | [Detective](#-detective) | [Sangoku](#-sangoku) | [Seven Seas](#-seven-seas)
+[Al Khamphest](#-al-khamphest) | [One Thousand and One Nights](#-one-thousand-and-one-nights) | \- | [Hyakki Yakou](#-hyakki-yakou)
+[Rose](#-rose) | [Scimeow](#-scimeow) | \- | [Walpurgis](#-walpurgis)
+[1st Anniversary](#-1st-anniversary) | [Valkyrie Profile](#-valkyrie-profile) | \- | [Final Fantasy Brave Exvius](#-final-fantasy-brave-exvius)
+\- | \- | \- | [2nd Anniversary](#-2nd-anniversary)
 
 # Fire Weapons
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Old Fire
@@ -196,7 +198,7 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-13.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">弓椿の仕込み鞄</a><br>Briefcase Camellia Bow
 
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Eastern Mystery
-**Slot: 1**<br>This series is based on Samurai, Onmyouji and Ninja respectively, the traditional/mythical warriors in the past Japan.
+**Slot: 1**
 
 EQ | Names
 :-:|---
@@ -205,6 +207,28 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-14.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-fire-books">封魔の絵巻</a><br>Sealing Scroll
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-14.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">紅結びの苦無</a><br>Crimson-Knot Kunai
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-14.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">鬼の手慰み</a><br>Gambling of the Demon
+
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Watertop Banquet
+**Slot: 2**<br>Al Khampis Festical.
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-15.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-fire-swords">お手製看板</a><br>Handheld Signboard
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-15.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-fire-rods">始まりのスタンドマイク</a><br>First Mic Stand
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-15.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-fire-books">定番のタコ焼き櫟</a><br>Standard Takoyaki Maker
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-15.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers">七色のブラシ</a><br>7-Color Brush
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-15.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows">悪魔のWネックギター</a><br>Demon's Double Neck Guitar
+
+## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Al Khamphest
+**Slot: 3**
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG1-16.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-fire-swords"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM1-16.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-fire-rods"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM1-16.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-fire-books"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF1-16.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-fire-daggers"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG1-16.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-fire-bows"></a>
 
 ## <img src="https://caelum.s-ul.eu/2p740des.png" width="25" alt="Fire"> Rose
 **[LIMITED]**<br>**Slot: 0**<br>Weapon Names: "Passion" *something*<br>More commonly referred as "Rose" due to its iconic appearance and animation.<br>JP Community: 薔薇 *Rose*
@@ -405,6 +429,17 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-16.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-water-books">三願の物語</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-16.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers">三願の双剣</a>
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-16.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows">三願の弓</a>
+
+## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Scimeow
+**Slot: 3**
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG2-17.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-water-swords"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM2-17.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-water-rods"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM2-17.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-water-books"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF2-17.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-water-daggers"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG2-17.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-water-bows"></a>
 
 ## <img src="https://caelum.s-ul.eu/Ei5MWQfu.png" width="25" alt="Water"> Valkyrie Profile
 **[LIMITED]**<br>**Slot: 1**
@@ -739,6 +774,39 @@ EQ | Names
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-14.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-wind-books">インワンダーランド</a><br>In Wonderland
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-14.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">案内人の手袋</a><br>Guide's Gloves
 <img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-14.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">懐中弓時計</a><br>Pocket-watch Bow
+
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Seven Seas
+**Slot: 2**
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-15.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-wind-swords">シュリンプソード</a><br>Shrimp Sword
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-15.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-wind-rods">ドルフィンロッド</a><br>Dolphin Rod
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-15.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-wind-books">海底神秘の物語</a><br>Undersea Mysterious Story
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-15.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">シェルフィッシュダガー</a><br>Shellfish Dagger
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-15.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">荒波の舵弓</a><br>Wheel Bow of Raging Waves
+
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Hyakki Yakou
+**Slot: 3**Halloween 2019 Event Weapons, first series for Refinement weapons.
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-16.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-wind-swords">ヴァルプルギスの魔大鎌</a><br>Walpurgis Magic Scythe
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-16.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-wind-rods">ヴァルプルギスの杖</a><br>Walpurgis Rod
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-16.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-wind-books">魔法の小箱</a><br>Magic Box
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-16.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers">マジックジェム</a><br>Magic Gem
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-16.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows">ヴァルプルギスの弓</a><br>Walpurgis Bow
+
+## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Walpurgis
+**Slot: 4**
+
+EQ | Names
+:-:|---
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/KNG4-17.jpg" width="60" alt="Sword"> | <a href="list-weapons.md#-wind-swords"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/BLM4-17.jpg" width="60" alt="Rod"> | <a href="list-weapons.md#-wind-rods"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/WHM4-17.jpg" width="60" alt="Book"> | <a href="list-weapons.md#-wind-books"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/THF4-17.jpg" width="60" alt="Dagger"> | <a href="list-weapons.md#-wind-daggers"></a>
+<img src="https://raw.githubusercontent.com/caelumff/bdfeguides/master/icons/RNG4-17.jpg" width="60" alt="Bow"> | <a href="list-weapons.md#-wind-bows"></a>
 
 ## <img src="https://caelum.s-ul.eu/d7KNBOoa.png" width="25" alt="Wind"> Final Fantasy Brave Exvius
 **[LIMITED]**<br>**Slot: 1**
